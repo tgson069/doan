@@ -232,80 +232,80 @@
 232,Jony,19,Male,Rural,5,SSC,SSC,Yes,Yes,Father,Yes,Yes,3,Yes,Govt,89,Yes,86,82,80,95,93,Science
 233,Leo,19,Male,Rural,3,SSC,SSC,Yes,Yes,Father,Yes,Yes,5,Yes,Govt,82,Yes,96,94,93,93,96,Science
 234,Purba das,17,Female,Rural,4,SSC,SSC,Yes,Yes,Father,Yes,Yes,5,Yes,Govt,100,Yes,89,92,96,100,100,Science
-235,Siam Al Shahriar,16,Male,Rural,4,SSC,Hons,No,Yes,Father,Yes,Yes,3,No,Semi_Govt,59,Yes,50,48,53,71,62,Arts
+235,Siam Al Shahriar,16,Male,Rural,4,SSC,Honors,No,Yes,Father,Yes,Yes,3,No,Semi_Govt,59,Yes,50,48,53,71,62,Arts
 236,Sume Akter,17,Female,Urban,6,HSC,Masters,No,Yes,Father,No,Yes,5,Yes,Private,65,Yes,75,70,78,77,86,Commerce
-237,Md. Sohag Miah,19,Male,City,5,Diploma,Hons,Yes,Yes,Mother,Yes,Yes,8,Yes,Govt,60,Yes,84,92,83,85,92,Science
+237,Md. Sohag Miah,19,Male,City,5,Diploma,Honors,Yes,Yes,Mother,Yes,Yes,8,Yes,Govt,60,Yes,84,92,83,85,92,Science
 238,Jahedul Islam Refat,18,Male,Rural,4,Under_SSC,Diploma,No,Yes,Mother,Yes,No,7,Yes,Semi_Govt,82,Yes,68,70,71,65,67,Commerce
-239,Md. Sadek Mridha,18,Male,Urban,5,Hons,Hons,No,Yes,Father,Yes,Yes,8,Yes,Private,95,No,92,89,91,90,85,Science
+239,Md. Sadek Mridha,18,Male,Urban,5,Honors,Honors,No,Yes,Father,Yes,Yes,8,Yes,Private,95,No,92,89,91,90,85,Science
 240,Ankan Chandra Biswas,17,Male,City,4,SSC,Masters,No,Yes,Father,No,Yes,5,Yes,Govt,77,Yes,63,67,60,66,71,Arts
 241,Mohin Bhuiyan,18,Male,Rural,6,HSC,Diploma,No,Yes,Mother,No,Yes,5,Yes,Semi_Govt,86,Yes,80,83,81,85,78,Science
 242,Md. Rashdul Alam,18,Male,Urban,5,Masters,Masters,Yes,Yes,Father,Yes,Yes,5,No,Private,93,Yes,85,92,90,83,80,Science
-243,Md. Sahin Mia,16,Male,City,4,Hons,Diploma,No,Yes,Father,Yes,Yes,4,No,Govt,81,Yes,75,70,68,86,65,Commerce
-244,Lamia Akter Joba,17,Female,Rural,6,SSC,Hons,No,Yes,Father,Yes,No,4,Yes,Semi_Govt,69,Yes,55,48,60,62,65,Arts
-245,Sabuj Chandra Das,18,Male,Urban,4,Hons,Masters,No,Yes,Mother,Yes,Yes,8,Yes,Private,90,Yes,82,85,89,80,84,Science
+243,Md. Sahin Mia,16,Male,City,4,Honors,Diploma,No,Yes,Father,Yes,Yes,4,No,Govt,81,Yes,75,70,68,86,65,Commerce
+244,Lamia Akter Joba,17,Female,Rural,6,SSC,Honors,No,Yes,Father,Yes,No,4,Yes,Semi_Govt,69,Yes,55,48,60,62,65,Arts
+245,Sabuj Chandra Das,18,Male,Urban,4,Honors,Masters,No,Yes,Mother,Yes,Yes,8,Yes,Private,90,Yes,82,85,89,80,84,Science
 246,Sadia Akter,17,Female,City,5,SSC,Masters,No,Yes,Mother,Yes,Yes,7,No,Govt,88,No,68,70,72,68,69,Commerce
 247,Md. Payel Mia,17,Male,Rural,5,HSC,Diploma,No,Yes,Mother,No,No,6,Yes,Private,85,Yes,92,91,88,87,90,Science
-248,Md. Midul Hasan Mehedi,17,Male,Urban,4,Diploma,Hons,Yes,No,Father,Yes,Yes,6,Yes,Semi_Govt,75,Yes,60,63,62,61,58,Arts
+248,Md. Midul Hasan Mehedi,17,Male,Urban,4,Diploma,Honors,Yes,No,Father,Yes,Yes,6,Yes,Semi_Govt,75,Yes,60,63,62,61,58,Arts
 249,Taufiqur Rahman Bhuiyan,18,Male,City,5,SSC,HSC,No,Yes,Father,No,Yes,5,Yes,Private,86,Yes,72,71,71,74,76,Commerce
-250,Rafiul Hasan Siam,17,Male,Urban,4,HSC,Hons,No,Yes,Mother,Yes,Yes,4,No,Govt,82,Yes,89,92,91,87,88,Science
-251,Swapan Ahmed Qureshi,19,Male,City,6,Hons,Masters,No,Yes,Father,Yes,Yes,4,No,Private,91,Yes,80,78,75,74,73,Commerce
+250,Rafiul Hasan Siam,17,Male,Urban,4,HSC,Honors,No,Yes,Mother,Yes,Yes,4,No,Govt,82,Yes,89,92,91,87,88,Science
+251,Swapan Ahmed Qureshi,19,Male,City,6,Honors,Masters,No,Yes,Father,Yes,Yes,4,No,Private,91,Yes,80,78,75,74,73,Commerce
 252,Al Amin Miah,18,Male,Urban,5,SSC,Masters,No,Yes,Mother,Yes,Yes,5,Yes,Semi_Govt,73,Yes,67,65,62,64,62,Arts
-253,Kakolee Rani Das,16,Female,City,4,HSC,Hons,No,Yes,Father,No,Yes,5,No,Govt,84,No,85,89,87,82,80,Science
+253,Kakolee Rani Das,16,Female,City,4,HSC,Honors,No,Yes,Father,No,Yes,5,No,Govt,84,No,85,89,87,82,80,Science
 254,Shreekanta Paul,19,Male,Urban,6,Diploma,HSC,No,Yes,Other,Yes,Yes,4,Yes,Private,89,Yes,76,75,80,78,75,Commerce
 255,Nadiur Rahman Nadir,19,Male,City,4,Diploma,HSC,No,Yes,Father,Yes,Yes,5,Yes,Semi_Govt,76,Yes,58,60,59,57,66,Arts
 256,Mst. Liya Akter,18,Female,Urban,5,Diploma,Diploma,Yes,Yes,Mother,No,Yes,3,No,Private,90,No,83,85,87,80,92,Science
 257,Saima Sultana Bithi,19,Female,Rural,5,SSC,Masters,No,Yes,Father,Yes,Yes,5,Yes,Govt,50,Yes,62,64,60,66,65,Commerce
-258,Mahmuda Sultana,18,Female,City,6,HSC,Hons,No,Yes,Other,Yes,Yes,4,Yes,Semi_Govt,88,Yes,91,90,89,87,86,Science
-259,Chayon Kumar Halder,16,Male,Urban,4,Hons,HSC,No,Yes,Mother,No,No,4,No,Private,84,No,78,71,72,74,86,Commerce
+258,Mahmuda Sultana,18,Female,City,6,HSC,Honors,No,Yes,Other,Yes,Yes,4,Yes,Semi_Govt,88,Yes,91,90,89,87,86,Science
+259,Chayon Kumar Halder,16,Male,Urban,4,Honors,HSC,No,Yes,Mother,No,No,4,No,Private,84,No,78,71,72,74,86,Commerce
 260,Sabikunnahar Toma,19,Female,Rural,5,SSC,Masters,No,Yes,Father,Yes,Yes,6,Yes,Govt,52,Yes,69,67,65,63,64,Arts
-261,Hafiza Khanom,19,Female,City,6,Hons,Masters,Yes,Yes,Other,Yes,Yes,6,Yes,Semi_Govt,71,Yes,88,85,83,82,80,Science
+261,Hafiza Khanom,19,Female,City,6,Honors,Masters,Yes,Yes,Other,Yes,Yes,6,Yes,Semi_Govt,71,Yes,88,85,83,82,80,Science
 262,Ashika Mahmuba,16,Female,Urban,5,Diploma,Masters,Yes,Yes,Mother,No,Yes,2,No,Private,65,No,82,85,87,80,83,Science
-263,Koli Khatun,16,Female,Rural,4,HSC,Hons,No,Yes,Father,Yes,No,3,Yes,Govt,57,Yes,70,71,72,86,72,Commerce
+263,Koli Khatun,16,Female,Rural,4,HSC,Honors,No,Yes,Father,Yes,No,3,Yes,Govt,57,Yes,70,71,72,86,72,Commerce
 264,Maymona Akter,19,Female,City,4,HSC,HSC,No,Yes,Mother,Yes,Yes,5,Yes,Semi_Govt,93,Yes,88,84,86,83,85,Science
 265,Nurjahan Akther Mim,16,Female,Urban,5,Under_SSC,Diploma,No,Yes,Father,No,Yes,5,No,Private,87,No,78,71,80,77,79,Science
 266,Mampi Halder,16,Female,Rural,4,SSC,Diploma,No,Yes,Other,Yes,Yes,4,Yes,Govt,85,Yes,71,70,73,69,72,Commerce
-267,Md. Enayet Afza,19,Male,City,6,HSC,Hons,No,Yes,Father,Yes,Yes,4,Yes,Private,90,Yes,83,86,84,85,92,Science
-268,Runa Akter,18,Female,Urban,5,Hons,Hons,No,Yes,Mother,No,No,6,No,Semi_Govt,73,No,65,70,68,66,86,Arts
+267,Md. Enayet Afza,19,Male,City,6,HSC,Honors,No,Yes,Father,Yes,Yes,4,Yes,Private,90,Yes,83,86,84,85,92,Science
+268,Runa Akter,18,Female,Urban,5,Honors,Honors,No,Yes,Mother,No,No,6,No,Semi_Govt,73,No,65,70,68,66,86,Arts
 269,Bithika Bairagi,17,Female,Rural,4,SSC,Masters,No,Yes,Father,Yes,Yes,6,Yes,Private,89,Yes,75,70,71,73,86,Commerce
-270,Akash Mondol,17,Male,City,4,HSC,Hons,No,Yes,Other,Yes,Yes,2,Yes,Govt,91,Yes,87,89,86,88,84,Science
+270,Akash Mondol,17,Male,City,4,HSC,Honors,No,Yes,Other,Yes,Yes,2,Yes,Govt,91,Yes,87,89,86,88,84,Science
 271,Nushrat Jahan,17,Female,Urban,6,Diploma,HSC,No,Yes,Mother,No,Yes,3,No,Private,84,No,73,70,75,72,86,Commerce
-272,Yakub Hossain,17,Male,Rural,5,SSC,Hons,No,Yes,Father,Yes,Yes,5,Yes,Semi_Govt,89,Yes,78,71,73,86,71,Commerce
+272,Yakub Hossain,17,Male,Rural,5,SSC,Honors,No,Yes,Father,Yes,Yes,5,Yes,Semi_Govt,89,Yes,78,71,73,86,71,Commerce
 273,Sharmim Akter Tumpa,15,Female,City,5,HSC,Masters,No,Yes,Mother,Yes,Yes,8,Yes,Govt,77,Yes,65,68,66,86,69,Arts
-274,Shakila Zafor,15,Female,Urban,3,Hons,HSC,No,Yes,Father,No,No,5,No,Private,86,No,85,84,87,82,80,Science
+274,Shakila Zafor,15,Female,Urban,3,Honors,HSC,No,Yes,Father,No,No,5,No,Private,86,No,85,84,87,82,80,Science
 275,Bithi Akter,16,Female,Rural,4,Under_SSC,SSC,No,Yes,Other,Yes,Yes,7,Yes,Semi_Govt,88,Yes,69,70,68,66,86,Commerce
 276,Sumona Aktar,18,Female,City,4,SSC,SSC,No,Yes,Father,Yes,No,8,Yes,Private,90,Yes,78,71,79,77,75,Science
-277,Md. Morsalin,19,Male,Urban,4,HSC,Hons,No,Yes,Mother,No,Yes,6,No,Govt,84,No,68,70,72,69,86,Commerce
-278,Samira Akter,19,Female,Rural,3,Hons,SSC,No,Yes,Father,Yes,Yes,6,Yes,Semi_Govt,92,Yes,89,85,87,86,84,Science
+277,Md. Morsalin,19,Male,Urban,4,HSC,Honors,No,Yes,Mother,No,Yes,6,No,Govt,84,No,68,70,72,69,86,Commerce
+278,Samira Akter,19,Female,Rural,3,Honors,SSC,No,Yes,Father,Yes,Yes,6,Yes,Semi_Govt,92,Yes,89,85,87,86,84,Science
 279,Most. Israt Jahan,18,Female,City,3,SSC,HSC,No,Yes,Other,Yes,Yes,5,Yes,Private,86,Yes,77,72,75,76,78,Commerce
 280,Shahanaj Parvin,10,Female,Urban,4,SSC,Masters,No,Yes,Mother,No,Yes,6,No,Govt,72,No,65,68,64,67,72,Arts
-281,Rabea Akther Shiule,18,Female,Rural,5,Hons,SSC,Yes,No,Father,Yes,Yes,7,Yes,Semi_Govt,90,Yes,84,86,83,82,80,Science
+281,Rabea Akther Shiule,18,Female,Rural,5,Honors,SSC,Yes,No,Father,Yes,Yes,7,Yes,Semi_Govt,90,Yes,84,86,83,82,80,Science
 282,Mitu Akther,16,Female,City,3,Masters,Masters,Yes,Yes,Mother,Yes,Yes,4,Yes,Private,91,Yes,85,92,87,83,92,Science
 283,Akhi Khatun,15,Female,Urban,5,SSC,HSC,No,Yes,Father,No,No,5,No,Govt,87,No,78,71,80,76,78,Science
 284,Urmi Khanom,18,Female,Rural,4,Under_SSC,Diploma,No,Yes,Other,Yes,Yes,6,Yes,Semi_Govt,83,Yes,70,70,68,65,71,Commerce
 285,Ity Das,18,Female,City,6,HSC,HSC,No,Yes,Father,Yes,Yes,6,Yes,Private,90,Yes,68,70,65,68,66,Commerce
 286,Mukta Rani Kor,19,Female,Urban,7,Diploma,Masters,No,Yes,Mother,No,Yes,5,No,Govt,84,No,90,92,89,85,84,Science
 287,Arina Sultana,19,Female,Rural,3,Under_SSC,SSC,No,Yes,Father,Yes,Yes,7,Yes,Semi_Govt,69,Yes,64,67,63,62,71,Arts
-288,Nishi Singha,16,Female,City,4,Diploma,Hons,No,Yes,Mother,Yes,No,6,Yes,Semi_Govt,90,Yes,85,82,83,81,80,Science
+288,Nishi Singha,16,Female,City,4,Diploma,Honors,No,Yes,Mother,Yes,No,6,Yes,Semi_Govt,90,Yes,85,82,83,81,80,Science
 289,Samsun Nahar Nela,19,Female,Urban,5,SSC,Diploma,No,Yes,Father,No,No,8,No,Private,88,No,78,82,79,75,76,Commerce
 290,Rojjena,18,Female,Rural,6,SSC,SSC,No,Yes,Other,Yes,Yes,6,Yes,Govt,67,Yes,67,68,69,65,62,Arts
 291,Addore Bawess,16,Male,City,4,HSC,HSC,Yes,No,Father,Yes,Yes,5,Yes,Private,88,Yes,88,85,83,80,92,Science
-292,Bonay Rani Baido,17,Female,City,5,Hons,Diploma,Yes,Yes,Mother,No,Yes,4,No,Semi_Govt,76,No,60,48,58,65,66,Arts
+292,Bonay Rani Baido,17,Female,City,5,Honors,Diploma,Yes,Yes,Mother,No,Yes,4,No,Semi_Govt,76,No,60,48,58,65,66,Arts
 293,Shahriar Hossain Badhon,15,Male,Rural,6,SSC,Diploma,No,Yes,Father,Yes,Yes,3,Yes,Private,82,Yes,80,75,85,81,92,Science
 294,Tanu Ghosh,18,Male,Urban,3,HSC,HSC,No,Yes,Mother,Yes,Yes,2,Yes,Govt,94,Yes,90,89,88,85,86,Science
 295,Mst. Afrin Akter Shimu,17,Female,City,5,Diploma,Masters,Yes,Yes,Father,No,Yes,3,No,Semi_Govt,73,No,50,48,53,71,62,Arts
 296,Samira Jahan,18,Male,Rural,4,HSC,Diploma,No,Yes,Other,Yes,Yes,2,Yes,Private,81,Yes,75,70,78,77,86,Commerce
-297,Rakin Toki Ahamed Shakil,17,Male,Urban,8,Hons,Hons,No,Yes,Father,Yes,Yes,4,Yes,Govt,92,Yes,84,92,83,85,92,Science
+297,Rakin Toki Ahamed Shakil,17,Male,Urban,8,Honors,Honors,No,Yes,Father,Yes,Yes,4,Yes,Govt,92,Yes,84,92,83,85,92,Science
 298,S. M. Mushfiqur Rahman,15,Male,Urban,4,HSC,SSC,Yes,No,Mother,No,No,5,No,Semi_Govt,86,No,68,70,71,65,67,Commerce
 299,Saiful Islam,16,Male,Rural,5,Under_SSC,HSC,No,Yes,Father,Yes,Yes,6,Yes,Private,90,Yes,92,89,91,90,85,Science
 300,Shafrina Tuz Zannat,17,Female,City,6,Diploma,Masters,No,Yes,Mother,Yes,Yes,5,Yes,Govt,45,Yes,63,67,60,66,71,Arts
 301,Tazrin Tuba Jasi,15,Female,Urban,5,SSC,SSC,No,Yes,Father,No,Yes,4,No,Semi_Govt,88,No,80,83,81,85,78,Science
 302,Mobashshira Islam Mithee,16,Female,Urban,6,SSC,Diploma,No,Yes,Mother,Yes,Yes,8,Yes,Private,87,Yes,85,92,90,83,80,Science
 303,Abid Asif,17,Male,Rural,4,HSC,HSC,No,Yes,Father,No,Yes,6,No,Govt,52,No,75,70,68,86,65,Commerce
-304,Rahat Ara Riya,18,Female,Urban,5,Hons,Diploma,No,Yes,Other,Yes,No,5,Yes,Semi_Govt,56,Yes,55,48,60,62,65,Arts
+304,Rahat Ara Riya,18,Female,Urban,5,Honors,Diploma,No,Yes,Other,Yes,No,5,Yes,Semi_Govt,56,Yes,55,48,60,62,65,Arts
 305,Shaan Sadia,18,Female,Urban,6,SSC,HSC,No,Yes,Father,Yes,Yes,2,Yes,Semi_Govt,65,Yes,82,85,89,80,84,Science
 306,Mst. Umme Kulsum,19,Female,Rural,3,HSC,Masters,No,Yes,Mother,Yes,Yes,2,Yes,Private,57,Yes,68,70,72,68,69,Commerce
-307,Nahida Afroj Disha,16,Female,Rural,4,Hons,SSC,No,Yes,Father,No,No,1,No,Govt,93,No,92,91,88,87,90,Science
-308,Jannatul Mawa Asha,19,Female,Urban,5,SSC,Hons,No,Yes,Mother,Yes,Yes,6,Yes,Semi_Govt,74,Yes,60,63,62,61,58,Arts
+307,Nahida Afroj Disha,16,Female,Rural,4,Honors,SSC,No,Yes,Father,No,No,1,No,Govt,93,No,92,91,88,87,90,Science
+308,Jannatul Mawa Asha,19,Female,Urban,5,SSC,Honors,No,Yes,Mother,Yes,Yes,6,Yes,Semi_Govt,74,Yes,60,63,62,61,58,Arts
 309,Mst. Tania Khatun,18,Female,Rural,5,HSC,Diploma,No,Yes,Other,No,Yes,6,No,Semi_Govt,85,No,72,71,71,74,76,Commerce
 310,Md. Mahfuzur Rahman,16,Male,City,5,Diploma,SSC,Yes,Yes,Father,Yes,Yes,2,Yes,Govt,90,Yes,89,92,91,87,88,Science
 311,Mehedi Hasan Prince,17,Male,Urban,6,Non_Educated,Under_SSC,Yes,Yes,Mother,Yes,Yes,3,Yes,Private,83,Yes,80,78,75,74,73,Commerce
@@ -313,60 +313,60 @@
 313,Junnur Binte Amin,17,Female,City,5,SSC,Diploma,No,Yes,Other,Yes,Yes,8,Yes,Private,91,Yes,85,89,87,82,80,Science
 314,Alik Hajong Tutul,18,Male,Urban,5,SSC,HSC,No,Yes,Mother,Yes,Yes,7,Yes,Govt,84,Yes,76,75,80,78,75,Commerce
 315,Md.Fouad Hasan,15,Male,Rural,6,HSC,Masters,No,Yes,Father,No,Yes,8,No,Semi_Govt,69,No,58,60,59,57,66,Arts
-316,Tanjid Ahsan Riad,18,Male,City,5,Hons,Masters,No,Yes,Other,Yes,Yes,5,Yes,Private,90,Yes,83,85,87,80,92,Science
+316,Tanjid Ahsan Riad,18,Male,City,5,Honors,Masters,No,Yes,Other,Yes,Yes,5,Yes,Private,90,Yes,83,85,87,80,92,Science
 317,Md. Nishad Alam,15,Male,Urban,4,Diploma,Diploma,No,Yes,Father,Yes,Yes,5,Yes,Govt,83,Yes,62,64,60,66,65,Commerce
-318,Toukir Ahmed,18,Male,Rural,4,Hons,Hons,No,Yes,Mother,No,Yes,5,No,Semi_Govt,91,No,91,90,89,87,86,Science
+318,Toukir Ahmed,18,Male,Rural,4,Honors,Honors,No,Yes,Mother,No,Yes,5,No,Semi_Govt,91,No,91,90,89,87,86,Science
 319,Maria Hamid Mamo,16,Female,City,5,SSC,HSC,No,No,Father,Yes,No,4,Yes,Private,87,Yes,78,71,72,74,86,Commerce
-320,Mehedi Hasan Masum,16,Male,Urban,4,HSC,Hons,No,Yes,Mother,Yes,Yes,4,Yes,Govt,74,Yes,69,67,65,63,64,Arts
-321,Mst. Tamima Tabassum,17,Female,Rural,3,Hons,Masters,No,Yes,Other,No,Yes,6,No,Semi_Govt,92,No,88,85,83,82,80,Science
+320,Mehedi Hasan Masum,16,Male,Urban,4,HSC,Honors,No,Yes,Mother,Yes,Yes,4,Yes,Govt,74,Yes,69,67,65,63,64,Arts
+321,Mst. Tamima Tabassum,17,Female,Rural,3,Honors,Masters,No,Yes,Other,No,Yes,6,No,Semi_Govt,92,No,88,85,83,82,80,Science
 322,Mst. Sadia Saharin,16,Female,City,3,SSC,Masters,No,Yes,Father,Yes,Yes,6,Yes,Private,92,Yes,75,85,82,86,86,Science
-323,Mst. Moniratul Jannati Mou,18,Female,Urban,7,HSC,Hons,No,Yes,Mother,Yes,Yes,3,Yes,Govt,89,Yes,75,74,72,72,80,Science
+323,Mst. Moniratul Jannati Mou,18,Female,Urban,7,HSC,Honors,No,Yes,Mother,Yes,Yes,3,Yes,Govt,89,Yes,75,74,72,72,80,Science
 324,Mst. Afia Ismat,18,Female,Rural,3,Diploma,Masters,Yes,Yes,Father,No,No,6,No,Private,87,No,80,82,89,75,54,Commerce
 325,Taiba Tabassum Tisha,19,Female,City,5,SSC,HSC,No,Yes,Other,Yes,Yes,7,Yes,Semi_Govt,50,Yes,85,82,78,71,55,Commerce
 326,Sadiya Islam,18,Female,Urban,6,Diploma,Diploma,Yes,Yes,Mother,Yes,Yes,8,Yes,Private,75,Yes,88,95,93,75,58,Commerce
-327,Hafsa Binte Farhad,17,Female,Rural,5,Hons,Masters,No,Yes,Father,Yes,Yes,5,Yes,Govt,69,Yes,55,62,65,76,54,Arts
-328,Jocita Sanjana Jace,16,Female,City,4,Hons,Hons,No,Yes,Mother,Yes,Yes,5,Yes,Private,52,No,60,60,70,80,66,Commerce
-329,Ariful Haque Afif,18,Male,Urban,4,Hons,Diploma,No,Yes,Father,No,Yes,6,No,Semi_Govt,56,No,65,70,65,77,87,Commerce
+327,Hafsa Binte Farhad,17,Female,Rural,5,Honors,Masters,No,Yes,Father,Yes,Yes,5,Yes,Govt,69,Yes,55,62,65,76,54,Arts
+328,Jocita Sanjana Jace,16,Female,City,4,Honors,Honors,No,Yes,Mother,Yes,Yes,5,Yes,Private,52,No,60,60,70,80,66,Commerce
+329,Ariful Haque Afif,18,Male,Urban,4,Honors,Diploma,No,Yes,Father,No,Yes,6,No,Semi_Govt,56,No,65,70,65,77,87,Commerce
 330,Tarifa Islam Maria,18,Female,Rural,5,Under_SSC,SSC,No,Yes,Mother,Yes,Yes,4,Yes,Govt,50,Yes,62,52,62,79,80,Commerce
-331,Mumtahina Akter,17,Female,City,3,SSC,Hons,No,Yes,Father,Yes,No,2,No,Private,82,Yes,58,48,87,82,75,Science
+331,Mumtahina Akter,17,Female,City,3,SSC,Honors,No,Yes,Father,Yes,No,2,No,Private,82,Yes,58,48,87,82,75,Science
 332,Marzia Akter Muna,19,Female,Rural,5,SSC,SSC,No,Yes,Mother,Yes,No,3,Yes,Semi_Govt,59,Yes,75,74,54,81,74,Commerce
-333,Mst. Nishat Tasnim Mimma,19,Female,City,4,HSC,Hons,No,Yes,Father,No,Yes,2,No,Semi_Govt,58,No,74,80,55,65,76,Arts
+333,Mst. Nishat Tasnim Mimma,19,Female,City,4,HSC,Honors,No,Yes,Father,No,Yes,2,No,Semi_Govt,58,No,74,80,55,65,76,Arts
 334,Md. Saif Khan,17,Male,Urban,6,HSC,HSC,No,Yes,Mother,Yes,Yes,4,Yes,Govt,59,Yes,71,56,58,68,72,Arts
-335,Mst. Sangida,18,Female,Rural,7,Hons,Masters,Yes,Yes,Father,No,Yes,5,No,Semi_Govt,88,No,76,69,78,71,81,Science
+335,Mst. Sangida,18,Female,Rural,7,Honors,Masters,Yes,Yes,Father,No,Yes,5,No,Semi_Govt,88,No,76,69,78,71,81,Science
 336,Taskia Khatun,15,Female,City,3,SSC,SSC,No,Yes,Other,Yes,Yes,6,Yes,Private,72,Yes,73,70,87,65,54,Commerce
-337,Sakib Mia,16,Male,Urban,4,HSC,Hons,No,Yes,Father,Yes,Yes,5,No,Govt,67,Yes,69,70,81,68,66,Commerce
+337,Sakib Mia,16,Male,Urban,4,HSC,Honors,No,Yes,Father,Yes,Yes,5,No,Govt,67,Yes,69,70,81,68,66,Commerce
 338,Moumita Chakraborty,18,Female,Rural,5,Under_SSC,Under_SSC,Yes,Yes,Mother,No,No,4,No,Semi_Govt,62,No,64,45,71,63,71,Commerce
 339,Md. Shah Poran,17,Male,City,6,SSC,SSC,Yes,Yes,Father,Yes,No,8,Yes,Private,45,Yes,78,80,72,62,62,Commerce
 340,Jannatul Ferdous Meem,15,Female,Urban,4,HSC,SSC,No,Yes,Mother,Yes,Yes,6,Yes,Govt,52,Yes,80,82,45,75,65,Arts
-341,Anika Tabassum Ekra,15,Female,City,5,Hons,Hons,Yes,Yes,Father,No,Yes,5,No,Semi_Govt,53,No,82,71,76,76,72,Commerce
+341,Anika Tabassum Ekra,15,Female,City,5,Honors,Honors,Yes,Yes,Father,No,Yes,5,No,Semi_Govt,53,No,82,71,76,76,72,Commerce
 342,Murshida Khatun,15,Female,Urban,6,SSC,HSC,No,Yes,Mother,Yes,Yes,2,Yes,Semi_Govt,47,Yes,48,68,52,42,74,Arts
-343,Sadia Islam Samia,17,Female,Rural,3,HSC,Hons,No,Yes,Father,Yes,Yes,2,No,Govt,59,Yes,50,50,64,65,75,Commerce
+343,Sadia Islam Samia,17,Female,Rural,3,HSC,Honors,No,Yes,Father,Yes,Yes,2,No,Govt,59,Yes,50,50,64,65,75,Commerce
 344,Afsana Rubaiyat,18,Female,City,5,Diploma,Diploma,No,Yes,Mother,No,No,1,No,Semi_Govt,56,No,52,67,68,45,72,Arts
 345,Jannatul Nayeem Jhuma,18,Female,Rural,4,Under_SSC,SSC,No,Yes,Father,Yes,Yes,6,Yes,Semi_Govt,64,Yes,53,52,60,58,71,Commerce
 346,Fahmid Ur Rahman Wafi,18,Male,City,8,Diploma,HSC,No,Yes,Other,Yes,Yes,6,Yes,Private,83,Yes,80,78,76,85,65,Science
 347,Jerin Tasnim Proma,19,Female,Urban,4,SSC,HSC,No,Yes,Father,No,Yes,2,No,Govt,72,No,85,84,74,75,72,Commerce
 348,Md. Samin Yasar,18,Male,Rural,5,HSC,Masters,No,Yes,Mother,Yes,Yes,3,Yes,Govt,74,Yes,84,73,67,47,69,Commerce
 349,Md. Khalid Ibn Samad Miraz,16,Male,City,6,SSC,Diploma,No,Yes,Father,Yes,Yes,5,No,Govt,84,Yes,71,78,75,78,84,Science
-350,Aysharaja Datta Barna,18,Female,City,5,Diploma,Hons,No,No,Mother,No,No,8,No,Govt,85,No,78,80,65,90,92,Science
+350,Aysharaja Datta Barna,18,Female,City,5,Diploma,Honors,No,No,Mother,No,No,8,No,Govt,85,No,78,80,65,90,92,Science
 351,Samia Islam,19,Female,City,6,SSC,Masters,No,Yes,Father,Yes,Yes,7,Yes,Govt,77,Yes,90,92,80,65,75,Science
 352,Md.Sagor Islam,16,Male,City,5,HSC,HSC,No,No,Father,Yes,No,8,Yes,Govt,64,Yes,65,70,50,66,86,Commerce
 353,Md. Sumon Mia,19,Male,Urban,4,SSC,Diploma,No,Yes,Mother,No,Yes,4,No,Govt,52,No,65,65,52,63,71,Arts
 354,Md. Auntor Khan,15,Male,City,4,SSC,HSC,No,Yes,Father,Yes,Yes,4,Yes,Govt,73,Yes,92,82,82,77,71,Science
 355,Nusrat Jarin,16,Female,City,5,HSC,HSC,No,Yes,Mother,Yes,Yes,6,No,Govt,54,Yes,88,70,69,76,62,Commerce
-356,Most. Ayesha Siddika,17,Female,Urban,4,Hons,Diploma,No,Yes,Father,No,Yes,6,Yes,Govt,75,No,56,65,65,74,72,Commerce
+356,Most. Ayesha Siddika,17,Female,Urban,4,Honors,Diploma,No,Yes,Father,No,Yes,6,Yes,Govt,75,No,56,65,65,74,72,Commerce
 357,Mushfika Rahman Mariya,16,Female,Urban,3,SSC,SSC,No,Yes,Mother,Yes,Yes,2,Yes,Govt,84,Yes,64,82,66,71,65,Commerce
 358,Mollah Riaz Mahmud,15,Male,City,3,HSC,SSC,Yes,Yes,Father,Yes,Yes,3,No,Govt,82,No,77,90,52,72,76,Commerce
 359,Tasnia Tabassum Oritri,17,Female,City,7,Diploma,Masters,No,Yes,Mother,No,Yes,5,Yes,Govt,84,Yes,82,77,84,65,72,Science
 360,Md. Mahmudul Hasan,15,Male,Urban,3,Diploma,Diploma,No,No,Father,Yes,Yes,8,Yes,Govt,73,Yes,78,64,74,56,45,Arts
 361,Md. Sifat Sharif,15,Male,Urban,5,SSC,Diploma,No,Yes,Mother,No,No,7,No,Govt,39,No,45,48,60,69,52,Arts
 362,Sumite Das Shatu,18,Female,Urban,6,HSC,Masters,No,Yes,Father,Yes,Yes,8,Yes,Govt,45,Yes,56,48,42,80,84,Commerce
-363,Rashadul Islam,18,Male,City,5,SSC,Hons,No,Yes,Mother,No,Yes,5,No,Govt,60,Yes,65,50,58,54,78,Arts
+363,Rashadul Islam,18,Male,City,5,SSC,Honors,No,Yes,Mother,No,Yes,5,No,Govt,60,Yes,65,50,58,54,78,Arts
 364,Sotorupa Adhikari Keya,19,Female,City,4,HSC,Diploma,No,Yes,Father,Yes,Yes,5,Yes,Govt,40,No,52,48,48,56,76,Arts
-365,Md. Toufik Hassan,16,Male,Urban,4,Hons,Hons,No,Yes,Mother,No,Yes,5,No,Govt,52,Yes,40,65,66,86,73,Commerce
+365,Md. Toufik Hassan,16,Male,Urban,4,Honors,Honors,No,Yes,Mother,No,Yes,5,No,Govt,52,Yes,40,65,66,86,73,Commerce
 366,Md. Firoz Hasan,19,Male,Rural,5,Under_SSC,Under_SSC,No,Yes,Father,Yes,Yes,4,Yes,Govt,53,Yes,42,62,51,75,72,Commerce
 367,Tanjin Amin,16,Female,Rural,5,SSC,SSC,No,Yes,Mother,No,Yes,4,No,Govt,52,No,54,65,52,65,92,Commerce
-368,Umme Habiba Faria,18,Female,City,6,SSC,Hons,No,Yes,Father,Yes,No,6,Yes,Govt,59,Yes,85,82,58,62,49,Arts
-369,Tapu Chandra Singh,18,Male,Rural,5,Hons,HSC,No,Yes,Mother,No,Yes,6,Yes,Govt,56,Yes,45,74,62,63,50,Commerce
+368,Umme Habiba Faria,18,Female,City,6,SSC,Honors,No,Yes,Father,Yes,No,6,Yes,Govt,59,Yes,85,82,58,62,49,Arts
+369,Tapu Chandra Singh,18,Male,Rural,5,Honors,HSC,No,Yes,Mother,No,Yes,6,Yes,Govt,56,Yes,45,74,62,63,50,Commerce
 370,Md. Ariful Islam,19,Male,Urban,4,HSC,Masters,No,Yes,Father,Yes,No,3,No,Govt,67,No,65,72,70,74,52,Commerce
 371,Md. Fahim,19,Male,City,3,SSC,Diploma,No,Yes,Mother,Yes,No,6,Yes,Govt,68,Yes,54,48,72,78,64,Commerce
 372,Most. Jame Khatun,19,Female,Urban,6,Under_SSC,Non_Educated,No,Yes,Father,Yes,Yes,7,No,Govt,85,Yes,88,92,85,78,80,Science
@@ -375,64 +375,64 @@
 375,Rakib Sarkar,16,Male,Rural,5,HSC,Masters,No,Yes,Mother,Yes,Yes,5,Yes,Govt,85,Yes,75,85,82,86,86,Science
 376,Md. Salim Reza Shanto,16,Male,City,4,SSC,Diploma,Yes,Yes,Father,No,No,6,Yes,Govt,77,Yes,75,74,72,72,80,Science
 377,Mst. Borna Sarkar,15,Female,City,5,HSC,SSC,No,Yes,Father,Yes,Yes,4,Yes,Govt,64,Yes,80,82,89,75,54,Commerce
-378,Afruz Dilruba Arshy,18,Female,Urban,4,Hons,Masters,No,Yes,Mother,No,Yes,1,Yes,Govt,64,Yes,85,82,78,71,55,Commerce
+378,Afruz Dilruba Arshy,18,Female,Urban,4,Honors,Masters,No,Yes,Mother,No,Yes,1,Yes,Govt,64,Yes,85,82,78,71,55,Commerce
 379,Sharna Rani Bhawal,18,Female,Rural,3,HSC,HSC,Yes,No,Father,Yes,No,6,Yes,Govt,72,Yes,88,95,93,75,58,Commerce
-380,Sadia Amin,18,Female,City,3,Hons,Diploma,Yes,Yes,Father,Yes,Yes,6,Yes,Govt,67,Yes,55,62,65,76,54,Arts
+380,Sadia Amin,18,Female,City,3,Honors,Diploma,Yes,Yes,Father,Yes,Yes,6,Yes,Govt,67,Yes,55,62,65,76,54,Arts
 381,Md. Ashikuzzaman,19,Male,Urban,3,Under_SSC,HSC,No,Yes,Father,Yes,Yes,2,Yes,Govt,67,Yes,60,60,70,80,66,Commerce
 382,Md. Golam Saklayen Anas,19,Male,Rural,5,SSC,HSC,No,Yes,Mother,Yes,No,3,No,Govt,62,Yes,65,70,65,77,87,Commerce
 383,Sujan Kumar,15,Male,City,3,HSC,Diploma,No,Yes,Father,Yes,Yes,5,No,Govt,45,Yes,62,52,62,79,80,Commerce
 384,Jannatul Minha,17,Female,Urban,5,HSC,SSC,No,Yes,Other,No,Yes,8,Yes,Govt,67,Yes,58,48,87,82,75,Science
 385,Jannatul Ferdous Juma,15,Female,Rural,4,Masters,SSC,Yes,Yes,Father,No,No,7,Yes,Govt,53,Yes,75,74,54,81,74,Commerce
-386,Md. Iklach Pk,16,Male,City,3,Hons,Masters,No,Yes,Father,Yes,Yes,8,Yes,Govt,47,No,74,80,55,65,76,Arts
-387,Towfiq Ahmed Chowdhury,16,Male,Urban,4,Hons,HSC,Yes,No,Father,Yes,Yes,4,No,Govt,59,Yes,71,56,58,68,72,Arts
-388,Sumaiya Akhter,17,Female,City,5,Diploma,Hons,No,Yes,Father,Yes,No,4,Yes,Govt,71,Yes,76,69,78,71,81,Science
+386,Md. Iklach Pk,16,Male,City,3,Honors,Masters,No,Yes,Father,Yes,Yes,8,Yes,Govt,47,No,74,80,55,65,76,Arts
+387,Towfiq Ahmed Chowdhury,16,Male,Urban,4,Honors,HSC,Yes,No,Father,Yes,Yes,4,No,Govt,59,Yes,71,56,58,68,72,Arts
+388,Sumaiya Akhter,17,Female,City,5,Diploma,Honors,No,Yes,Father,Yes,No,4,Yes,Govt,71,Yes,76,69,78,71,81,Science
 389,Sanjida Jahan Sadia,18,Female,Urban,3,Diploma,HSC,No,Yes,Father,Yes,Yes,6,Yes,Govt,67,No,73,70,87,65,54,Commerce
-390,Sanzida Akther Anonto,19,Female,Rural,3,Hons,Masters,No,Yes,Father,Yes,Yes,6,Yes,Govt,65,No,69,70,81,68,66,Commerce
-391,Arpita Ghosh,17,Female,City,5,Hons,Hons,No,Yes,Mother,Yes,No,2,Yes,Govt,72,Yes,64,45,71,63,71,Commerce
+390,Sanzida Akther Anonto,19,Female,Rural,3,Honors,Masters,No,Yes,Father,Yes,Yes,6,Yes,Govt,65,No,69,70,81,68,66,Commerce
+391,Arpita Ghosh,17,Female,City,5,Honors,Honors,No,Yes,Mother,Yes,No,2,Yes,Govt,72,Yes,64,45,71,63,71,Commerce
 392,Rubaya Maksura,18,Female,Rural,3,HSC,HSC,No,Yes,Father,No,Yes,3,No,Govt,74,Yes,78,80,72,62,62,Commerce
 393,Tahera Afroza,19,Female,City,4,SSC,Masters,No,Yes,Mother,No,Yes,5,Yes,Govt,71,Yes,80,82,45,75,65,Arts
 394,Mosarrat Jahan Nuha,15,Female,Rural,4,Diploma,Diploma,No,Yes,Father,Yes,No,8,Yes,Govt,64,Yes,82,71,76,76,72,Commerce
-395,Bristy Rani Sarker,18,Female,Urban,3,SSC,Hons,No,Yes,Father,Yes,Yes,7,Yes,Govt,68,Yes,48,68,52,42,74,Arts
+395,Bristy Rani Sarker,18,Female,Urban,3,SSC,Honors,No,Yes,Father,Yes,Yes,7,Yes,Govt,68,Yes,48,68,52,42,74,Arts
 396,Ishrat Jahan Nishat,15,Female,City,3,HSC,SSC,No,Yes,Father,Yes,Yes,8,Yes,Govt,72,Yes,50,50,64,65,75,Commerce
 397,Masuma Binta Maria,15,Female,Rural,4,SSC,SSC,No,Yes,Father,Yes,No,2,No,Govt,67,Yes,52,67,68,45,72,Arts
-398,Md. Juwel Rana,18,Male,Urban,5,HSC,Hons,No,No,Father,Yes,Yes,3,No,Govt,81,Yes,53,52,60,58,71,Commerce
-399,Rabeya Bosri,19,Female,City,6,Hons,HSC,No,No,Father,Yes,Yes,2,Yes,Govt,85,No,80,78,76,85,65,Science
+398,Md. Juwel Rana,18,Male,Urban,5,HSC,Honors,No,No,Father,Yes,Yes,3,No,Govt,81,Yes,53,52,60,58,71,Commerce
+399,Rabeya Bosri,19,Female,City,6,Honors,HSC,No,No,Father,Yes,Yes,2,Yes,Govt,85,No,80,78,76,85,65,Science
 400,Most. Murshida Jahan Mitu,17,Female,Rural,3,Under_SSC,SSC,No,Yes,Father,Yes,No,4,Yes,Govt,62,Yes,85,84,74,75,72,Commerce
-401,Rakib Rahman Ruddra,16,Male,Urban,4,Hons,Diploma,No,Yes,Father,Yes,Yes,5,Yes,Govt,64,Yes,84,73,67,47,69,Commerce
-402,Faiza Tasnim Nudar,19,Female,City,5,Hons,Masters,No,Yes,Father,Yes,Yes,6,No,Govt,76,Yes,71,78,75,78,84,Science
+401,Rakib Rahman Ruddra,16,Male,Urban,4,Honors,Diploma,No,Yes,Father,Yes,Yes,5,Yes,Govt,64,Yes,84,73,67,47,69,Commerce
+402,Faiza Tasnim Nudar,19,Female,City,5,Honors,Masters,No,Yes,Father,Yes,Yes,6,No,Govt,76,Yes,71,78,75,78,84,Science
 403,Mafrin Zannat Mila,16,Female,Rural,6,Non_Educated,Under_SSC,No,No,Father,Yes,No,5,Yes,Govt,88,Yes,78,80,65,90,92,Science
 404,Shreya Basak,18,Female,Urban,4,Diploma,Diploma,Yes,Yes,Father,Yes,Yes,4,Yes,Govt,85,Yes,90,92,80,65,75,Science
 405,Parmita Saha Setu,18,Female,City,5,SSC,Masters,No,Yes,Father,Yes,Yes,8,Yes,Govt,67,Yes,65,70,50,66,86,Commerce
 406,Nayeema Ferdousi,19,Female,Urban,3,HSC,Diploma,No,Yes,Mother,Yes,No,6,Yes,Govt,60,Yes,65,65,52,63,71,Arts
 407,Prodipto Paul,18,Male,City,3,SSC,SSC,No,Yes,Father,No,Yes,5,No,Govt,55,Yes,92,82,82,77,71,Science
 408,Md. Ayewob Hasan,19,Male,Urban,3,HSC,Masters,Yes,Yes,Mother,Yes,Yes,2,No,Govt,52,Yes,88,70,69,76,62,Commerce
-409,Bakhtiar Khan,16,Male,City,5,Hons,Hons,No,Yes,Father,Yes,No,2,No,Govt,53,Yes,56,65,65,74,72,Commerce
+409,Bakhtiar Khan,16,Male,City,5,Honors,Honors,No,Yes,Father,Yes,No,2,No,Govt,53,Yes,56,65,65,74,72,Commerce
 410,Nirupa Paul,18,Female,Urban,3,SSC,Diploma,No,Yes,Mother,Yes,Yes,1,No,Govt,86,Yes,64,82,66,71,65,Commerce
 411,Orpita Banik,15,Female,Rural,5,HSC,HSC,No,Yes,Other,Yes,Yes,5,Yes,Govt,87,Yes,77,90,52,72,76,Commerce
-412,Masoma Akter,18,Female,City,3,HSC,Hons,No,Yes,Father,No,No,5,Yes,Govt,60,Yes,82,77,84,65,72,Science
+412,Masoma Akter,18,Female,City,3,HSC,Honors,No,Yes,Father,No,No,5,Yes,Govt,60,Yes,82,77,84,65,72,Science
 413,Kasfia Islam,19,Female,Urban,4,Non_Educated,Under_SSC,No,No,Father,Yes,Yes,4,No,Govt,70,Yes,78,64,74,56,45,Arts
 414,Arpo Chakraborti,16,Female,Rural,4,Diploma,HSC,No,Yes,Father,Yes,Yes,4,No,Govt,69,Yes,45,48,60,69,52,Arts
 415,Mst. Rima Khatun,18,Female,City,4,SSC,HSC,No,Yes,Father,Yes,No,6,Yes,Govt,52,Yes,56,48,42,80,84,Commerce
 416,Tahmina Begum,19,Female,Urban,3,HSC,Masters,No,Yes,Mother,Yes,Yes,6,Yes,Govt,56,Yes,65,50,58,54,78,Arts
 417,Nabila Afrun,16,Female,Rural,3,SSC,Diploma,No,Yes,Father,No,Yes,3,Yes,Govt,50,Yes,52,48,48,56,76,Arts
 418,M.N. Mahmudul Hasan,16,Male,City,5,HSC,SSC,No,Yes,Father,Yes,No,6,Yes,Govt,60,Yes,40,65,66,86,73,Commerce
-419,Faiza Saraban Tahura,18,Female,Urban,6,Hons,Masters,No,Yes,Father,Yes,Yes,7,No,Govt,90,Yes,42,62,51,75,72,Commerce
+419,Faiza Saraban Tahura,18,Female,Urban,6,Honors,Masters,No,Yes,Father,Yes,Yes,7,No,Govt,90,Yes,42,62,51,75,72,Commerce
 420,Md. Washim Akram,16,Male,Rural,3,Under_SSC,HSC,No,Yes,Mother,Yes,Yes,2,Yes,Govt,84,No,54,65,52,65,92,Commerce
 421,Mohi Alam Fuad,18,Male,City,4,SSC,Diploma,No,Yes,Father,Yes,No,3,Yes,Govt,75,Yes,85,82,58,62,49,Arts
 422,Md. Fahmid Hasan Taohid,19,Male,Urban,8,HSC,HSC,No,Yes,Mother,Yes,Yes,2,No,Govt,87,Yes,45,74,62,63,50,Commerce
 423,Rounak Islam,17,Male,Rural,9,HSC,HSC,No,Yes,Mother,Yes,No,4,No,Govt,83,Yes,65,72,70,74,52,Commerce
 424,Md.Tasvir Siddique Sohag,18,Male,City,3,Masters,Diploma,No,Yes,Father,Yes,Yes,5,Yes,Govt,89,Yes,54,48,72,78,64,Commerce
-425,Sadia Sultana,19,Female,Urban,4,Hons,SSC,No,Yes,Other,No,Yes,6,Yes,Govt,91,Yes,88,92,85,78,80,Science
-426,Dipu Chandro Roy,17,Male,Rural,3,Hons,SSC,No,Yes,Mother,No,Yes,5,Yes,Govt,84,Yes,72,65,70,71,55,Commerce
+425,Sadia Sultana,19,Female,Urban,4,Honors,SSC,No,Yes,Other,No,Yes,6,Yes,Govt,91,Yes,88,92,85,78,80,Science
+426,Dipu Chandro Roy,17,Male,Rural,3,Honors,SSC,No,Yes,Mother,No,Yes,5,Yes,Govt,84,Yes,72,65,70,71,55,Commerce
 427,Airin Rahman Prome,18,Female,City,4,Diploma,Masters,No,Yes,Father,No,No,4,Yes,Govt,92,Yes,75,78,80,82,72,Science
 428,Kazi Mahbubur Rahman,18,Male,Urban,4,Diploma,HSC,Yes,No,Father,Yes,Yes,4,No,Govt,90,Yes,82,85,87,80,83,Science
-429,Mithila Akter Toma,18,Female,Rural,3,Hons,Masters,No,Yes,Father,Yes,No,4,Yes,Govt,83,Yes,70,71,72,86,72,Commerce
-430,Nusrat -E -Jahan Esha,18,Female,City,5,Hons,Diploma,No,Yes,Father,Yes,Yes,6,Yes,Govt,91,No,88,84,86,83,85,Science
+429,Mithila Akter Toma,18,Female,Rural,3,Honors,Masters,No,Yes,Father,Yes,No,4,Yes,Govt,83,Yes,70,71,72,86,72,Commerce
+430,Nusrat -E -Jahan Esha,18,Female,City,5,Honors,Diploma,No,Yes,Father,Yes,Yes,6,Yes,Govt,91,No,88,84,86,83,85,Science
 431,Most. Touhida Naznin Ripa,16,Female,Urban,6,HSC,HSC,No,Yes,Father,Yes,Yes,6,Yes,Govt,90,No,78,71,80,77,79,Science
 432,Nafisa Samiha,19,Female,Rural,3,SSC,HSC,Yes,No,Mother,No,No,2,No,Govt,84,Yes,71,70,73,69,72,Commerce
 433,Mst. Taslima Akter,18,Female,City,5,SSC,Masters,No,Yes,Mother,Yes,Yes,3,Yes,Govt,92,Yes,83,86,84,85,92,Science
-434,Swikriti Barman,18,Male,Urban,4,Hons,Diploma,No,Yes,Father,Yes,Yes,5,No,Govt,84,Yes,65,70,68,66,86,Arts
-435,Jarin Tasnim,16,Female,Rural,8,Hons,SSC,Yes,No,Father,Yes,No,6,No,Govt,86,Yes,75,70,71,73,86,Commerce
+434,Swikriti Barman,18,Male,Urban,4,Honors,Diploma,No,Yes,Father,Yes,Yes,5,No,Govt,84,Yes,65,70,68,66,86,Arts
+435,Jarin Tasnim,16,Female,Rural,8,Honors,SSC,Yes,No,Father,Yes,No,6,No,Govt,86,Yes,75,70,71,73,86,Commerce
 436,Mst. Alea Jerin,19,Female,City,4,HSC,Masters,No,Yes,Mother,No,Yes,6,Yes,Govt,90,Yes,87,89,86,88,84,Science
 437,Ifran Yousuf Shihab,19,Male,Urban,5,SSC,HSC,No,Yes,Father,No,Yes,5,Yes,Govt,50,Yes,73,70,75,72,86,Commerce
 438,Farjana Akther Mim,19,Female,Rural,6,Under_SSC,Diploma,No,Yes,Father,Yes,No,6,Yes,Govt,72,Yes,78,71,73,86,71,Commerce
@@ -441,18 +441,18 @@
 441,Md. Saidur Rahman,17,Male,City,4,HSC,Diploma,No,Yes,Mother,Yes,No,5,Yes,Govt,56,Yes,69,70,68,66,86,Commerce
 442,Al Rafue,18,Male,Urban,5,SSC,SSC,No,Yes,Mother,Yes,Yes,6,No,Govt,65,Yes,78,71,79,77,75,Science
 443,Md. Alamin Mondol,18,Male,Rural,6,HSC,SSC,Yes,No,Father,No,Yes,6,No,Govt,57,Yes,68,70,72,69,86,Commerce
-444,Md. Delowar Hossain,16,Male,City,3,Hons,Masters,No,Yes,Father,Yes,No,5,Yes,Govt,74,Yes,89,85,87,86,84,Science
+444,Md. Delowar Hossain,16,Male,City,3,Honors,Masters,No,Yes,Father,Yes,No,5,Yes,Govt,74,Yes,89,85,87,86,84,Science
 445,Md. Eyamul Islam Baki,16,Male,Urban,4,SSC,HSC,No,Yes,Mother,No,Yes,7,Yes,Govt,63,Yes,77,72,75,76,78,Commerce
 446,Md. Shakibul Hasan,19,Male,Rural,5,HSC,HSC,No,Yes,Father,Yes,Yes,6,No,Govt,66,No,65,68,64,67,72,Arts
 447,Dewan Rizwan Ahmed,16,Male,City,5,SSC,Masters,No,Yes,Mother,Yes,Yes,4,Yes,Govt,92,Yes,84,86,83,82,80,Science
 448,Shawan Das Pappu,16,Male,City,6,HSC,Diploma,No,Yes,Father,Yes,Yes,5,Yes,Govt,89,Yes,85,92,87,83,92,Science
-449,Jarin Tasnim Alin,16,Female,Urban,3,Hons,Hons,No,Yes,Other,No,No,6,Yes,Govt,90,Yes,78,71,80,76,78,Science
+449,Jarin Tasnim Alin,16,Female,Urban,3,Honors,Honors,No,Yes,Other,No,No,6,Yes,Govt,90,Yes,78,71,80,76,78,Science
 450,Rochira Tabassum,15,Female,Rural,5,Under_SSC,Under_SSC,No,Yes,Father,Yes,Yes,6,No,Govt,50,Yes,70,70,68,65,71,Commerce
-451,Md. Mahadi Hasan,18,Male,City,4,Diploma,Hons,No,Yes,Mother,Yes,Yes,5,No,Govt,75,Yes,68,70,65,68,66,Commerce
+451,Md. Mahadi Hasan,18,Male,City,4,Diploma,Honors,No,Yes,Mother,Yes,Yes,5,No,Govt,75,Yes,68,70,65,68,66,Commerce
 452,Md. Arif,15,Male,Urban,8,SSC,Diploma,No,Yes,Father,No,Yes,7,Yes,Govt,87,Yes,90,92,89,85,84,Science
 453,Khalid Hasan,15,Male,Rural,4,HSC,HSC,No,Yes,Other,Yes,No,6,No,Govt,52,No,64,67,63,62,71,Arts
-454,Shomaya Binte Amdad,18,Female,City,5,SSC,Hons,No,Yes,Mother,Yes,Yes,8,Yes,Govt,71,Yes,85,82,83,81,80,Science
-455,Tasfia Jannat Shaily,17,Female,Rural,5,Hons,Hons,No,Yes,Father,No,No,8,Yes,Govt,50,Yes,78,82,79,75,76,Commerce
+454,Shomaya Binte Amdad,18,Female,City,5,SSC,Honors,No,Yes,Mother,Yes,Yes,8,Yes,Govt,71,Yes,85,82,83,81,80,Science
+455,Tasfia Jannat Shaily,17,Female,Rural,5,Honors,Honors,No,Yes,Father,No,No,8,Yes,Govt,50,Yes,78,82,79,75,76,Commerce
 456,Jannatul Ferdous Aoyshi,19,Female,Urban,6,HSC,Masters,No,Yes,Other,Yes,Yes,6,No,Govt,55,No,67,68,69,65,62,Arts
 457,Md. Ashraful Alam Sakib,15,Male,City,3,SSC,Masters,No,Yes,Mother,Yes,Yes,5,Yes,Govt,93,Yes,88,85,83,80,92,Science
 458,Tahamina Akther Shammi,16,Female,Rural,5,Under_SSC,HSC,No,Yes,Father,No,No,2,Yes,Govt,69,Yes,60,48,58,65,66,Arts
@@ -460,7 +460,7 @@
 460,Sabiha Sultana Bristy,15,Female,City,8,HSC,HSC,No,No,Father,Yes,Yes,1,Yes,Govt,90,Yes,90,89,88,85,86,Science
 461,Shuaiba Chowdhury Khushbu,15,Female,Rural,4,HSC,HSC,Yes,Yes,Other,No,No,5,Yes,Govt,68,Yes,50,48,53,71,62,Arts
 462,Bushra Kabir,18,Female,Urban,5,Diploma,Diploma,No,Yes,Father,Yes,Yes,5,No,Govt,89,No,75,70,78,77,86,Commerce
-463,Ummy Habiba,16,Female,City,6,Hons,Masters,No,Yes,Mother,Yes,Yes,6,Yes,Govt,91,Yes,84,92,83,85,92,Science
+463,Ummy Habiba,16,Female,City,6,Honors,Masters,No,Yes,Mother,Yes,Yes,6,Yes,Govt,91,Yes,84,92,83,85,92,Science
 464,Faria-Tuj-Johura,17,Female,Rural,5,Under_SSC,SSC,No,Yes,Father,No,No,6,Yes,Govt,89,Yes,68,70,71,65,67,Commerce
 465,Md. Fahimul Haque,18,Male,Urban,6,SSC,Masters,No,Yes,Other,Yes,Yes,5,No,Govt,90,No,92,89,91,90,85,Science
 466,Md. Shohaib Hassan Sarker,19,Male,Rural,4,HSC,HSC,No,Yes,Mother,Yes,Yes,6,Yes,Govt,68,Yes,63,67,60,66,71,Arts
@@ -472,53 +472,53 @@
 472,Mst. Suraiya Yesmin,16,Female,Rural,5,Non_Educated,SSC,No,Yes,Mother,Yes,Yes,5,Yes,Govt,86,Yes,68,70,72,68,69,Commerce
 473,Mst. Hafsha Khatun,18,Female,Urban,5,Diploma,Diploma,Yes,Yes,Father,No,No,7,Yes,Govt,90,Yes,92,91,88,87,90,Science
 474,Imtiazh Ahamed Ome,18,Male,City,6,SSC,HSC,No,Yes,Other,Yes,Yes,6,No,Govt,45,No,60,63,62,61,58,Arts
-475,Sabrina Zannat,18,Female,Rural,4,HSC,Hons,No,Yes,Mother,Yes,Yes,4,Yes,Govt,72,Yes,72,71,71,74,76,Commerce
-476,Ahmed Ibne Sakin Azim,18,Male,Urban,4,SSC,Hons,No,Yes,Father,No,No,5,Yes,Govt,93,Yes,89,92,91,87,88,Science
+475,Sabrina Zannat,18,Female,Rural,4,HSC,Honors,No,Yes,Mother,Yes,Yes,4,Yes,Govt,72,Yes,72,71,71,74,76,Commerce
+476,Ahmed Ibne Sakin Azim,18,Male,Urban,4,SSC,Honors,No,Yes,Father,No,No,5,Yes,Govt,93,Yes,89,92,91,87,88,Science
 477,Md. Tawhid Al-Abed,18,Male,City,3,SSC,Masters,No,Yes,Mother,Yes,Yes,5,No,Govt,84,No,80,78,75,74,73,Commerce
 478,Md. Abdul Awal,18,Male,Rural,3,HSC,Masters,No,Yes,Father,Yes,Yes,6,Yes,Govt,70,Yes,67,65,62,64,62,Arts
-479,Mst. Falguni Khatun,16,Female,Urban,4,Hons,HSC,Yes,No,Other,No,No,4,Yes,Govt,90,Yes,85,89,87,82,80,Science
+479,Mst. Falguni Khatun,16,Female,Urban,4,Honors,HSC,Yes,No,Other,No,No,4,Yes,Govt,90,Yes,85,89,87,82,80,Science
 480,Jarin Tasnim Riza,18,Female,City,4,HSC,Diploma,No,Yes,Father,Yes,Yes,2,No,Govt,83,No,76,75,80,78,75,Commerce
 481,Al Mamun Olik,17,Male,Rural,3,Under_SSC,HSC,No,Yes,Mother,Yes,Yes,3,Yes,Govt,69,Yes,58,60,59,57,66,Arts
-482,Swapna Rani Das,17,Female,Urban,5,SSC,Hons,No,Yes,Father,No,Yes,2,Yes,Govt,91,Yes,83,85,87,80,92,Science
+482,Swapna Rani Das,17,Female,Urban,5,SSC,Honors,No,Yes,Father,No,Yes,2,Yes,Govt,91,Yes,83,85,87,80,92,Science
 483,Mehnaz Muntaha,18,Female,City,5,HSC,Diploma,No,Yes,Mother,Yes,Yes,4,No,Govt,89,No,62,64,60,66,65,Commerce
 484,Nazim Mahmud Tanvir,18,Male,Rural,4,HSC,SSC,No,Yes,Father,Yes,Yes,5,Yes,Govt,90,Yes,91,90,89,87,86,Science
 485,Shahariar Alam Nayan,18,Male,Urban,4,Masters,Masters,Yes,Yes,Other,No,No,6,Yes,Govt,83,Yes,78,71,72,74,86,Commerce
-486,Md.Tanjid Mia,19,Male,City,3,Hons,Hons,Yes,Yes,Father,Yes,Yes,5,No,Govt,86,No,69,67,65,63,64,Arts
-487,Afia Farjana Etu,17,Female,Rural,3,Hons,Diploma,No,Yes,Mother,Yes,Yes,4,Yes,Govt,55,Yes,88,85,83,82,80,Science
+486,Md.Tanjid Mia,19,Male,City,3,Honors,Honors,Yes,Yes,Father,Yes,Yes,5,No,Govt,86,No,69,67,65,63,64,Arts
+487,Afia Farjana Etu,17,Female,Rural,3,Honors,Diploma,No,Yes,Mother,Yes,Yes,4,Yes,Govt,55,Yes,88,85,83,82,80,Science
 488,Mithila Rahman Mukta,17,Female,Urban,4,Diploma,Diploma,No,Yes,Father,No,Yes,4,Yes,Govt,77,Yes,82,85,87,80,83,Science
 489,Sayema Shanta,18,Female,City,4,Diploma,HSC,No,Yes,Mother,Yes,Yes,5,No,Govt,45,No,70,71,72,86,72,Commerce
-490,Nafisa Afrin Jeny,19,Female,Rural,3,Hons,Masters,No,Yes,Father,Yes,Yes,6,Yes,Govt,67,Yes,88,84,86,83,85,Science
-491,Md. Shafayatul Islam Tokey,18,Male,Urban,5,Hons,Hons,No,Yes,Other,No,Yes,6,Yes,Govt,63,Yes,78,71,80,77,79,Science
-492,Mazharul Islam,16,Male,City,5,HSC,Hons,No,Yes,Father,Yes,Yes,5,No,Govt,52,No,71,70,73,69,72,Commerce
+490,Nafisa Afrin Jeny,19,Female,Rural,3,Honors,Masters,No,Yes,Father,Yes,Yes,6,Yes,Govt,67,Yes,88,84,86,83,85,Science
+491,Md. Shafayatul Islam Tokey,18,Male,Urban,5,Honors,Honors,No,Yes,Other,No,Yes,6,Yes,Govt,63,Yes,78,71,80,77,79,Science
+492,Mazharul Islam,16,Male,City,5,HSC,Honors,No,Yes,Father,Yes,Yes,5,No,Govt,52,No,71,70,73,69,72,Commerce
 493,Khairul Kabir,17,Male,Rural,6,SSC,SSC,No,Yes,Mother,Yes,Yes,7,Yes,Govt,71,Yes,83,86,84,85,92,Science
 494,Auntor Chandra Das,18,Male,Urban,3,HSC,SSC,No,Yes,Father,No,Yes,6,Yes,Govt,56,Yes,65,70,68,66,86,Arts
-495,Ashiqur Rahman,19,Male,City,5,Diploma,Hons,No,Yes,Mother,Yes,Yes,4,No,Govt,67,No,75,70,71,73,86,Commerce
+495,Ashiqur Rahman,19,Male,City,5,Diploma,Honors,No,Yes,Mother,Yes,Yes,4,No,Govt,67,No,75,70,71,73,86,Commerce
 496,Akhe Akter,16,Female,Rural,4,Under_SSC,SSC,No,Yes,Father,Yes,Yes,5,Yes,Govt,83,Yes,87,89,86,88,84,Science
-497,Simla Akter,18,Female,Urban,3,Hons,Masters,Yes,Yes,Mother,No,Yes,4,Yes,Govt,72,Yes,73,70,75,72,86,Commerce
+497,Simla Akter,18,Female,Urban,3,Honors,Masters,Yes,Yes,Mother,No,Yes,4,Yes,Govt,72,Yes,73,70,75,72,86,Commerce
 498,Tunmun Chakrabarty,18,Female,City,4,Diploma,Diploma,No,Yes,Father,Yes,Yes,3,No,Govt,74,No,78,71,73,86,71,Commerce
 499,Tanjila Afroz,19,Female,City,3,SSC,HSC,No,Yes,Other,No,Yes,2,Yes,Govt,69,Yes,65,68,66,86,69,Arts
-500,Aminul Haque,18,Male,City,5,Hons,Masters,Yes,Yes,Father,Yes,Yes,6,Yes,Govt,92,Yes,85,84,87,82,80,Science
+500,Aminul Haque,18,Male,City,5,Honors,Masters,Yes,Yes,Father,Yes,Yes,6,Yes,Govt,92,Yes,85,84,87,82,80,Science
 501,Farzana Islam,18,Female,Rural,6,SSC,HSC,No,Yes,Mother,Yes,Yes,5,No,Govt,82,No,69,70,68,66,86,Commerce
 502,Jamil Hossain,15,Male,Urban,4,Diploma,Diploma,Yes,Yes,Father,Yes,Yes,8,Yes,Govt,93,Yes,78,71,79,77,75,Science
 503,Sumaiya Begum,17,Female,City,3,HSC,SSC,Yes,No,Mother,No,Yes,7,No,Govt,86,No,68,70,72,69,86,Commerce
 504,Rafiq Ahmed,15,Male,Rural,7,Masters,HSC,No,Yes,Other,Yes,No,6,Yes,Govt,86,Yes,89,85,87,86,84,Science
-505,Nusrat Jahan,16,Female,City,5,Hons,Masters,Yes,Yes,Father,No,Yes,7,Yes,Govt,88,Yes,77,72,75,76,78,Commerce
+505,Nusrat Jahan,16,Female,City,5,Honors,Masters,Yes,Yes,Father,No,Yes,7,Yes,Govt,88,Yes,77,72,75,76,78,Commerce
 506,Mehedi Hasan,17,Male,Urban,6,Diploma,HSC,Yes,No,Mother,Yes,Yes,5,Yes,Govt,70,Yes,65,68,64,67,72,Arts
 507,Shakila Parvin,18,Female,City,4,HSC,SSC,No,Yes,Father,Yes,No,6,No,Private,84,No,84,86,83,82,80,Science
 508,Nasir Uddin,18,Male,Rural,6,SSC,HSC,Yes,Yes,Other,No,No,7,Yes,Private,90,Yes,85,92,87,83,92,Science
 509,Samina Akter,16,Female,Urban,5,HSC,Diploma,Yes,Yes,Mother,Yes,Yes,6,No,Private,85,No,78,71,80,76,78,Science
-510,Shahidul Islam,17,Male,City,4,Hons,Masters,No,No,Father,Yes,Yes,8,Yes,Private,85,Yes,70,70,68,65,71,Commerce
+510,Shahidul Islam,17,Male,City,4,Honors,Masters,No,No,Father,Yes,Yes,8,Yes,Private,85,Yes,70,70,68,65,71,Commerce
 511,Tasnia Rahman,17,Female,Rural,3,HSC,SSC,Yes,Yes,Other,No,Yes,6,Yes,Private,77,Yes,68,70,65,68,66,Commerce
 512,Saif Ahmed,15,Male,Urban,5,Diploma,HSC,Yes,Yes,Father,Yes,Yes,7,No,Private,91,No,90,92,89,85,84,Science
-513,Laila Sultana,18,Female,City,6,Masters,Hons,Yes,No,Mother,Yes,No,5,Yes,Semi_Govt,74,Yes,64,67,63,62,71,Arts
+513,Laila Sultana,18,Female,City,6,Masters,Honors,Yes,No,Mother,Yes,No,5,Yes,Semi_Govt,74,Yes,64,67,63,62,71,Arts
 514,Habib Chowdhury,16,Male,Urban,4,SSC,HSC,Yes,No,Father,No,Yes,7,Yes,Private,85,Yes,85,82,83,81,80,Science
 515,Rina Akter,16,Female,Rural,5,HSC,SSC,No,Yes,Mother,Yes,Yes,6,No,Private,81,No,78,82,79,75,76,Commerce
 516,Mahmudul Hasan,18,Male,City,5,Diploma,SSC,Yes,Yes,Other,Yes,No,7,Yes,Semi_Govt,77,Yes,67,68,69,65,62,Arts
-517,Afsana Khatun,17,Female,Urban,6,Hons,Masters,Yes,Yes,Father,No,Yes,8,Yes,Semi_Govt,88,Yes,88,85,83,80,92,Science
+517,Afsana Khatun,17,Female,Urban,6,Honors,Masters,Yes,Yes,Father,No,Yes,8,Yes,Semi_Govt,88,Yes,88,85,83,80,92,Science
 518,Kamrul Islam,17,Male,Rural,5,SSC,Diploma,No,Yes,Mother,Yes,Yes,5,No,Semi_Govt,64,No,60,48,58,65,66,Arts
 519,Sanzida Rahman,16,Female,City,4,HSC,SSC,Yes,No,Father,Yes,Yes,6,Yes,Semi_Govt,89,Yes,80,75,85,81,92,Science
-520,Imran Hossain,16,Male,City,5,Hons,Masters,Yes,Yes,Other,No,Yes,6,Yes,Semi_Govt,94,Yes,90,89,88,85,86,Science
-521,Nusaiba Rahman,17,Female,Urban,4,HSC,Hons,No,Yes,Mother,Yes,Yes,7,No,Semi_Govt,75,No,50,48,53,71,62,Arts
+520,Imran Hossain,16,Male,City,5,Honors,Masters,Yes,Yes,Other,No,Yes,6,Yes,Semi_Govt,94,Yes,90,89,88,85,86,Science
+521,Nusaiba Rahman,17,Female,Urban,4,HSC,Honors,No,Yes,Mother,Yes,Yes,7,No,Semi_Govt,75,No,50,48,53,71,62,Arts
 522,Alif Islam,15,Male,Rural,6,SSC,Diploma,Yes,Yes,Father,Yes,Yes,5,Yes,Semi_Govt,77,Yes,75,70,78,77,86,Commerce
 523,Ayesha Haque,18,Female,Urban,5,Diploma,HSC,No,No,Mother,Yes,No,8,Yes,Semi_Govt,90,Yes,84,92,83,85,92,Science
 524,Shihab Mahmud,17,Male,City,4,HSC,HSC,Yes,Yes,Father,Yes,Yes,6,No,Semi_Govt,91,No,68,70,71,65,67,Commerce
@@ -526,15 +526,15 @@
 526,Rafiq Ahmed,15,Male,Rural,7,Masters,HSC,No,Yes,Father,Yes,Yes,6,Yes,Semi_Govt,69,Yes,63,67,60,66,71,Arts
 527,Sumaiya Begum,16,Female,Urban,6,SSC,SSC,Yes,Yes,Mother,Yes,Yes,4,Yes,Semi_Govt,89,Yes,80,83,81,85,78,Science
 528,Hasan Rahman,17,Male,Urban,5,Diploma,Diploma,No,Yes,Father,Yes,No,7,Yes,Semi_Govt,85,No,85,92,90,83,80,Science
-529,Saira Islam,16,Female,City,4,HSC,Hons,Yes,No,Mother,No,Yes,6,No,Semi_Govt,89,No,75,70,68,86,65,Commerce
-530,Mahmudul Alam,18,Male,Rural,3,Hons,SSC,No,Yes,Father,Yes,Yes,7,Yes,Semi_Govt,62,Yes,55,48,60,62,65,Arts
+529,Saira Islam,16,Female,City,4,HSC,Honors,Yes,No,Mother,No,Yes,6,No,Semi_Govt,89,No,75,70,68,86,65,Commerce
+530,Mahmudul Alam,18,Male,Rural,3,Honors,SSC,No,Yes,Father,Yes,Yes,7,Yes,Semi_Govt,62,Yes,55,48,60,62,65,Arts
 531,Fahim Hossain,17,Male,Urban,6,SSC,HSC,Yes,No,Other,No,Yes,8,No,Private,92,Yes,82,85,89,80,84,Science
-532,Tahmina Khatun,15,Female,City,5,Hons,Masters,Yes,Yes,Father,Yes,Yes,7,Yes,Private,92,Yes,68,70,72,68,69,Commerce
+532,Tahmina Khatun,15,Female,City,5,Honors,Masters,Yes,Yes,Father,Yes,Yes,7,Yes,Private,92,Yes,68,70,72,68,69,Commerce
 533,Zubair Ahmed,18,Male,Rural,4,SSC,SSC,Yes,No,Mother,Yes,Yes,5,No,Private,90,No,92,91,88,87,90,Science
 534,Mitu Sultana,16,Female,City,6,HSC,HSC,Yes,Yes,Father,No,No,6,Yes,Semi_Govt,77,Yes,60,63,62,61,58,Arts
 535,Jannatul Ferdous,17,Female,Urban,3,SSC,Diploma,No,Yes,Mother,Yes,Yes,6,No,Private,86,No,72,71,71,74,76,Commerce
 536,Shahin Alam,18,Male,Urban,5,HSC,SSC,Yes,No,Father,Yes,No,6,Yes,Private,92,Yes,89,92,91,87,88,Science
-537,Khaled Hossain,16,Male,City,6,Hons,Hons,No,Yes,Mother,No,Yes,5,No,Semi_Govt,93,Yes,80,78,75,74,73,Commerce
+537,Khaled Hossain,16,Male,City,6,Honors,Honors,No,Yes,Mother,No,Yes,5,No,Semi_Govt,93,Yes,80,78,75,74,73,Commerce
 538,Labiba Rahman,15,Female,City,3,SSC,HSC,Yes,Yes,Father,Yes,Yes,4,No,Semi_Govt,72,No,67,65,62,64,62,Arts
 539,Adnan Mahmud,17,Male,Rural,4,Diploma,SSC,Yes,Yes,Mother,Yes,Yes,7,Yes,Semi_Govt,85,Yes,85,89,87,82,80,Science
 540,Arif Hossain,17,Male,Urban,4,HSC,Diploma,Yes,No,Father,No,Yes,6,Yes,Semi_Govt,89,Yes,76,75,80,78,75,Commerce
@@ -7110,133 +7110,133 @@
 7110,Oshin Hossain,17,Male,Rural,2,Under_SSC,Under_SSC,No,Yes,Mother,Yes,No,6,Yes,Govt,88,No,92,83,84,99,84,Science
 7111,Gaziul Roy,17,Male,Rural,6,Honors,Diploma,Yes,Yes,Mother,Yes,No,6,Yes,Govt,82,Yes,82,80,94,90,83,Science
 7112,Imtiaz Roychoudhury,17,Male,Urban,3,Masters,Non_Educated,No,No,Other,No,Yes,7,Yes,Semi_Govt,84,No,84,92,88,99,86,Science
-7113,Tania Akter,15,Female,Urban,4,HSC,Hons,Yes,Yes,Father,Yes,Yes,2,No,Private,90,Yes,75,85,82,86,86,Science
-7114,Swadhin Chandra Das,16,Male,Urban,5,HSC,Hons,No,Yes,Father,Yes,Yes,3,Yes,Semi_Govt,88,Yes,75,74,72,72,80,Science
+7113,Tania Akter,15,Female,Urban,4,HSC,Honors,Yes,Yes,Father,Yes,Yes,2,No,Private,90,Yes,75,85,82,86,86,Science
+7114,Swadhin Chandra Das,16,Male,Urban,5,HSC,Honors,No,Yes,Father,Yes,Yes,3,Yes,Semi_Govt,88,Yes,75,74,72,72,80,Science
 7115,Rijon Miah,17,Male,Rural,4,SSC,HSC,No,Yes,Father,Yes,No,5,Yes,Govt,57,Yes,80,82,89,75,54,Commerce
-7116,Tania Akter,16,Female,Urban,5,Hons,Masters,No,Yes,Father,Yes,Yes,3,Yes,Private,64,Yes,85,82,78,71,55,Commerce
-7117,Rabiur Rahman,18,Male,City,4,Hons,Hons,No,Yes,Father,Yes,Yes,6,Yes,Semi_Govt,65,Yes,88,95,93,75,58,Commerce
+7116,Tania Akter,16,Female,Urban,5,Honors,Masters,No,Yes,Father,Yes,Yes,3,Yes,Private,64,Yes,85,82,78,71,55,Commerce
+7117,Rabiur Rahman,18,Male,City,4,Honors,Honors,No,Yes,Father,Yes,Yes,6,Yes,Semi_Govt,65,Yes,88,95,93,75,58,Commerce
 7118,Md. Mamun Mia,15,Male,City,6,SSC,Diploma,Yes,Yes,Father,Yes,Yes,6,No,Private,70,Yes,55,62,65,76,54,Arts
 7119,Jowel Mia,17,Male,Urban,6,SSC,HSC,Yes,Yes,Father,Yes,Yes,6,No,Govt,84,Yes,60,60,70,80,66,Commerce
-7120,Saqib Hosen,16,Male,Urban,5,HSC,Hons,Yes,Yes,Father,Yes,Yes,4,No,Semi_Govt,86,Yes,65,70,65,77,87,Commerce
-7121,Sumaiya Akter Tania,17,Female,Rural,4,HSC,Hons,No,Yes,Father,Yes,Yes,5,No,Private,87,Yes,62,52,62,79,80,Commerce
-7122,Sanjoy Chaandra Sutradhar,18,Male,Rural,3,Hons,Masters,Yes,No,Mother,No,No,5,Yes,Govt,69,Yes,58,48,87,82,75,Science
-7123,Khadija Akter,15,Female,Rural,3,Masters,Hons,No,Yes,Father,Yes,No,4,Yes,Semi_Govt,58,Yes,75,74,54,81,74,Commerce
+7120,Saqib Hosen,16,Male,Urban,5,HSC,Honors,Yes,Yes,Father,Yes,Yes,4,No,Semi_Govt,86,Yes,65,70,65,77,87,Commerce
+7121,Sumaiya Akter Tania,17,Female,Rural,4,HSC,Honors,No,Yes,Father,Yes,Yes,5,No,Private,87,Yes,62,52,62,79,80,Commerce
+7122,Sanjoy Chaandra Sutradhar,18,Male,Rural,3,Honors,Masters,Yes,No,Mother,No,No,5,Yes,Govt,69,Yes,58,48,87,82,75,Science
+7123,Khadija Akter,15,Female,Rural,3,Masters,Honors,No,Yes,Father,Yes,No,4,Yes,Semi_Govt,58,Yes,75,74,54,81,74,Commerce
 7124,Masum Mia,16,Male,Urban,4,HSC,Diploma,No,Yes,Mother,Yes,Yes,4,No,Private,67,Yes,74,80,55,65,76,Arts
-7125,Sourav Kumar Das,16,Male,Urban,5,Hons,Hons,No,Yes,Father,Yes,Yes,6,No,Govt,74,Yes,71,56,58,68,72,Arts
+7125,Sourav Kumar Das,16,Male,Urban,5,Honors,Honors,No,Yes,Father,Yes,Yes,6,No,Govt,74,Yes,71,56,58,68,72,Arts
 7126,Fahad Mia,17,Male,Urban,3,HSC,Masters,Yes,No,Mother,Yes,Yes,6,Yes,Semi_Govt,85,Yes,76,69,78,71,81,Science
 7127,Soma Akter,15,Female,City,5,Diploma,Diploma,No,No,Other,No,Yes,3,Yes,Private,65,Yes,73,70,87,65,54,Commerce
 7128,Madhabi Podder,17,Female,City,4,SSC,SSC,No,Yes,Father,Yes,Yes,6,Yes,Govt,64,Yes,69,70,81,68,66,Commerce
 7129,Ema Akter,17,Female,Urban,6,HSC,SSC,No,Yes,Father,Yes,No,7,Yes,Private,52,Yes,64,45,71,63,71,Commerce
 7130,Jahir Rayhan,15,Male,Rural,7,Diploma,Masters,Yes,Yes,Father,Yes,No,8,No,Semi_Govt,58,Yes,78,80,72,62,62,Commerce
 7131,Rafiqul Islam,17,Male,Rural,3,Masters,Masters,Yes,No,Father,Yes,Yes,5,Yes,Private,54,No,80,82,45,75,65,Arts
-7132,Sajib Kumar Dev,15,Male,Urban,4,Hons,Masters,No,No,Mother,No,Yes,5,Yes,Govt,75,Yes,82,71,76,76,72,Commerce
+7132,Sajib Kumar Dev,15,Male,Urban,4,Honors,Masters,No,No,Mother,No,Yes,5,Yes,Govt,75,Yes,82,71,76,76,72,Commerce
 7133,Nazmul Islam,15,Male,Urban,4,HSC,Diploma,No,Yes,Father,Yes,Yes,6,No,Private,74,Yes,48,68,52,42,74,Arts
-7134,Jahidul Islam,17,Male,Urban,5,SSC,Hons,No,Yes,Father,Yes,Yes,4,No,Semi_Govt,82,Yes,50,50,64,65,75,Commerce
+7134,Jahidul Islam,17,Male,Urban,5,SSC,Honors,No,Yes,Father,Yes,Yes,4,No,Semi_Govt,82,Yes,50,50,64,65,75,Commerce
 7135,Jerin,16,Female,City,6,HSC,HSC,No,Yes,Father,Yes,No,8,Yes,Govt,71,Yes,52,67,68,45,72,Arts
-7136,Abdul Kader,15,Male,City,3,Diploma,Hons,Yes,Yes,Mother,Yes,Yes,8,Yes,Private,83,Yes,53,52,60,58,71,Commerce
+7136,Abdul Kader,15,Male,City,3,Diploma,Honors,Yes,Yes,Mother,Yes,Yes,8,Yes,Private,83,Yes,53,52,60,58,71,Commerce
 7137,Dewan Nadim,17,Male,City,3,Diploma,Masters,No,Yes,Father,Yes,Yes,7,Yes,Semi_Govt,47,Yes,80,78,76,85,65,Science
 7138,Md. Sabbir Hossain,17,Male,City,3,Masters,Masters,No,Yes,Mother,Yes,Yes,6,Yes,Private,45,Yes,85,84,74,75,72,Commerce
-7139,Rakibul Hasan,17,Male,Rural,4,Hons,Hons,No,Yes,Mother,Yes,Yes,6,No,Govt,47,Yes,84,73,67,47,69,Commerce
+7139,Rakibul Hasan,17,Male,Rural,4,Honors,Honors,No,Yes,Mother,Yes,Yes,6,No,Govt,47,Yes,84,73,67,47,69,Commerce
 7140,Farzana Akter,15,Female,City,4,SSC,HSC,Yes,Yes,Father,No,Yes,5,Yes,Semi_Govt,73,Yes,71,78,75,78,84,Science
 7141,Naimur Rahman Sakib,15,Male,Rural,5,HSC,HSC,Yes,No,Other,No,No,4,Yes,Private,72,No,78,80,65,90,92,Science
 7142,Farzana Akter Rani,16,Female,City,4,Diploma,Diploma,Yes,Yes,Mother,No,Yes,4,Yes,Govt,69,No,90,92,80,65,75,Science
 7143,Mahmudur Rahman Refath,17,Male,Urban,3,HSC,Masters,Yes,Yes,Father,Yes,No,5,No,Semi_Govt,83,Yes,65,70,50,66,86,Commerce
-7144,Alamin Hossen,16,Male,City,3,HSC,Hons,No,Yes,Father,Yes,Yes,5,Yes,Private,47,Yes,65,65,52,63,71,Arts
-7145,Abu Salam,18,Male,Rural,4,Hons,HSC,No,Yes,Father,Yes,Yes,4,No,Govt,92,Yes,92,82,82,77,71,Science
-7146,Md. Sifat Islam,15,Male,City,4,Hons,Masters,No,No,Father,Yes,Yes,5,No,Semi_Govt,69,Yes,88,70,69,76,62,Commerce
+7144,Alamin Hossen,16,Male,City,3,HSC,Honors,No,Yes,Father,Yes,Yes,5,Yes,Private,47,Yes,65,65,52,63,71,Arts
+7145,Abu Salam,18,Male,Rural,4,Honors,HSC,No,Yes,Father,Yes,Yes,4,No,Govt,92,Yes,92,82,82,77,71,Science
+7146,Md. Sifat Islam,15,Male,City,4,Honors,Masters,No,No,Father,Yes,Yes,5,No,Semi_Govt,69,Yes,88,70,69,76,62,Commerce
 7147,Arif Bhuiyan,17,Male,Urban,5,Masters,Masters,No,Yes,Father,No,Yes,4,Yes,Private,66,Yes,56,65,65,74,72,Commerce
 7148,Kawsar Ahmed Suva,16,Male,Urban,5,Diploma,Masters,Yes,Yes,Mother,Yes,Yes,6,Yes,Govt,67,Yes,64,82,66,71,65,Commerce
-7149,Rifadul Islam,17,Male,Rural,6,Diploma,Hons,Yes,Yes,Mother,Yes,Yes,4,Yes,Private,55,Yes,77,90,52,72,76,Commerce
+7149,Rifadul Islam,17,Male,Rural,6,Diploma,Honors,Yes,Yes,Mother,Yes,Yes,4,Yes,Private,55,Yes,77,90,52,72,76,Commerce
 7150,Md. Mahfujul Islam,18,Male,Rural,5,SSC,HSC,No,Yes,Father,Yes,Yes,3,Yes,Semi_Govt,69,No,82,77,84,65,72,Science
 7151,Rifat Mia,15,Male,City,4,HSC,Diploma,No,Yes,Father,No,Yes,2,Yes,Private,68,Yes,78,64,74,56,45,Arts
 7152,Jubayer Hossen Bhuiyan,16,Male,City,3,HSC,Diploma,Yes,No,Mother,No,No,3,Yes,Govt,56,Yes,45,48,60,69,52,Arts
-7153,Urmi Akter,16,Female,City,4,Masters,Hons,No,Yes,Father,Yes,Yes,2,No,Private,69,Yes,56,48,42,80,84,Commerce
-7154,Nipa Akter,17,Female,City,5,Hons,Hons,No,Yes,Father,Yes,Yes,4,No,Semi_Govt,58,Yes,65,50,58,54,78,Arts
-7155,Abdulla Hil Kafi Mollah,15,Male,City,5,Hons,Masters,Yes,Yes,Father,Yes,Yes,5,Yes,Govt,57,Yes,52,48,48,56,76,Arts
-7156,Jakir Hossain,17,Male,Urban,5,Diploma,Hons,Yes,Yes,Mother,Yes,Yes,6,Yes,Private,72,Yes,40,65,66,86,73,Commerce
+7153,Urmi Akter,16,Female,City,4,Masters,Honors,No,Yes,Father,Yes,Yes,2,No,Private,69,Yes,56,48,42,80,84,Commerce
+7154,Nipa Akter,17,Female,City,5,Honors,Honors,No,Yes,Father,Yes,Yes,4,No,Semi_Govt,58,Yes,65,50,58,54,78,Arts
+7155,Abdulla Hil Kafi Mollah,15,Male,City,5,Honors,Masters,Yes,Yes,Father,Yes,Yes,5,Yes,Govt,57,Yes,52,48,48,56,76,Arts
+7156,Jakir Hossain,17,Male,Urban,5,Diploma,Honors,Yes,Yes,Mother,Yes,Yes,6,Yes,Private,72,Yes,40,65,66,86,73,Commerce
 7157,Md. Masud Rana,17,Male,Urban,4,Diploma,HSC,No,No,Mother,Yes,Yes,5,No,Semi_Govt,79,No,42,62,51,75,72,Commerce
-7158,Lingkon Das,15,Male,Rural,5,Hons,Hons,Yes,Yes,Mother,No,Yes,4,Yes,Private,74,Yes,54,65,52,65,92,Commerce
-7159,Md. Ekram Hossain,17,Male,Urban,3,Hons,Masters,No,Yes,Father,Yes,No,8,Yes,Govt,64,Yes,85,82,58,62,49,Arts
+7158,Lingkon Das,15,Male,Rural,5,Honors,Honors,Yes,Yes,Mother,No,Yes,4,Yes,Private,74,Yes,54,65,52,65,92,Commerce
+7159,Md. Ekram Hossain,17,Male,Urban,3,Honors,Masters,No,Yes,Father,Yes,No,8,Yes,Govt,64,Yes,85,82,58,62,49,Arts
 7160,Md. Yousuf Azad Roki,15,Male,Urban,5,HSC,HSC,No,Yes,Father,No,Yes,6,Yes,Semi_Govt,65,Yes,45,74,62,63,50,Commerce
 7161,Emon Miah,15,Male,Rural,4,SSC,SSC,Yes,Yes,Mother,Yes,No,5,No,Private,50,Yes,65,72,70,74,52,Commerce
 7162,Rayhan Mia,17,Male,Rural,3,SSC,SSC,No,Yes,Father,Yes,No,4,No,Govt,82,Yes,54,48,72,78,64,Commerce
-7163,Aisha Islam,16,Female,Urban,4,HSC,Hons,Yes,Yes,Mother,Yes,Yes,4,Yes,Semi_Govt,95,Yes,88,92,85,78,80,Science
+7163,Aisha Islam,16,Female,Urban,4,HSC,Honors,Yes,Yes,Mother,Yes,Yes,4,Yes,Semi_Govt,95,Yes,88,92,85,78,80,Science
 7164,Akash,15,Male,Rural,6,SSC,SSC,No,Yes,Father,No,No,3,No,Private,85,No,72,65,70,71,55,Commerce
 7165,Alam Hossain,17,Male,City,5,Diploma,HSC,Yes,No,Other,Yes,Yes,2,Yes,Govt,90,Yes,75,78,80,82,72,Science
-7166,Ali,17,Male,Urban,3,Hons,Masters,Yes,Yes,Father,Yes,Yes,3,Yes,Semi_Govt,98,Yes,90,85,87,84,86,Science
+7166,Ali,17,Male,Urban,3,Honors,Masters,Yes,Yes,Father,Yes,Yes,3,Yes,Semi_Govt,98,Yes,90,85,87,84,86,Science
 7167,Anika,17,Female,Rural,4,SSC,SSC,No,Yes,Mother,No,No,2,No,Private,82,No,68,60,62,66,58,Commerce
 7168,Arif,15,Male,City,5,HSC,Diploma,Yes,No,Father,Yes,Yes,4,Yes,Govt,90,Yes,80,77,79,81,73,Science
-7169,Asif,15,Male,Urban,6,Hons,HSC,Yes,Yes,Other,Yes,Yes,5,Yes,Private,92,Yes,85,92,90,84,76,Science
+7169,Asif,15,Male,Urban,6,Honors,HSC,Yes,Yes,Other,Yes,Yes,5,Yes,Private,92,Yes,85,92,90,84,76,Science
 7170,Ayesha,16,Female,Rural,4,SSC,Diploma,No,No,Mother,No,No,6,No,Semi_Govt,84,No,70,65,68,62,71,Commerce
 7171,Azad,17,Male,City,5,HSC,HSC,Yes,Yes,Father,Yes,Yes,5,Yes,Private,95,Yes,78,80,83,79,75,Science
-7172,Badrul,16,Male,Urban,4,Hons,Masters,Yes,Yes,Other,Yes,Yes,4,Yes,Govt,93,Yes,88,90,85,87,80,Science
+7172,Badrul,16,Male,Urban,4,Honors,Masters,Yes,Yes,Other,Yes,Yes,4,Yes,Govt,93,Yes,88,90,85,87,80,Science
 7173,Bashir,18,Male,Rural,6,SSC,SSC,No,Yes,Mother,No,No,8,No,Govt,83,No,68,60,62,66,58,Commerce
-7174,Bithi,15,Female,City,3,Diploma,Hons,Yes,No,Father,Yes,Yes,6,Yes,Private,94,Yes,85,92,90,84,76,Science
+7174,Bithi,15,Female,City,3,Diploma,Honors,Yes,No,Father,Yes,Yes,6,Yes,Private,94,Yes,85,92,90,84,76,Science
 7175,Farhan,17,Male,Urban,4,HSC,Diploma,Yes,Yes,Mother,Yes,Yes,5,Yes,Semi_Govt,96,Yes,90,85,87,84,86,Science
 7176,Farzana,16,Female,Rural,5,SSC,SSC,No,Yes,Father,No,No,2,No,Private,86,No,70,65,68,62,71,Commerce
 7177,Fatima,17,Female,City,6,HSC,HSC,Yes,Yes,Other,Yes,Yes,4,Yes,Govt,91,Yes,80,77,79,81,73,Science
-7178,Habib,18,Male,Urban,4,Hons,Diploma,Yes,Yes,Father,Yes,Yes,3,Yes,Semi_Govt,90,Yes,85,92,90,84,76,Science
+7178,Habib,18,Male,Urban,4,Honors,Diploma,Yes,Yes,Father,Yes,Yes,3,Yes,Semi_Govt,90,Yes,85,92,90,84,76,Science
 7179,Hafsa,15,Female,Rural,3,SSC,Diploma,No,Yes,Mother,No,No,2,No,Private,82,No,68,60,62,66,58,Commerce
 7180,Hasan,16,Male,City,5,HSC,HSC,Yes,Yes,Father,Yes,Yes,3,Yes,Govt,90,Yes,80,77,79,81,73,Science
-7181,Hossain,16,Male,Urban,6,Hons,Masters,Yes,Yes,Other,Yes,Yes,2,Yes,Semi_Govt,92,Yes,88,90,85,87,80,Science
+7181,Hossain,16,Male,Urban,6,Honors,Masters,Yes,Yes,Other,Yes,Yes,2,Yes,Semi_Govt,92,Yes,88,90,85,87,80,Science
 7182,Iqbal,17,Male,Rural,4,SSC,SSC,No,Yes,Mother,No,No,4,No,Private,83,No,68,60,62,66,58,Commerce
-7183,Jamal,15,Male,City,5,Diploma,Hons,Yes,Yes,Father,Yes,Yes,5,Yes,Govt,95,Yes,85,92,90,84,76,Science
+7183,Jamal,15,Male,City,5,Diploma,Honors,Yes,Yes,Father,Yes,Yes,5,Yes,Govt,95,Yes,85,92,90,84,76,Science
 7184,Jannat,17,Female,Urban,4,HSC,Diploma,Yes,Yes,Mother,Yes,Yes,6,Yes,Semi_Govt,96,Yes,90,85,87,84,86,Science
 7185,Karim,17,Male,Rural,3,SSC,SSC,No,Yes,Father,No,No,5,No,Private,86,No,70,65,68,62,71,Commerce
 7186,Khaled,15,Male,City,6,HSC,HSC,Yes,Yes,Other,Yes,Yes,4,Yes,Govt,88,Yes,80,77,79,81,73,Commerce
-7187,Mahbub,17,Male,Urban,5,Hons,Diploma,Yes,Yes,Father,Yes,Yes,8,Yes,Private,90,Yes,85,92,90,84,76,Science
+7187,Mahbub,17,Male,Urban,5,Honors,Diploma,Yes,Yes,Father,Yes,Yes,8,Yes,Private,90,Yes,85,92,90,84,76,Science
 7188,Mahfuz,15,Male,Rural,4,SSC,Diploma,No,Yes,Mother,No,No,6,No,Semi_Govt,85,No,68,60,62,88,89,Science
 7189,Mariam,15,Female,City,5,HSC,HSC,Yes,Yes,Father,Yes,Yes,5,Yes,Private,90,Yes,80,77,79,81,73,Science
-7190,Mehedi,17,Male,Urban,6,Hons,Masters,Yes,Yes,Other,Yes,Yes,3,Yes,Govt,92,Yes,88,90,85,87,80,Science
+7190,Mehedi,17,Male,Urban,6,Honors,Masters,Yes,Yes,Other,Yes,Yes,3,Yes,Govt,92,Yes,88,90,85,87,80,Science
 7191,Mina,16,Female,Rural,4,SSC,SSC,No,Yes,Mother,No,No,2,No,Private,83,No,68,60,62,66,58,Commerce
-7192,Monir,15,Male,City,5,Diploma,Hons,Yes,Yes,Father,Yes,Yes,3,Yes,Semi_Govt,95,Yes,85,92,90,84,76,Science
+7192,Monir,15,Male,City,5,Diploma,Honors,Yes,Yes,Father,Yes,Yes,3,Yes,Semi_Govt,95,Yes,85,92,90,84,76,Science
 7193,Mostafa,17,Male,Urban,4,HSC,Diploma,Yes,Yes,Mother,Yes,Yes,5,Yes,Govt,96,Yes,90,85,87,84,86,Science
 7194,Mukti,17,Female,Rural,3,SSC,SSC,No,Yes,Father,No,No,2,No,Private,86,No,70,65,68,62,71,Commerce
 7195,Nafisa,17,Female,City,6,HSC,HSC,Yes,Yes,Other,Yes,Yes,2,Yes,Semi_Govt,88,Yes,80,77,79,81,73,Commerce
-7196,Naim,15,Male,Urban,4,Hons,Diploma,Yes,Yes,Father,Yes,Yes,3,Yes,Private,90,Yes,85,92,90,84,76,Science
+7196,Naim,15,Male,Urban,4,Honors,Diploma,Yes,Yes,Father,Yes,Yes,3,Yes,Private,90,Yes,85,92,90,84,76,Science
 7197,Nasrin,16,Female,Rural,5,SSC,SSC,No,Yes,Mother,No,No,2,No,Govt,67,No,68,60,62,66,58,Arts
-7198,Nazim,15,Male,City,4,Diploma,Hons,Yes,Yes,Father,Yes,Yes,1,Yes,Semi_Govt,87,Yes,80,77,79,81,73,Commerce
+7198,Nazim,15,Male,City,4,Diploma,Honors,Yes,Yes,Father,Yes,Yes,1,Yes,Semi_Govt,87,Yes,80,77,79,81,73,Commerce
 7199,Nila,16,Female,Urban,6,HSC,HSC,Yes,Yes,Mother,Yes,Yes,4,Yes,Private,92,Yes,88,90,85,87,80,Science
 7200,Parveen,17,Female,Rural,5,SSC,Diploma,No,Yes,Father,No,No,3,No,Govt,68,No,68,60,62,66,58,Arts
 7201,Rahim,16,Male,City,3,HSC,HSC,Yes,Yes,Other,Yes,Yes,2,Yes,Semi_Govt,88,Yes,80,77,79,81,73,Commerce
-7202,Rakib,18,Male,Urban,4,Hons,Diploma,Yes,Yes,Father,Yes,Yes,3,Yes,Private,90,Yes,85,92,90,84,76,Science
+7202,Rakib,18,Male,Urban,4,Honors,Diploma,Yes,Yes,Father,Yes,Yes,3,Yes,Private,90,Yes,85,92,90,84,76,Science
 7203,Rashid,15,Male,Rural,6,SSC,SSC,No,Yes,Mother,No,No,2,No,Govt,67,No,68,60,62,66,58,Arts
-7204,Rifat,17,Female,City,5,Diploma,Hons,Yes,Yes,Father,Yes,Yes,4,Yes,Semi_Govt,76,Yes,70,65,68,62,71,Arts
+7204,Rifat,17,Female,City,5,Diploma,Honors,Yes,Yes,Father,Yes,Yes,4,Yes,Semi_Govt,76,Yes,70,65,68,62,71,Arts
 7205,Rima,16,Female,Urban,4,HSC,Diploma,Yes,Yes,Mother,Yes,Yes,5,Yes,Private,87,Yes,80,77,79,81,73,Commerce
 7206,Rubel,17,Male,Rural,5,SSC,HSC,No,Yes,Father,No,No,6,No,Govt,68,No,68,60,62,66,58,Arts
 7207,Sadiya,18,Female,City,6,HSC,HSC,Yes,Yes,Other,Yes,Yes,5,Yes,Private,95,Yes,85,92,90,84,76,Science
-7208,Sajid,15,Male,Urban,4,Hons,Diploma,Yes,Yes,Father,Yes,Yes,4,Yes,Semi_Govt,92,Yes,88,90,85,87,80,Science
+7208,Sajid,15,Male,Urban,4,Honors,Diploma,Yes,Yes,Father,Yes,Yes,4,Yes,Semi_Govt,92,Yes,88,90,85,87,80,Science
 7209,Salma,16,Female,Rural,5,SSC,SSC,No,Yes,Mother,No,No,8,No,Private,67,No,68,60,62,66,58,Arts
-7210,Shakib,16,Male,City,3,Diploma,Hons,Yes,Yes,Father,Yes,Yes,6,Yes,Govt,94,Yes,85,92,90,84,76,Science
+7210,Shakib,16,Male,City,3,Diploma,Honors,Yes,Yes,Father,Yes,Yes,6,Yes,Govt,94,Yes,85,92,90,84,76,Science
 7211,Sumaiya,17,Female,Urban,4,HSC,Diploma,Yes,Yes,Mother,Yes,Yes,5,Yes,Private,96,Yes,90,85,87,84,86,Science
 7212,Tanjil,15,Male,Rural,6,SSC,SSC,No,Yes,Father,No,No,2,No,Semi_Govt,71,No,70,65,68,62,71,Arts
 7213,Ayaan Islam,17,Male,Urban,4,HSC,Diploma,Yes,Yes,Mother,Yes,Yes,2,Yes,Govt,91,Yes,84,75,82,76,75,Science
 7214,Brishti Khan,17,Female,Rural,6,SSC,HSC,No,Yes,Father,No,No,1,No,Private,67,No,70,66,60,58,55,Arts
-7215,Chandni Akter,15,Female,City,5,Hons,Masters,Yes,Yes,Other,Yes,Yes,3,Yes,Semi_Govt,89,Yes,78,84,80,74,73,Science
+7215,Chandni Akter,15,Female,City,5,Honors,Masters,Yes,Yes,Other,Yes,Yes,3,Yes,Semi_Govt,89,Yes,78,84,80,74,73,Science
 7216,Dhrubo Ahmed,17,Male,Urban,3,HSC,SSC,Yes,No,Father,Yes,Yes,4,Yes,Private,93,Yes,85,92,83,80,92,Science
 7217,Emran Chowdhury,15,Male,Rural,4,Diploma,HSC,Yes,Yes,Mother,Yes,Yes,2,Yes,Govt,84,Yes,77,71,78,86,69,Commerce
 7218,Farzana Rahman,15,Female,City,5,SSC,Diploma,No,Yes,Father,No,No,1,No,Semi_Govt,85,No,72,68,65,63,62,Commerce
-7219,Gazi Mahmud,17,Male,Urban,4,Hons,HSC,Yes,Yes,Mother,Yes,Yes,3,Yes,Private,87,Yes,83,82,80,77,74,Commerce
+7219,Gazi Mahmud,17,Male,Urban,4,Honors,HSC,Yes,Yes,Mother,Yes,Yes,3,Yes,Private,87,Yes,83,82,80,77,74,Commerce
 7220,Halima Begum,16,Female,Rural,5,SSC,SSC,No,No,Other,No,No,1,No,Govt,68,No,65,60,58,55,50,Arts
-7221,Iftekhar Ali,15,Male,City,6,HSC,Hons,Yes,Yes,Father,Yes,Yes,4,Yes,Semi_Govt,92,Yes,84,92,85,81,80,Science
-7222,Jannatul Ferdous,17,Female,Urban,4,Hons,Masters,Yes,Yes,Mother,Yes,Yes,2,Yes,Private,88,Yes,82,85,80,76,75,Commerce
+7221,Iftekhar Ali,15,Male,City,6,HSC,Honors,Yes,Yes,Father,Yes,Yes,4,Yes,Semi_Govt,92,Yes,84,92,85,81,80,Science
+7222,Jannatul Ferdous,17,Female,Urban,4,Honors,Masters,Yes,Yes,Mother,Yes,Yes,2,Yes,Private,88,Yes,82,85,80,76,75,Commerce
 7223,Kabir Hossain,17,Male,Rural,5,SSC,SSC,No,Yes,Father,No,No,1,No,Govt,69,No,69,68,65,71,58,Arts
-7224,Laila Sultana,17,Female,City,4,HSC,Hons,Yes,Yes,Other,Yes,Yes,3,Yes,Semi_Govt,92,Yes,86,89,84,81,80,Science
+7224,Laila Sultana,17,Female,City,4,HSC,Honors,Yes,Yes,Other,Yes,Yes,3,Yes,Semi_Govt,92,Yes,86,89,84,81,80,Science
 7225,Mahin Islam,15,Male,Urban,3,Diploma,HSC,Yes,Yes,Mother,Yes,Yes,2,Yes,Private,87,Yes,83,81,79,75,74,Commerce
 7226,Naima Akter,15,Female,Rural,5,SSC,SSC,No,Yes,Father,No,No,1,No,Govt,68,No,68,65,60,57,55,Arts
-7227,Oishi Hasan,16,Female,City,6,Hons,Masters,Yes,Yes,Other,Yes,Yes,3,Yes,Private,91,Yes,84,85,82,79,77,Science
+7227,Oishi Hasan,16,Female,City,6,Honors,Masters,Yes,Yes,Other,Yes,Yes,3,Yes,Private,91,Yes,84,85,82,79,77,Science
 7228,Pabel Chowdhury,17,Male,Urban,4,HSC,SSC,Yes,No,Father,Yes,Yes,2,Yes,Semi_Govt,87,Yes,80,82,78,75,72,Commerce
 7229,Rabeya Begum,16,Female,Rural,4,SSC,SSC,No,Yes,Mother,No,No,1,No,Private,69,No,68,66,60,58,55,Arts
-7230,Sajid Mahmud,18,Male,City,5,Hons,HSC,Yes,Yes,Father,Yes,Yes,3,Yes,Govt,89,Yes,84,83,80,77,75,Commerce
+7230,Sajid Mahmud,18,Male,City,5,Honors,HSC,Yes,Yes,Father,Yes,Yes,3,Yes,Govt,89,Yes,84,83,80,77,75,Commerce
 7231,Tasnim Jahan,15,Female,Urban,4,HSC,Diploma,Yes,Yes,Mother,Yes,Yes,2,Yes,Private,86,Yes,78,80,75,72,86,Commerce
 7232,Umme Habiba,17,Female,Rural,5,SSC,SSC,No,No,Other,No,No,1,No,Semi_Govt,67,No,65,62,60,58,55,Arts
-7233,Vasha Akter,16,Female,City,4,HSC,Hons,Yes,Yes,Father,Yes,Yes,3,Yes,Private,90,Yes,86,92,82,79,77,Science
+7233,Vasha Akter,16,Female,City,4,HSC,Honors,Yes,Yes,Father,Yes,Yes,3,Yes,Private,90,Yes,86,92,82,79,77,Science
 7234,Wasim Ali,17,Male,Urban,4,Diploma,HSC,Yes,Yes,Mother,Yes,Yes,2,Yes,Govt,88,Yes,83,81,78,75,72,Commerce
 7235,Xenia Chowdhury,18,Female,Rural,5,SSC,HSC,No,Yes,Father,No,No,1,No,Semi_Govt,69,No,70,68,65,71,58,Arts
-7236,Yasir Islam,15,Male,City,6,Hons,Masters,Yes,Yes,Other,Yes,Yes,3,Yes,Private,87,Yes,82,85,80,78,77,Commerce
+7236,Yasir Islam,15,Male,City,6,Honors,Masters,Yes,Yes,Other,Yes,Yes,3,Yes,Private,87,Yes,82,85,80,78,77,Commerce
 7237,Zara Rahman,16,Female,Urban,4,HSC,Diploma,Yes,Yes,Mother,Yes,Yes,2,Yes,Govt,89,Yes,84,83,80,77,75,Commerce
 7238,Arif Zaman,16,Male,Urban,4,HSC,SSC,Yes,No,Father,Yes,Yes,6,Yes,Semi_Govt,89,Yes,85,80,78,76,74,Commerce
-7239,Bilal Ahmed,17,Male,City,5,Hons,Masters,Yes,Yes,Mother,Yes,Yes,7,Yes,Private,89,No,80,82,84,77,79,Science
+7239,Bilal Ahmed,17,Male,City,5,Honors,Masters,Yes,Yes,Mother,Yes,Yes,7,Yes,Private,89,No,80,82,84,77,79,Science
 7240,Chandra Debnath,15,Male,Rural,4,SSC,HSC,No,Yes,Father,No,No,5,No,Govt,67,No,70,68,65,63,61,Arts
 7241,Dilara Sultana,17,Female,Urban,6,HSC,Diploma,Yes,No,Mother,Yes,Yes,6,Yes,Semi_Govt,91,Yes,87,84,83,78,80,Science
 7242,Emon Hossain,17,Male,City,5,Diploma,HSC,Yes,Yes,Father,Yes,Yes,4,No,Private,85,Yes,82,75,76,74,86,Commerce
@@ -7244,17 +7244,17 @@
 7244,Gazi Rahman,17,Male,Urban,4,HSC,Diploma,No,Yes,Father,No,No,5,No,Private,71,No,73,70,68,64,62,Arts
 7245,Humaira Jahan,15,Female,City,6,Diploma,SSC,Yes,Yes,Mother,Yes,Yes,6,Yes,Semi_Govt,90,Yes,86,83,81,79,76,Science
 7246,Imran Chowdhury,15,Male,Rural,4,SSC,SSC,No,Yes,Father,No,No,4,No,Private,64,No,68,65,62,71,58,Arts
-7247,Jannat Parveen,17,Female,Urban,6,Hons,Masters,Yes,Yes,Other,Yes,Yes,7,Yes,Govt,92,Yes,88,85,84,80,81,Science
+7247,Jannat Parveen,17,Female,Urban,6,Honors,Masters,Yes,Yes,Other,Yes,Yes,7,Yes,Govt,92,Yes,88,85,84,80,81,Science
 7248,Kabir Hossain,16,Male,City,5,HSC,HSC,Yes,No,Father,Yes,Yes,6,No,Private,84,Yes,80,78,77,75,74,Commerce
 7249,Laila Begum,15,Female,Rural,4,SSC,HSC,No,Yes,Mother,No,No,5,No,Semi_Govt,67,No,66,63,60,58,76,Arts
-7250,Mofizur Rahman,17,Male,Urban,6,Masters,Hons,Yes,Yes,Father,Yes,Yes,8,Yes,Govt,94,Yes,90,92,85,82,81,Science
+7250,Mofizur Rahman,17,Male,Urban,6,Masters,Honors,Yes,Yes,Father,Yes,Yes,8,Yes,Govt,94,Yes,90,92,85,82,81,Science
 7251,Nisha Akhter,17,Female,City,4,HSC,Diploma,Yes,No,Mother,Yes,Yes,5,Yes,Private,73,Yes,80,77,73,86,69,Arts
 7252,Omar Ali,17,Male,Rural,5,SSC,SSC,No,Yes,Father,No,No,6,No,Semi_Govt,65,No,72,70,68,64,61,Arts
 7253,Parveen Jahan,15,Female,Urban,5,HSC,HSC,Yes,Yes,Mother,Yes,Yes,7,Yes,Private,87,Yes,84,82,79,77,76,Commerce
 7254,Qasim Rahman,15,Male,City,6,Diploma,Masters,Yes,Yes,Father,Yes,Yes,6,No,Govt,88,Yes,85,80,78,76,73,Commerce
 7255,Rina Sultana,16,Female,Rural,4,HSC,Diploma,No,Yes,Mother,No,No,5,No,Semi_Govt,64,No,70,68,65,62,71,Arts
 7256,Shakib Al Hasan,17,Male,Urban,5,SSC,HSC,Yes,No,Father,Yes,Yes,6,Yes,Private,85,Yes,82,80,77,74,72,Commerce
-7257,Tamanna Islam,16,Female,City,6,Masters,Hons,Yes,Yes,Other,Yes,Yes,8,Yes,Govt,94,Yes,87,85,83,81,80,Science
+7257,Tamanna Islam,16,Female,City,6,Masters,Honors,Yes,Yes,Other,Yes,Yes,8,Yes,Govt,94,Yes,87,85,83,81,80,Science
 7258,Usman Miah,18,Male,Rural,4,HSC,SSC,No,Yes,Father,No,No,5,No,Semi_Govt,66,No,70,67,65,62,71,Arts
 7259,Vasha Ahmed,15,Female,Urban,5,HSC,Diploma,Yes,Yes,Mother,Yes,Yes,7,Yes,Private,89,Yes,86,83,80,78,76,Commerce
 7260,Wasim Uddin,17,Male,City,6,Diploma,HSC,Yes,No,Father,Yes,Yes,8,No,Govt,87,Yes,83,81,80,78,77,Commerce
@@ -7264,159 +7264,159 @@
 7264,Farzana Ahmed,15,Female,Rural,5,SSC,HSC,No,Yes,Mother,No,No,6,No,Private,67,No,70,68,65,63,61,Arts
 7265,Jamil Uddin,16,Male,City,4,Diploma,Masters,Yes,Yes,Father,Yes,Yes,7,Yes,Semi_Govt,92,Yes,88,84,82,80,77,Science
 7266,Saira Begum,16,Female,Urban,6,HSC,HSC,Yes,No,Mother,Yes,Yes,4,No,Private,74,Yes,76,73,70,68,65,Arts
-7267,Nasir Khan,17,Male,Rural,5,Hons,SSC,No,Yes,Father,No,No,5,Yes,Govt,66,No,71,69,67,64,71,Arts
+7267,Nasir Khan,17,Male,Rural,5,Honors,SSC,No,Yes,Father,No,No,5,Yes,Govt,66,No,71,69,67,64,71,Arts
 7268,Rina Akter,15,Female,City,4,HSC,Diploma,Yes,Yes,Mother,Yes,Yes,6,Yes,Private,88,Yes,85,82,79,77,75,Commerce
 7269,Karim Ali,17,Male,Urban,4,SSC,HSC,Yes,No,Father,Yes,Yes,6,No,Semi_Govt,75,No,73,67,68,65,63,Arts
-7270,Meher Hossain,17,Female,Rural,6,HSC,Hons,No,Yes,Mother,No,No,5,Yes,Govt,64,Yes,69,67,64,62,71,Arts
+7270,Meher Hossain,17,Female,Rural,6,HSC,Honors,No,Yes,Mother,No,No,5,Yes,Govt,64,Yes,69,67,64,62,71,Arts
 7271,Shahid Ali,15,Male,City,5,Diploma,Masters,Yes,Yes,Father,Yes,Yes,7,Yes,Private,90,Yes,86,83,81,78,80,Science
 7272,Fariha Rahman,17,Female,Urban,4,HSC,HSC,No,No,Mother,No,Yes,6,No,Semi_Govt,73,No,74,67,70,68,66,Arts
 7273,Tariq Jahan,15,Male,Rural,5,SSC,HSC,Yes,Yes,Father,Yes,Yes,8,Yes,Private,93,Yes,89,82,85,82,80,Science
 7274,Shila Rahman,15,Female,City,4,HSC,Diploma,No,Yes,Mother,No,Yes,6,No,Govt,71,Yes,75,70,70,68,67,Arts
-7275,Asif Miah,17,Male,Urban,6,Hons,Masters,Yes,No,Father,Yes,Yes,5,Yes,Semi_Govt,84,No,80,78,76,74,72,Commerce
+7275,Asif Miah,17,Male,Urban,6,Honors,Masters,Yes,No,Father,Yes,Yes,5,Yes,Semi_Govt,84,No,80,78,76,74,72,Commerce
 7276,Samia Begum,16,Female,Rural,5,SSC,HSC,No,Yes,Mother,No,No,4,No,Private,67,Yes,68,65,62,71,69,Arts
 7277,Imran Chowdhury,15,Male,City,4,HSC,SSC,Yes,Yes,Father,Yes,Yes,6,Yes,Govt,88,Yes,84,82,79,76,74,Commerce
 7278,Sultana Akter,17,Female,Urban,6,Diploma,HSC,No,Yes,Mother,No,Yes,7,No,Semi_Govt,72,No,71,69,67,65,63,Arts
 7279,Habib Uddin,17,Male,Rural,4,SSC,HSC,Yes,No,Father,Yes,Yes,6,Yes,Private,70,Yes,77,71,72,86,72,Arts
-7280,Rumi Akhter,17,Female,City,5,Hons,Masters,No,Yes,Mother,No,Yes,7,Yes,Govt,86,Yes,82,80,78,74,73,Commerce
+7280,Rumi Akhter,17,Female,City,5,Honors,Masters,No,Yes,Mother,No,Yes,7,Yes,Govt,86,Yes,82,80,78,74,73,Commerce
 7281,Tariq Ahmed,15,Male,Urban,4,HSC,Diploma,Yes,No,Father,Yes,Yes,6,No,Semi_Govt,69,No,70,68,66,64,63,Arts
 7282,Sara Rahman,15,Female,Rural,6,Masters,HSC,Yes,Yes,Mother,Yes,Yes,8,Yes,Private,94,Yes,88,85,83,80,78,Science
 7283,Kamal Uddin,15,Male,City,5,Diploma,SSC,Yes,Yes,Father,Yes,Yes,6,No,Govt,83,Yes,79,74,74,71,86,Commerce
 7284,Rima Sultana,16,Female,Urban,4,SSC,HSC,No,Yes,Mother,No,Yes,5,No,Private,71,Yes,72,70,68,66,64,Arts
 7285,Naimur Rahman,17,Male,Rural,6,Masters,HSC,Yes,No,Father,Yes,Yes,8,Yes,Semi_Govt,92,Yes,86,84,81,78,76,Science
 7286,Fariha Jahan,16,Female,City,5,HSC,Diploma,Yes,Yes,Mother,Yes,Yes,7,Yes,Private,86,Yes,83,80,77,74,72,Commerce
-7287,Jannatul Ferduty,18,Female,Rural,4,Hons,Masters,No,Yes,Father,No,Yes,6,Yes,Govt,87,Yes,85,78,75,80,75,Commerce
-7288,Habiba Prodhan,15,Female,Urban,4,Diploma,Hons,No,Yes,Father,Yes,Yes,8,Yes,Private,50,Yes,84,92,78,82,72,Commerce
+7287,Jannatul Ferduty,18,Female,Rural,4,Honors,Masters,No,Yes,Father,No,Yes,6,Yes,Govt,87,Yes,85,78,75,80,75,Commerce
+7288,Habiba Prodhan,15,Female,Urban,4,Diploma,Honors,No,Yes,Father,Yes,Yes,8,Yes,Private,50,Yes,84,92,78,82,72,Commerce
 7289,Akash Hossain,17,Male,City,3,HSC,Diploma,Yes,No,Mother,No,Yes,5,Yes,Semi_Govt,70,Yes,80,48,84,78,79,Arts
 7290,Sakib Rahman,16,Male,Rural,3,SSC,Diploma,No,Yes,Father,Yes,Yes,4,Yes,Private,69,Yes,86,64,52,72,74,Arts
-7291,Abdur Rahim,17,Male,Rural,4,SSC,Hons,No,Yes,Father,Yes,Yes,6,Yes,Govt,52,Yes,75,52,57,83,78,Arts
+7291,Abdur Rahim,17,Male,Rural,4,SSC,Honors,No,Yes,Father,Yes,Yes,6,Yes,Govt,52,Yes,75,52,57,83,78,Arts
 7292,Suman Mia,18,Male,Urban,4,SSC,HSC,No,Yes,Father,Yes,Yes,5,Yes,Semi_Govt,56,Yes,72,48,61,71,79,Arts
 7293,Mukta Akter,15,Female,Urban,3,HSC,HSC,Yes,Yes,Mother,Yes,Yes,2,No,Private,50,Yes,84,59,62,86,75,Arts
 7294,Mst.Prama Akter,16,Female,Urban,5,HSC,SSC,Yes,Yes,Father,Yes,Yes,3,No,Govt,55,Yes,70,78,63,86,74,Arts
-7295,Md. Sakil Hossain,16,Male,Urban,5,Hons,Masters,No,No,Other,No,No,7,Yes,Semi_Govt,62,Yes,84,82,71,68,75,Commerce
-7296,Emdadul Haq,17,Male,City,6,Diploma,Hons,No,No,Father,No,Yes,8,Yes,Private,63,Yes,52,72,72,69,71,Commerce
+7295,Md. Sakil Hossain,16,Male,Urban,5,Honors,Masters,No,No,Other,No,No,7,Yes,Semi_Govt,62,Yes,84,82,71,68,75,Commerce
+7296,Emdadul Haq,17,Male,City,6,Diploma,Honors,No,No,Father,No,Yes,8,Yes,Private,63,Yes,52,72,72,69,71,Commerce
 7297,Md. Alamgir Hossain,15,Male,City,3,Diploma,Diploma,No,Yes,Father,Yes,Yes,4,Yes,Govt,64,No,65,74,73,65,72,Commerce
 7298,Sadia Akter,17,Female,Rural,5,SSC,HSC,Yes,Yes,Father,Yes,No,5,No,Semi_Govt,65,Yes,68,54,80,74,73,Arts
-7299,Md. Nayeem. Miah,17,Male,City,4,HSC,Hons,No,Yes,Father,Yes,No,6,Yes,Private,67,Yes,78,52,82,79,87,Arts
-7300,Runa Akter,15,Female,Urban,5,SSC,Hons,No,Yes,Father,Yes,Yes,3,Yes,Govt,67,No,84,64,85,72,89,Arts
+7299,Md. Nayeem. Miah,17,Male,City,4,HSC,Honors,No,Yes,Father,Yes,No,6,Yes,Private,67,Yes,78,52,82,79,87,Arts
+7300,Runa Akter,15,Female,Urban,5,SSC,Honors,No,Yes,Father,Yes,Yes,3,Yes,Govt,67,No,84,64,85,72,89,Arts
 7301,Mamun Chowdhury,17,Male,City,6,HSC,Diploma,No,Yes,Father,Yes,Yes,5,Yes,Private,60,No,52,68,64,80,85,Arts
-7302,Motiur Rahman,15,Male,City,7,Hons,Hons,No,Yes,Mother,Yes,Yes,4,Yes,Semi_Govt,40,Yes,54,62,65,84,84,Arts
+7302,Motiur Rahman,15,Male,City,7,Honors,Honors,No,Yes,Mother,Yes,Yes,4,Yes,Semi_Govt,40,Yes,54,62,65,84,84,Arts
 7303,Jakia Sultana,15,Female,Urban,3,SSC,Masters,No,Yes,Father,No,Yes,4,No,Private,52,Yes,68,70,75,85,80,Commerce
 7304,Abdul Kader Jelani,17,Male,Urban,4,SSC,HSC,Yes,No,Mother,No,No,6,Yes,Govt,53,Yes,72,75,76,74,80,Commerce
-7305,Arif Miah,16,Male,City,5,HSC,Hons,No,Yes,Father,Yes,Yes,6,Yes,Govt,52,Yes,54,80,83,72,86,Commerce
+7305,Arif Miah,16,Male,City,5,HSC,Honors,No,Yes,Father,Yes,Yes,6,Yes,Govt,52,Yes,54,80,83,72,86,Commerce
 7306,Masudul Islam,15,Male,Rural,3,HSC,Masters,No,Yes,Father,Yes,Yes,2,Yes,Govt,59,Yes,18,54,52,65,55,Arts
 7307,Md. Rasel,17,Male,City,6,Diploma,Diploma,No,Yes,Father,Yes,No,3,Yes,Govt,56,Yes,90,52,59,68,72,Arts
-7308,Rony Miah,17,Male,Urban,5,Hons,HSC,Yes,Yes,Mother,Yes,Yes,5,No,Govt,67,Yes,40,69,68,62,86,Arts
-7309,Anju Rani Das,17,Female,Urban,5,HSC,Hons,No,Yes,Mother,Yes,Yes,8,No,Govt,68,Yes,72,62,66,48,76,Arts
+7308,Rony Miah,17,Male,Urban,5,Honors,HSC,Yes,Yes,Mother,Yes,Yes,5,No,Govt,67,Yes,40,69,68,62,86,Arts
+7309,Anju Rani Das,17,Female,Urban,5,HSC,Honors,No,Yes,Mother,Yes,Yes,8,No,Govt,68,Yes,72,62,66,48,76,Arts
 7310,Tayeba Rahman,15,Female,Urban,3,SSC,Diploma,No,Yes,Father,Yes,Yes,7,Yes,Govt,67,No,54,63,72,45,83,Arts
 7311,Jahidul Islam,16,Male,Rural,4,HSC,Diploma,No,Yes,Father,No,Yes,8,Yes,Govt,74,Yes,80,78,75,42,52,Commerce
 7312,Din Islam,18,Male,City,4,Diploma,HSC,No,Yes,Father,Yes,Yes,5,Yes,Govt,81,Yes,78,72,55,80,75,Commerce
 7313,Afrin Akter,16,Female,Urban,4,Under_SSC,HSC,No,Yes,Father,Yes,Yes,5,No,Govt,85,Yes,82,85,87,80,83,Science
 7314,Fahim Bhuiyan,15,Male,Urban,3,HSC,Diploma,No,Yes,Father,Yes,No,5,Yes,Govt,65,Yes,70,71,72,86,72,Commerce
-7315,Rabeya Akter,17,Female,Rural,3,SSC,Hons,No,Yes,Father,Yes,Yes,4,Yes,Govt,76,Yes,88,84,86,83,85,Science
-7316,Md. Mahmud Hasan Riaz,18,Male,Urban,4,HSC,Hons,No,Yes,Father,Yes,Yes,4,Yes,Govt,67,Yes,78,71,80,77,79,Science
-7317,Sabin Sarker,17,Male,City,5,Hons,Masters,Yes,Yes,Father,Yes,Yes,6,Yes,Govt,58,Yes,71,70,73,69,72,Commerce
+7315,Rabeya Akter,17,Female,Rural,3,SSC,Honors,No,Yes,Father,Yes,Yes,4,Yes,Govt,76,Yes,88,84,86,83,85,Science
+7316,Md. Mahmud Hasan Riaz,18,Male,Urban,4,HSC,Honors,No,Yes,Father,Yes,Yes,4,Yes,Govt,67,Yes,78,71,80,77,79,Science
+7317,Sabin Sarker,17,Male,City,5,Honors,Masters,Yes,Yes,Father,Yes,Yes,6,Yes,Govt,58,Yes,71,70,73,69,72,Commerce
 7318,Jihad Ahmed Pappu,15,Male,City,3,SSC,HSC,No,Yes,Father,Yes,Yes,6,No,Govt,69,Yes,83,86,84,85,92,Science
-7319,Md. Alif,19,Male,Urban,5,HSC,Hons,No,Yes,Father,Yes,No,3,No,Govt,70,Yes,65,70,68,66,86,Arts
+7319,Md. Alif,19,Male,Urban,5,HSC,Honors,No,Yes,Father,Yes,No,3,No,Govt,70,Yes,65,70,68,66,86,Arts
 7320,Md. Shakil Bhuiyan,16,Male,Urban,4,Diploma,Diploma,No,Yes,Father,Yes,Yes,6,No,Govt,84,Yes,75,70,71,73,86,Commerce
-7321,Shahinur Akter Tuli,18,Female,Rural,6,SSC,Hons,Yes,Yes,Father,Yes,Yes,7,No,Govt,85,Yes,87,89,86,88,84,Science
-7322,Mohibulla,18,Male,Rural,7,Hons,Diploma,Yes,No,Mother,No,Yes,8,Yes,Govt,81,Yes,73,70,75,72,86,Commerce
+7321,Shahinur Akter Tuli,18,Female,Rural,6,SSC,Honors,Yes,Yes,Father,Yes,Yes,7,No,Govt,85,Yes,87,89,86,88,84,Science
+7322,Mohibulla,18,Male,Rural,7,Honors,Diploma,Yes,No,Mother,No,Yes,8,Yes,Govt,81,Yes,73,70,75,72,86,Commerce
 7323,Yasin Toufiq Ahammed,17,Male,Rural,3,HSC,HSC,No,Yes,Father,Yes,Yes,5,Yes,Govt,83,Yes,78,71,73,86,71,Commerce
 7324,Minhaj Alam Sourob,19,Male,Urban,4,Masters,Masters,Yes,Yes,Mother,Yes,Yes,5,No,Govt,39,Yes,65,68,66,86,69,Arts
-7325,Suvon Mia,17,Male,Urban,4,Diploma,Hons,No,Yes,Father,Yes,No,6,No,Govt,55,Yes,85,84,87,82,80,Science
+7325,Suvon Mia,17,Male,Urban,4,Diploma,Honors,No,Yes,Father,Yes,No,6,No,Govt,55,Yes,85,84,87,82,80,Science
 7326,Tanzin,17,Female,Urban,4,SSC,Masters,No,Yes,Mother,Yes,Yes,4,Yes,Govt,47,Yes,69,70,68,66,86,Commerce
-7327,Tunmun Chakraborty,15,Female,City,5,Masters,Hons,Yes,Yes,Other,No,No,8,Yes,Govt,73,Yes,78,71,79,77,75,Science
+7327,Tunmun Chakraborty,15,Female,City,5,Masters,Honors,Yes,Yes,Other,No,No,8,Yes,Govt,73,Yes,78,71,79,77,75,Science
 7328,Aparupa Wasia Munira,17,Female,City,3,HSC,Diploma,No,Yes,Father,Yes,Yes,8,Yes,Govt,57,Yes,68,70,72,69,86,Commerce
-7329,Farzana Akter,18,Female,Urban,6,Hons,Hons,No,Yes,Father,Yes,Yes,7,Yes,Govt,69,Yes,89,85,87,86,84,Science
+7329,Farzana Akter,18,Female,Urban,6,Honors,Honors,No,Yes,Father,Yes,Yes,7,Yes,Govt,69,Yes,89,85,87,86,84,Science
 7330,Ayasa Akter Hira,19,Female,City,5,Diploma,Masters,No,Yes,Father,Yes,Yes,6,No,Govt,83,Yes,77,72,75,76,78,Commerce
 7331,Sanjida Akter,19,Female,Urban,5,HSC,Diploma,No,Yes,Father,Yes,Yes,6,Yes,Govt,47,No,65,68,64,67,72,Arts
-7332,Shanto,18,Male,Rural,3,SSC,Hons,No,Yes,Mother,No,Yes,5,Yes,Govt,92,Yes,84,86,83,82,80,Science
+7332,Shanto,18,Male,Rural,3,SSC,Honors,No,Yes,Mother,No,Yes,5,Yes,Govt,92,Yes,84,86,83,82,80,Science
 7333,Jaouata Afnan Shyema,16,Female,City,4,Under_SSC,SSC,No,Yes,Father,Yes,Yes,4,No,Govt,84,Yes,85,92,87,83,92,Science
 7334,Zannatul Ferdus Habiba,19,Female,Urban,4,Under_SSC,SSC,No,Yes,Father,Yes,No,4,No,Govt,81,Yes,78,71,80,76,78,Science
-7335,Fazla Rabbi,18,Male,Rural,4,Masters,Hons,No,Yes,Father,Yes,Yes,5,Yes,Govt,64,Yes,70,70,68,65,71,Commerce
-7336,Md. Kamal Mia,18,Male,City,3,HSC,Hons,No,Yes,Mother,Yes,Yes,5,Yes,Govt,55,Yes,68,70,65,68,66,Commerce
-7337,Md. Mir Hossain,16,Male,Urban,3,Hons,Masters,Yes,Yes,Father,Yes,Yes,4,Yes,Govt,69,Yes,90,92,89,85,84,Science
-7338,Md. Tanvir Rahman,16,Male,Rural,4,Diploma,Hons,No,Yes,Mother,Yes,Yes,5,Yes,Govt,63,Yes,64,67,63,62,71,Arts
-7339,Mabia Afrin,18,Female,City,5,HSC,Hons,No,Yes,Mother,Yes,No,3,No,Govt,71,Yes,85,82,83,81,80,Science
-7340,Ashraful Islam,24,Male,Urban,3,Hons,HSC,Yes,No,Father,No,No,5,Yes,Govt,69,Yes,78,82,79,75,76,Commerce
+7335,Fazla Rabbi,18,Male,Rural,4,Masters,Honors,No,Yes,Father,Yes,Yes,5,Yes,Govt,64,Yes,70,70,68,65,71,Commerce
+7336,Md. Kamal Mia,18,Male,City,3,HSC,Honors,No,Yes,Mother,Yes,Yes,5,Yes,Govt,55,Yes,68,70,65,68,66,Commerce
+7337,Md. Mir Hossain,16,Male,Urban,3,Honors,Masters,Yes,Yes,Father,Yes,Yes,4,Yes,Govt,69,Yes,90,92,89,85,84,Science
+7338,Md. Tanvir Rahman,16,Male,Rural,4,Diploma,Honors,No,Yes,Mother,Yes,Yes,5,Yes,Govt,63,Yes,64,67,63,62,71,Arts
+7339,Mabia Afrin,18,Female,City,5,HSC,Honors,No,Yes,Mother,Yes,No,3,No,Govt,71,Yes,85,82,83,81,80,Science
+7340,Ashraful Islam,24,Male,Urban,3,Honors,HSC,Yes,No,Father,No,No,5,Yes,Govt,69,Yes,78,82,79,75,76,Commerce
 7341,Md. Sabbir Hossain,16,Male,Rural,5,Non_Educated,Masters,No,Yes,Other,No,Yes,4,Yes,Govt,58,No,67,68,69,65,62,Arts
-7342,Md. Rifat Islam,19,Male,City,4,Hons,Hons,No,Yes,Mother,No,Yes,4,Yes,Govt,74,No,88,85,83,80,92,Science
+7342,Md. Rifat Islam,19,Male,City,4,Honors,Honors,No,Yes,Mother,No,Yes,4,Yes,Govt,74,No,88,85,83,80,92,Science
 7343,Md. Mehedi Hasan,17,Male,Urban,6,HSC,Diploma,No,Yes,Father,Yes,Yes,6,No,Govt,67,Yes,60,48,58,65,66,Arts
 7344,Hasibul Hasan,18,Male,Rural,5,Non_Educated,HSC,No,Yes,Father,Yes,Yes,6,Yes,Private,82,Yes,80,75,85,81,92,Science
-7345,Sajid Hassan,15,Male,City,4,Hons,Hons,No,Yes,Father,Yes,Yes,2,No,Private,90,Yes,90,89,88,85,86,Science
-7346,Siam Al Shahriar,16,Male,Rural,4,SSC,Hons,No,Yes,Father,Yes,Yes,3,No,Semi_Govt,59,Yes,50,48,53,71,62,Arts
+7345,Sajid Hassan,15,Male,City,4,Honors,Honors,No,Yes,Father,Yes,Yes,2,No,Private,90,Yes,90,89,88,85,86,Science
+7346,Siam Al Shahriar,16,Male,Rural,4,SSC,Honors,No,Yes,Father,Yes,Yes,3,No,Semi_Govt,59,Yes,50,48,53,71,62,Arts
 7347,Sume Akter,17,Female,Urban,6,HSC,Masters,No,Yes,Father,No,Yes,5,Yes,Private,65,Yes,75,70,78,77,86,Commerce
-7348,Md. Sohag Miah,19,Male,City,5,Diploma,Hons,Yes,Yes,Mother,Yes,Yes,8,Yes,Govt,60,Yes,84,92,83,85,92,Science
+7348,Md. Sohag Miah,19,Male,City,5,Diploma,Honors,Yes,Yes,Mother,Yes,Yes,8,Yes,Govt,60,Yes,84,92,83,85,92,Science
 7349,Jahedul Islam Refat,18,Male,Rural,4,Under_SSC,Diploma,No,Yes,Mother,Yes,No,7,Yes,Semi_Govt,82,Yes,68,70,71,65,67,Commerce
-7350,Md. Sadek Mridha,18,Male,Urban,5,Hons,Hons,No,Yes,Father,Yes,Yes,8,Yes,Private,95,No,92,89,91,90,85,Science
+7350,Md. Sadek Mridha,18,Male,Urban,5,Honors,Honors,No,Yes,Father,Yes,Yes,8,Yes,Private,95,No,92,89,91,90,85,Science
 7351,Ankan Chandra Biswas,17,Male,City,4,SSC,Masters,No,Yes,Father,No,Yes,5,Yes,Govt,77,Yes,63,67,60,66,71,Arts
 7352,Mohin Bhuiyan,18,Male,Rural,6,HSC,Diploma,No,Yes,Mother,No,Yes,5,Yes,Semi_Govt,86,Yes,80,83,81,85,78,Science
 7353,Md. Rashdul Alam,18,Male,Urban,5,Masters,Masters,Yes,Yes,Father,Yes,Yes,5,No,Private,93,Yes,85,92,90,83,80,Science
-7354,Md. Sahin Mia,16,Male,City,4,Hons,Diploma,No,Yes,Father,Yes,Yes,4,No,Govt,81,Yes,75,70,68,86,65,Commerce
-7355,Lamia Akter Joba,17,Female,Rural,6,SSC,Hons,No,Yes,Father,Yes,No,4,Yes,Semi_Govt,69,Yes,55,48,60,62,65,Arts
-7356,Sabuj Chandra Das,18,Male,Urban,4,Hons,Masters,No,Yes,Mother,Yes,Yes,8,Yes,Private,90,Yes,82,85,89,80,84,Science
+7354,Md. Sahin Mia,16,Male,City,4,Honors,Diploma,No,Yes,Father,Yes,Yes,4,No,Govt,81,Yes,75,70,68,86,65,Commerce
+7355,Lamia Akter Joba,17,Female,Rural,6,SSC,Honors,No,Yes,Father,Yes,No,4,Yes,Semi_Govt,69,Yes,55,48,60,62,65,Arts
+7356,Sabuj Chandra Das,18,Male,Urban,4,Honors,Masters,No,Yes,Mother,Yes,Yes,8,Yes,Private,90,Yes,82,85,89,80,84,Science
 7357,Sadia Akter,17,Female,City,5,SSC,Masters,No,Yes,Mother,Yes,Yes,7,No,Govt,88,No,68,70,72,68,69,Commerce
 7358,Md. Payel Mia,17,Male,Rural,5,HSC,Diploma,No,Yes,Mother,No,No,6,Yes,Private,85,Yes,92,91,88,87,90,Science
-7359,Md. Midul Hasan Mehedi,17,Male,Urban,4,Diploma,Hons,Yes,No,Father,Yes,Yes,6,Yes,Semi_Govt,75,Yes,60,63,62,61,58,Arts
+7359,Md. Midul Hasan Mehedi,17,Male,Urban,4,Diploma,Honors,Yes,No,Father,Yes,Yes,6,Yes,Semi_Govt,75,Yes,60,63,62,61,58,Arts
 7360,Taufiqur Rahman Bhuiyan,18,Male,City,5,SSC,HSC,No,Yes,Father,No,Yes,5,Yes,Private,86,Yes,72,71,71,74,76,Commerce
-7361,Rafiul Hasan Siam,17,Male,Urban,4,HSC,Hons,No,Yes,Mother,Yes,Yes,4,No,Govt,82,Yes,89,92,91,87,88,Science
-7362,Swapan Ahmed Qureshi,19,Male,City,6,Hons,Masters,No,Yes,Father,Yes,Yes,4,No,Private,91,Yes,80,78,75,74,73,Commerce
+7361,Rafiul Hasan Siam,17,Male,Urban,4,HSC,Honors,No,Yes,Mother,Yes,Yes,4,No,Govt,82,Yes,89,92,91,87,88,Science
+7362,Swapan Ahmed Qureshi,19,Male,City,6,Honors,Masters,No,Yes,Father,Yes,Yes,4,No,Private,91,Yes,80,78,75,74,73,Commerce
 7363,Al Amin Miah,18,Male,Urban,5,SSC,Masters,No,Yes,Mother,Yes,Yes,5,Yes,Semi_Govt,73,Yes,67,65,62,64,62,Arts
-7364,Kakolee Rani Das,16,Female,City,4,HSC,Hons,No,Yes,Father,No,Yes,5,No,Govt,84,No,85,89,87,82,80,Science
+7364,Kakolee Rani Das,16,Female,City,4,HSC,Honors,No,Yes,Father,No,Yes,5,No,Govt,84,No,85,89,87,82,80,Science
 7365,Shreekanta Paul,19,Male,Urban,6,Diploma,HSC,No,Yes,Other,Yes,Yes,4,Yes,Private,89,Yes,76,75,80,78,75,Commerce
 7366,Nadiur Rahman Nadir,19,Male,City,4,Diploma,HSC,No,Yes,Father,Yes,Yes,5,Yes,Semi_Govt,76,Yes,58,60,59,57,66,Arts
 7367,Mst. Liya Akter,18,Female,Urban,5,Diploma,Diploma,Yes,Yes,Mother,No,Yes,3,No,Private,90,No,83,85,87,80,92,Science
 7368,Saima Sultana Bithi,19,Female,Rural,5,SSC,Masters,No,Yes,Father,Yes,Yes,5,Yes,Govt,50,Yes,62,64,60,66,65,Commerce
-7369,Mahmuda Sultana,18,Female,City,6,HSC,Hons,No,Yes,Other,Yes,Yes,4,Yes,Semi_Govt,88,Yes,91,90,89,87,86,Science
-7370,Chayon Kumar Halder,16,Male,Urban,4,Hons,HSC,No,Yes,Mother,No,No,4,No,Private,84,No,78,71,72,74,86,Commerce
+7369,Mahmuda Sultana,18,Female,City,6,HSC,Honors,No,Yes,Other,Yes,Yes,4,Yes,Semi_Govt,88,Yes,91,90,89,87,86,Science
+7370,Chayon Kumar Halder,16,Male,Urban,4,Honors,HSC,No,Yes,Mother,No,No,4,No,Private,84,No,78,71,72,74,86,Commerce
 7371,Sabikunnahar Toma,19,Female,Rural,5,SSC,Masters,No,Yes,Father,Yes,Yes,6,Yes,Govt,52,Yes,69,67,65,63,64,Arts
-7372,Hafiza Khanom,19,Female,City,6,Hons,Masters,Yes,Yes,Other,Yes,Yes,6,Yes,Semi_Govt,71,Yes,88,85,83,82,80,Science
+7372,Hafiza Khanom,19,Female,City,6,Honors,Masters,Yes,Yes,Other,Yes,Yes,6,Yes,Semi_Govt,71,Yes,88,85,83,82,80,Science
 7373,Ashika Mahmuba,16,Female,Urban,5,Diploma,Masters,Yes,Yes,Mother,No,Yes,2,No,Private,65,No,82,85,87,80,83,Science
-7374,Koli Khatun,16,Female,Rural,4,HSC,Hons,No,Yes,Father,Yes,No,3,Yes,Govt,57,Yes,70,71,72,86,72,Commerce
+7374,Koli Khatun,16,Female,Rural,4,HSC,Honors,No,Yes,Father,Yes,No,3,Yes,Govt,57,Yes,70,71,72,86,72,Commerce
 7375,Maymona Akter,19,Female,City,4,HSC,HSC,No,Yes,Mother,Yes,Yes,5,Yes,Semi_Govt,93,Yes,88,84,86,83,85,Science
 7376,Nurjahan Akther Mim,16,Female,Urban,5,Under_SSC,Diploma,No,Yes,Father,No,Yes,5,No,Private,87,No,78,71,80,77,79,Science
 7377,Mampi Halder,16,Female,Rural,4,SSC,Diploma,No,Yes,Other,Yes,Yes,4,Yes,Govt,85,Yes,71,70,73,69,72,Commerce
-7378,Md. Enayet Afza,19,Male,City,6,HSC,Hons,No,Yes,Father,Yes,Yes,4,Yes,Private,90,Yes,83,86,84,85,92,Science
-7379,Runa Akter,18,Female,Urban,5,Hons,Hons,No,Yes,Mother,No,No,6,No,Semi_Govt,73,No,65,70,68,66,86,Arts
+7378,Md. Enayet Afza,19,Male,City,6,HSC,Honors,No,Yes,Father,Yes,Yes,4,Yes,Private,90,Yes,83,86,84,85,92,Science
+7379,Runa Akter,18,Female,Urban,5,Honors,Honors,No,Yes,Mother,No,No,6,No,Semi_Govt,73,No,65,70,68,66,86,Arts
 7380,Bithika Bairagi,17,Female,Rural,4,SSC,Masters,No,Yes,Father,Yes,Yes,6,Yes,Private,89,Yes,75,70,71,73,86,Commerce
-7381,Akash Mondol,17,Male,City,4,HSC,Hons,No,Yes,Other,Yes,Yes,2,Yes,Govt,91,Yes,87,89,86,88,84,Science
+7381,Akash Mondol,17,Male,City,4,HSC,Honors,No,Yes,Other,Yes,Yes,2,Yes,Govt,91,Yes,87,89,86,88,84,Science
 7382,Nushrat Jahan,17,Female,Urban,6,Diploma,HSC,No,Yes,Mother,No,Yes,3,No,Private,84,No,73,70,75,72,86,Commerce
-7383,Yakub Hossain,17,Male,Rural,5,SSC,Hons,No,Yes,Father,Yes,Yes,5,Yes,Semi_Govt,89,Yes,78,71,73,86,71,Commerce
+7383,Yakub Hossain,17,Male,Rural,5,SSC,Honors,No,Yes,Father,Yes,Yes,5,Yes,Semi_Govt,89,Yes,78,71,73,86,71,Commerce
 7384,Sharmim Akter Tumpa,15,Female,City,5,HSC,Masters,No,Yes,Mother,Yes,Yes,8,Yes,Govt,77,Yes,65,68,66,86,69,Arts
-7385,Shakila Zafor,15,Female,Urban,3,Hons,HSC,No,Yes,Father,No,No,5,No,Private,86,No,85,84,87,82,80,Science
+7385,Shakila Zafor,15,Female,Urban,3,Honors,HSC,No,Yes,Father,No,No,5,No,Private,86,No,85,84,87,82,80,Science
 7386,Bithi Akter,16,Female,Rural,4,Under_SSC,SSC,No,Yes,Other,Yes,Yes,7,Yes,Semi_Govt,88,Yes,69,70,68,66,86,Commerce
 7387,Sumona Aktar,18,Female,City,4,SSC,SSC,No,Yes,Father,Yes,No,8,Yes,Private,90,Yes,78,71,79,77,75,Science
-7388,Md. Morsalin,19,Male,Urban,4,HSC,Hons,No,Yes,Mother,No,Yes,6,No,Govt,84,No,68,70,72,69,86,Commerce
-7389,Samira Akter,19,Female,Rural,3,Hons,SSC,No,Yes,Father,Yes,Yes,6,Yes,Semi_Govt,92,Yes,89,85,87,86,84,Science
+7388,Md. Morsalin,19,Male,Urban,4,HSC,Honors,No,Yes,Mother,No,Yes,6,No,Govt,84,No,68,70,72,69,86,Commerce
+7389,Samira Akter,19,Female,Rural,3,Honors,SSC,No,Yes,Father,Yes,Yes,6,Yes,Semi_Govt,92,Yes,89,85,87,86,84,Science
 7390,Most. Israt Jahan,18,Female,City,3,SSC,HSC,No,Yes,Other,Yes,Yes,5,Yes,Private,86,Yes,77,72,75,76,78,Commerce
 7391,Shahanaj Parvin,10,Female,Urban,4,SSC,Masters,No,Yes,Mother,No,Yes,6,No,Govt,72,No,65,68,64,67,72,Arts
-7392,Rabea Akther Shiule,18,Female,Rural,5,Hons,SSC,Yes,No,Father,Yes,Yes,7,Yes,Semi_Govt,90,Yes,84,86,83,82,80,Science
+7392,Rabea Akther Shiule,18,Female,Rural,5,Honors,SSC,Yes,No,Father,Yes,Yes,7,Yes,Semi_Govt,90,Yes,84,86,83,82,80,Science
 7393,Mitu Akther,16,Female,City,3,Masters,Masters,Yes,Yes,Mother,Yes,Yes,4,Yes,Private,91,Yes,85,92,87,83,92,Science
 7394,Akhi Khatun,15,Female,Urban,5,SSC,HSC,No,Yes,Father,No,No,5,No,Govt,87,No,78,71,80,76,78,Science
 7395,Urmi Khanom,18,Female,Rural,4,Under_SSC,Diploma,No,Yes,Other,Yes,Yes,6,Yes,Semi_Govt,83,Yes,70,70,68,65,71,Commerce
 7396,Ity Das,18,Female,City,6,HSC,HSC,No,Yes,Father,Yes,Yes,6,Yes,Private,90,Yes,68,70,65,68,66,Commerce
 7397,Mukta Rani Kor,19,Female,Urban,7,Diploma,Masters,No,Yes,Mother,No,Yes,5,No,Govt,84,No,90,92,89,85,84,Science
 7398,Arina Sultana,19,Female,Rural,3,Under_SSC,SSC,No,Yes,Father,Yes,Yes,7,Yes,Private,69,Yes,64,67,63,62,71,Arts
-7399,Nishi Singha,16,Female,City,4,Diploma,Hons,No,Yes,Mother,Yes,No,6,Yes,Semi_Govt,90,Yes,85,82,83,81,80,Science
+7399,Nishi Singha,16,Female,City,4,Diploma,Honors,No,Yes,Mother,Yes,No,6,Yes,Semi_Govt,90,Yes,85,82,83,81,80,Science
 7400,Samsun Nahar Nela,19,Female,Urban,5,SSC,Diploma,No,Yes,Father,No,No,8,No,Private,88,No,78,82,79,75,76,Commerce
 7401,Rojjena,18,Female,Rural,6,SSC,SSC,No,Yes,Other,Yes,Yes,6,Yes,Govt,67,Yes,67,68,69,65,62,Arts
 7402,Addore Bawess,16,Male,City,4,HSC,HSC,Yes,No,Father,Yes,Yes,5,Yes,Private,88,Yes,88,85,83,80,92,Science
-7403,Bonay Rani Baido,17,Female,City,5,Hons,Diploma,Yes,Yes,Mother,No,Yes,4,No,Semi_Govt,76,No,60,48,58,65,66,Arts
+7403,Bonay Rani Baido,17,Female,City,5,Honors,Diploma,Yes,Yes,Mother,No,Yes,4,No,Semi_Govt,76,No,60,48,58,65,66,Arts
 7404,Shahriar Hossain Badhon,15,Male,Rural,6,SSC,Diploma,No,Yes,Father,Yes,Yes,3,Yes,Private,82,Yes,80,75,85,81,92,Science
 7405,Tanu Ghosh,18,Male,Urban,3,HSC,HSC,No,Yes,Mother,Yes,Yes,2,Yes,Govt,94,Yes,90,89,88,85,86,Science
 7406,Mst. Afrin Akter Shimu,17,Female,City,5,Diploma,Masters,Yes,Yes,Father,No,Yes,3,No,Semi_Govt,73,No,50,48,53,71,62,Arts
 7407,Samira Jahan,18,Male,Rural,4,HSC,Diploma,No,Yes,Other,Yes,Yes,2,Yes,Private,81,Yes,75,70,78,77,86,Commerce
-7408,Rakin Toki Ahamed Shakil,17,Male,Urban,8,Hons,Hons,No,Yes,Father,Yes,Yes,4,Yes,Govt,92,Yes,84,92,83,85,92,Science
+7408,Rakin Toki Ahamed Shakil,17,Male,Urban,8,Honors,Honors,No,Yes,Father,Yes,Yes,4,Yes,Govt,92,Yes,84,92,83,85,92,Science
 7409,S. M. Mushfiqur Rahman,15,Male,Urban,4,HSC,SSC,Yes,No,Mother,No,No,5,No,Semi_Govt,86,No,68,70,71,65,67,Commerce
 7410,Saiful Islam,16,Male,Rural,5,Under_SSC,HSC,No,Yes,Father,Yes,Yes,6,Yes,Private,90,Yes,92,89,91,90,85,Science
 7411,Shafrina Tuz Zannat,17,Female,City,6,Diploma,Masters,No,Yes,Mother,Yes,Yes,5,Yes,Govt,45,Yes,63,67,60,66,71,Arts
 7412,Tazrin Tuba Jasi,15,Female,Urban,5,SSC,SSC,No,Yes,Father,No,Yes,4,No,Semi_Govt,88,No,80,83,81,85,78,Science
 7413,Mobashshira Islam Mithee,16,Female,Urban,6,SSC,Diploma,No,Yes,Mother,Yes,Yes,8,Yes,Private,87,Yes,85,92,90,83,80,Science
 7414,Abid Asif,17,Male,Rural,4,HSC,HSC,No,Yes,Father,No,Yes,6,No,Govt,52,No,75,70,68,86,65,Commerce
-7415,Rahat Ara Riya,18,Female,Urban,5,Hons,Diploma,No,Yes,Other,Yes,No,5,Yes,Private,56,Yes,55,48,60,62,65,Arts
+7415,Rahat Ara Riya,18,Female,Urban,5,Honors,Diploma,No,Yes,Other,Yes,No,5,Yes,Private,56,Yes,55,48,60,62,65,Arts
 7416,Shaan Sadia,18,Female,Urban,6,SSC,HSC,No,Yes,Father,Yes,Yes,2,Yes,Semi_Govt,65,Yes,82,85,89,80,84,Science
 7417,Mst. Umme Kulsum,19,Female,Rural,3,HSC,Masters,No,Yes,Mother,Yes,Yes,2,Yes,Private,57,Yes,68,70,72,68,69,Commerce
-7418,Nahida Afroj Disha,16,Female,Rural,4,Hons,SSC,No,Yes,Father,No,No,1,No,Govt,93,No,92,91,88,87,90,Science
-7419,Jannatul Mawa Asha,19,Female,Urban,5,SSC,Hons,No,Yes,Mother,Yes,Yes,6,Yes,Private,74,Yes,60,63,62,61,58,Arts
+7418,Nahida Afroj Disha,16,Female,Rural,4,Honors,SSC,No,Yes,Father,No,No,1,No,Govt,93,No,92,91,88,87,90,Science
+7419,Jannatul Mawa Asha,19,Female,Urban,5,SSC,Honors,No,Yes,Mother,Yes,Yes,6,Yes,Private,74,Yes,60,63,62,61,58,Arts
 7420,Mst. Tania Khatun,18,Female,Rural,5,HSC,Diploma,No,Yes,Other,No,Yes,6,No,Semi_Govt,85,No,72,71,71,74,76,Commerce
 7421,Md. Mahfuzur Rahman,16,Male,City,5,Diploma,SSC,Yes,Yes,Father,Yes,Yes,2,Yes,Govt,90,Yes,89,92,91,87,88,Science
 7422,Mehedi Hasan Prince,17,Male,Urban,6,Non_Educated,Under_SSC,Yes,Yes,Mother,Yes,Yes,3,Yes,Private,83,Yes,80,78,75,74,73,Commerce
@@ -7424,60 +7424,60 @@
 7424,Junnur Binte Amin,17,Female,City,5,SSC,Diploma,No,Yes,Other,Yes,Yes,8,Yes,Private,91,Yes,85,89,87,82,80,Science
 7425,Alik Hajong Tutul,18,Male,Urban,5,SSC,HSC,No,Yes,Mother,Yes,Yes,7,Yes,Govt,84,Yes,76,75,80,78,75,Commerce
 7426,Md.Fouad Hasan,15,Male,Rural,6,HSC,Masters,No,Yes,Father,No,Yes,8,No,Semi_Govt,69,No,58,60,59,57,66,Arts
-7427,Tanjid Ahsan Riad,18,Male,City,5,Hons,Masters,No,Yes,Other,Yes,Yes,5,Yes,Private,90,Yes,83,85,87,80,92,Science
+7427,Tanjid Ahsan Riad,18,Male,City,5,Honors,Masters,No,Yes,Other,Yes,Yes,5,Yes,Private,90,Yes,83,85,87,80,92,Science
 7428,Md. Nishad Alam,15,Male,Urban,4,Diploma,Diploma,No,Yes,Father,Yes,Yes,5,Yes,Govt,83,Yes,62,64,60,66,65,Commerce
-7429,Toukir Ahmed,18,Male,Rural,4,Hons,Hons,No,Yes,Mother,No,Yes,5,No,Semi_Govt,91,No,91,90,89,87,86,Science
+7429,Toukir Ahmed,18,Male,Rural,4,Honors,Honors,No,Yes,Mother,No,Yes,5,No,Semi_Govt,91,No,91,90,89,87,86,Science
 7430,Maria Hamid Mamo,16,Female,City,5,SSC,HSC,No,No,Father,Yes,No,4,Yes,Private,87,Yes,78,71,72,74,86,Commerce
-7431,Mehedi Hasan Masum,16,Male,Urban,4,HSC,Hons,No,Yes,Mother,Yes,Yes,4,Yes,Govt,74,Yes,69,67,65,63,64,Arts
-7432,Mst. Tamima Tabassum,17,Female,Rural,3,Hons,Masters,No,Yes,Other,No,Yes,6,No,Semi_Govt,92,No,88,85,83,82,80,Science
+7431,Mehedi Hasan Masum,16,Male,Urban,4,HSC,Honors,No,Yes,Mother,Yes,Yes,4,Yes,Govt,74,Yes,69,67,65,63,64,Arts
+7432,Mst. Tamima Tabassum,17,Female,Rural,3,Honors,Masters,No,Yes,Other,No,Yes,6,No,Semi_Govt,92,No,88,85,83,82,80,Science
 7433,Mst. Sadia Saharin,16,Female,City,3,SSC,Masters,No,Yes,Father,Yes,Yes,6,Yes,Private,92,Yes,75,85,82,86,86,Science
-7434,Mst. Moniratul Jannati Mou,18,Female,Urban,7,HSC,Hons,No,Yes,Mother,Yes,Yes,3,Yes,Govt,89,Yes,75,74,72,72,80,Science
+7434,Mst. Moniratul Jannati Mou,18,Female,Urban,7,HSC,Honors,No,Yes,Mother,Yes,Yes,3,Yes,Govt,89,Yes,75,74,72,72,80,Science
 7435,Mst. Afia Ismat,18,Female,Rural,3,Diploma,Masters,Yes,Yes,Father,No,No,6,No,Private,87,No,80,82,89,75,54,Commerce
 7436,Taiba Tabassum Tisha,19,Female,City,5,SSC,HSC,No,Yes,Other,Yes,Yes,7,Yes,Semi_Govt,50,Yes,85,82,78,71,55,Commerce
 7437,Sadiya Islam,18,Female,Urban,6,Diploma,Diploma,Yes,Yes,Mother,Yes,Yes,8,Yes,Private,75,Yes,88,95,93,75,58,Commerce
-7438,Hafsa Binte Farhad,17,Female,Rural,5,Hons,Masters,No,Yes,Father,Yes,Yes,5,Yes,Govt,69,Yes,55,62,65,76,54,Arts
-7439,Jocita Sanjana Jace,16,Female,City,4,Hons,Hons,No,Yes,Mother,Yes,Yes,5,Yes,Private,52,No,60,60,70,80,66,Commerce
-7440,Ariful Haque Afif,18,Male,Urban,4,Hons,Diploma,No,Yes,Father,No,Yes,6,No,Semi_Govt,56,No,65,70,65,77,87,Commerce
+7438,Hafsa Binte Farhad,17,Female,Rural,5,Honors,Masters,No,Yes,Father,Yes,Yes,5,Yes,Govt,69,Yes,55,62,65,76,54,Arts
+7439,Jocita Sanjana Jace,16,Female,City,4,Honors,Honors,No,Yes,Mother,Yes,Yes,5,Yes,Private,52,No,60,60,70,80,66,Commerce
+7440,Ariful Haque Afif,18,Male,Urban,4,Honors,Diploma,No,Yes,Father,No,Yes,6,No,Semi_Govt,56,No,65,70,65,77,87,Commerce
 7441,Tarifa Islam Maria,18,Female,Rural,5,Under_SSC,SSC,No,Yes,Mother,Yes,Yes,4,Yes,Govt,50,Yes,62,52,62,79,80,Commerce
-7442,Mumtahina Akter,17,Female,City,3,SSC,Hons,No,Yes,Father,Yes,No,2,No,Private,82,Yes,58,48,87,82,75,Science
+7442,Mumtahina Akter,17,Female,City,3,SSC,Honors,No,Yes,Father,Yes,No,2,No,Private,82,Yes,58,48,87,82,75,Science
 7443,Marzia Akter Muna,19,Female,Rural,5,SSC,SSC,No,Yes,Mother,Yes,No,3,Yes,Semi_Govt,59,Yes,75,74,54,81,74,Commerce
-7444,Mst. Nishat Tasnim Mimma,19,Female,City,4,HSC,Hons,No,Yes,Father,No,Yes,2,No,Private,58,No,74,80,55,65,76,Arts
+7444,Mst. Nishat Tasnim Mimma,19,Female,City,4,HSC,Honors,No,Yes,Father,No,Yes,2,No,Private,58,No,74,80,55,65,76,Arts
 7445,Md. Saif Khan,17,Male,Urban,6,HSC,HSC,No,Yes,Mother,Yes,Yes,4,Yes,Govt,59,Yes,71,56,58,68,72,Arts
-7446,Mst. Sangida,18,Female,Rural,7,Hons,Masters,Yes,Yes,Father,No,Yes,5,No,Semi_Govt,88,No,76,69,78,71,81,Science
+7446,Mst. Sangida,18,Female,Rural,7,Honors,Masters,Yes,Yes,Father,No,Yes,5,No,Semi_Govt,88,No,76,69,78,71,81,Science
 7447,Taskia Khatun,15,Female,City,3,SSC,SSC,No,Yes,Other,Yes,Yes,6,Yes,Private,72,Yes,73,70,87,65,54,Commerce
-7448,Sakib Mia,16,Male,Urban,4,HSC,Hons,No,Yes,Father,Yes,Yes,5,No,Govt,67,Yes,69,70,81,68,66,Commerce
+7448,Sakib Mia,16,Male,Urban,4,HSC,Honors,No,Yes,Father,Yes,Yes,5,No,Govt,67,Yes,69,70,81,68,66,Commerce
 7449,Moumita Chakraborty,18,Female,Rural,5,Under_SSC,Under_SSC,Yes,Yes,Mother,No,No,4,No,Semi_Govt,62,No,64,45,71,63,71,Commerce
 7450,Md. Shah Poran,17,Male,City,6,SSC,SSC,Yes,Yes,Father,Yes,No,8,Yes,Private,45,Yes,78,80,72,62,62,Commerce
 7451,Jannatul Ferdous Meem,15,Female,Urban,4,HSC,SSC,No,Yes,Mother,Yes,Yes,6,Yes,Govt,52,Yes,80,82,45,75,65,Arts
-7452,Anika Tabassum Ekra,15,Female,City,5,Hons,Hons,Yes,Yes,Father,No,Yes,5,No,Semi_Govt,53,No,82,71,76,76,72,Commerce
+7452,Anika Tabassum Ekra,15,Female,City,5,Honors,Honors,Yes,Yes,Father,No,Yes,5,No,Semi_Govt,53,No,82,71,76,76,72,Commerce
 7453,Murshida Khatun,15,Female,Urban,6,SSC,HSC,No,Yes,Mother,Yes,Yes,2,Yes,Private,47,Yes,48,68,52,42,74,Arts
-7454,Sadia Islam Samia,17,Female,Rural,3,HSC,Hons,No,Yes,Father,Yes,Yes,2,No,Govt,59,Yes,50,50,64,65,75,Commerce
+7454,Sadia Islam Samia,17,Female,Rural,3,HSC,Honors,No,Yes,Father,Yes,Yes,2,No,Govt,59,Yes,50,50,64,65,75,Commerce
 7455,Afsana Rubaiyat,18,Female,City,5,Diploma,Diploma,No,Yes,Mother,No,No,1,No,Private,56,No,52,67,68,45,72,Arts
 7456,Jannatul Nayeem Jhuma,18,Female,Rural,4,Under_SSC,SSC,No,Yes,Father,Yes,Yes,6,Yes,Semi_Govt,64,Yes,53,52,60,58,71,Commerce
 7457,Fahmid Ur Rahman Wafi,18,Male,City,8,Diploma,HSC,No,Yes,Other,Yes,Yes,6,Yes,Private,83,Yes,80,78,76,85,65,Science
 7458,Jerin Tasnim Proma,19,Female,Urban,4,SSC,HSC,No,Yes,Father,No,Yes,2,No,Govt,72,No,85,84,74,75,72,Commerce
 7459,Md. Samin Yasar,18,Male,Rural,5,HSC,Masters,No,Yes,Mother,Yes,Yes,3,Yes,Govt,74,Yes,84,73,67,47,69,Commerce
 7460,Md. Khalid Ibn Samad Miraz,16,Male,City,6,SSC,Diploma,No,Yes,Father,Yes,Yes,5,No,Govt,84,Yes,71,78,75,78,84,Science
-7461,Aysharaja Datta Barna,18,Female,City,5,Diploma,Hons,No,No,Mother,No,No,8,No,Govt,85,No,78,80,65,90,92,Science
+7461,Aysharaja Datta Barna,18,Female,City,5,Diploma,Honors,No,No,Mother,No,No,8,No,Govt,85,No,78,80,65,90,92,Science
 7462,Samia Islam,19,Female,City,6,SSC,Masters,No,Yes,Father,Yes,Yes,7,Yes,Govt,77,Yes,90,92,80,65,75,Science
 7463,Md.Sagor Islam,16,Male,City,5,HSC,HSC,No,No,Father,Yes,No,8,Yes,Govt,64,Yes,65,70,50,66,86,Commerce
 7464,Md. Sumon Mia,19,Male,Urban,4,SSC,Diploma,No,Yes,Mother,No,Yes,4,No,Govt,52,No,65,65,52,63,71,Arts
 7465,Md. Auntor Khan,15,Male,City,4,SSC,HSC,No,Yes,Father,Yes,Yes,4,Yes,Govt,73,Yes,92,82,82,77,71,Science
 7466,Nusrat Jarin,16,Female,City,5,HSC,HSC,No,Yes,Mother,Yes,Yes,6,No,Govt,54,Yes,88,70,69,76,62,Commerce
-7467,Most. Ayesha Siddika,17,Female,Urban,4,Hons,Diploma,No,Yes,Father,No,Yes,6,Yes,Govt,75,No,56,65,65,74,72,Commerce
+7467,Most. Ayesha Siddika,17,Female,Urban,4,Honors,Diploma,No,Yes,Father,No,Yes,6,Yes,Govt,75,No,56,65,65,74,72,Commerce
 7468,Mushfika Rahman Mariya,16,Female,Urban,3,SSC,SSC,No,Yes,Mother,Yes,Yes,2,Yes,Govt,84,Yes,64,82,66,71,65,Commerce
 7469,Mollah Riaz Mahmud,15,Male,City,3,HSC,SSC,Yes,Yes,Father,Yes,Yes,3,No,Govt,82,No,77,90,52,72,76,Commerce
 7470,Tasnia Tabassum Oritri,17,Female,City,7,Diploma,Masters,No,Yes,Mother,No,Yes,5,Yes,Govt,84,Yes,82,77,84,65,72,Science
 7471,Md. Mahmudul Hasan,15,Male,Urban,3,Diploma,Diploma,No,No,Father,Yes,Yes,8,Yes,Govt,73,Yes,78,64,74,56,45,Arts
 7472,Md. Sifat Sharif,15,Male,Urban,5,SSC,Diploma,No,Yes,Mother,No,No,7,No,Govt,39,No,45,48,60,69,52,Arts
 7473,Sumite Das Shatu,18,Female,Urban,6,HSC,Masters,No,Yes,Father,Yes,Yes,8,Yes,Govt,45,Yes,56,48,42,80,84,Commerce
-7474,Rashadul Islam,18,Male,City,5,SSC,Hons,No,Yes,Mother,No,Yes,5,No,Govt,60,Yes,65,50,58,54,78,Arts
+7474,Rashadul Islam,18,Male,City,5,SSC,Honors,No,Yes,Mother,No,Yes,5,No,Govt,60,Yes,65,50,58,54,78,Arts
 7475,Sotorupa Adhikari Keya,19,Female,City,4,HSC,Diploma,No,Yes,Father,Yes,Yes,5,Yes,Govt,40,No,52,48,48,56,76,Arts
-7476,Md. Toufik Hassan,16,Male,Urban,4,Hons,Hons,No,Yes,Mother,No,Yes,5,No,Govt,52,Yes,40,65,66,86,73,Commerce
+7476,Md. Toufik Hassan,16,Male,Urban,4,Honors,Honors,No,Yes,Mother,No,Yes,5,No,Govt,52,Yes,40,65,66,86,73,Commerce
 7477,Md. Firoz Hasan,19,Male,Rural,5,Under_SSC,Under_SSC,No,Yes,Father,Yes,Yes,4,Yes,Govt,53,Yes,42,62,51,75,72,Commerce
 7478,Tanjin Amin,16,Female,Rural,5,SSC,SSC,No,Yes,Mother,No,Yes,4,No,Govt,52,No,54,65,52,65,92,Commerce
-7479,Umme Habiba Faria,18,Female,City,6,SSC,Hons,No,Yes,Father,Yes,No,6,Yes,Govt,59,Yes,85,82,58,62,49,Arts
-7480,Tapu Chandra Singh,18,Male,Rural,5,Hons,HSC,No,Yes,Mother,No,Yes,6,Yes,Govt,56,Yes,45,74,62,63,50,Commerce
+7479,Umme Habiba Faria,18,Female,City,6,SSC,Honors,No,Yes,Father,Yes,No,6,Yes,Govt,59,Yes,85,82,58,62,49,Arts
+7480,Tapu Chandra Singh,18,Male,Rural,5,Honors,HSC,No,Yes,Mother,No,Yes,6,Yes,Govt,56,Yes,45,74,62,63,50,Commerce
 7481,Md. Ariful Islam,19,Male,Urban,4,HSC,Masters,No,Yes,Father,Yes,No,3,No,Govt,67,No,65,72,70,74,52,Commerce
 7482,Md. Fahim,19,Male,City,3,SSC,Diploma,No,Yes,Mother,Yes,No,6,Yes,Govt,68,Yes,54,48,72,78,64,Commerce
 7483,Most. Jame Khatun,19,Female,Urban,6,Under_SSC,Non_Educated,No,Yes,Father,Yes,Yes,7,No,Govt,85,Yes,88,92,85,78,80,Science
@@ -7486,64 +7486,64 @@
 7486,Rakib Sarkar,16,Male,Rural,5,HSC,Masters,No,Yes,Mother,Yes,Yes,5,Yes,Govt,85,Yes,75,85,82,86,86,Science
 7487,Md. Salim Reza Shanto,16,Male,City,4,SSC,Diploma,Yes,Yes,Father,No,No,6,Yes,Govt,77,Yes,75,74,72,72,80,Science
 7488,Mst. Borna Sarkar,15,Female,City,5,HSC,SSC,No,Yes,Father,Yes,Yes,4,Yes,Govt,64,Yes,80,82,89,75,54,Commerce
-7489,Afruz Dilruba Arshy,18,Female,Urban,4,Hons,Masters,No,Yes,Mother,No,Yes,1,Yes,Govt,64,Yes,85,82,78,71,55,Commerce
+7489,Afruz Dilruba Arshy,18,Female,Urban,4,Honors,Masters,No,Yes,Mother,No,Yes,1,Yes,Govt,64,Yes,85,82,78,71,55,Commerce
 7490,Sharna Rani Bhawal,18,Female,Rural,3,HSC,HSC,Yes,No,Father,Yes,No,6,Yes,Govt,72,Yes,88,95,93,75,58,Commerce
-7491,Sadia Amin,18,Female,City,3,Hons,Diploma,Yes,Yes,Father,Yes,Yes,6,Yes,Govt,67,Yes,55,62,65,76,54,Arts
+7491,Sadia Amin,18,Female,City,3,Honors,Diploma,Yes,Yes,Father,Yes,Yes,6,Yes,Govt,67,Yes,55,62,65,76,54,Arts
 7492,Md. Ashikuzzaman,19,Male,Urban,3,Under_SSC,HSC,No,Yes,Father,Yes,Yes,2,Yes,Govt,67,Yes,60,60,70,80,66,Commerce
 7493,Md. Golam Saklayen Anas,19,Male,Rural,5,SSC,HSC,No,Yes,Mother,Yes,No,3,No,Govt,62,Yes,65,70,65,77,87,Commerce
 7494,Sujan Kumar,15,Male,City,3,HSC,Diploma,No,Yes,Father,Yes,Yes,5,No,Govt,45,Yes,62,52,62,79,80,Commerce
 7495,Jannatul Minha,17,Female,Urban,5,HSC,SSC,No,Yes,Other,No,Yes,8,Yes,Govt,67,Yes,58,48,87,82,75,Science
 7496,Jannatul Ferdous Juma,15,Female,Rural,4,Masters,SSC,Yes,Yes,Father,No,No,7,Yes,Govt,53,Yes,75,74,54,81,74,Commerce
-7497,Md. Iklach Pk,16,Male,City,3,Hons,Masters,No,Yes,Father,Yes,Yes,8,Yes,Govt,47,No,74,80,55,65,76,Arts
-7498,Towfiq Ahmed Chowdhury,16,Male,Urban,4,Hons,HSC,Yes,No,Father,Yes,Yes,4,No,Govt,59,Yes,71,56,58,68,72,Arts
-7499,Sumaiya Akhter,17,Female,City,5,Diploma,Hons,No,Yes,Father,Yes,No,4,Yes,Govt,71,Yes,76,69,78,71,81,Science
+7497,Md. Iklach Pk,16,Male,City,3,Honors,Masters,No,Yes,Father,Yes,Yes,8,Yes,Govt,47,No,74,80,55,65,76,Arts
+7498,Towfiq Ahmed Chowdhury,16,Male,Urban,4,Honors,HSC,Yes,No,Father,Yes,Yes,4,No,Govt,59,Yes,71,56,58,68,72,Arts
+7499,Sumaiya Akhter,17,Female,City,5,Diploma,Honors,No,Yes,Father,Yes,No,4,Yes,Govt,71,Yes,76,69,78,71,81,Science
 7500,Sanjida Jahan Sadia,18,Female,Urban,3,Diploma,HSC,No,Yes,Father,Yes,Yes,6,Yes,Govt,67,No,73,70,87,65,54,Commerce
-7501,Sanzida Akther Anonto,19,Female,Rural,3,Hons,Masters,No,Yes,Father,Yes,Yes,6,Yes,Govt,65,No,69,70,81,68,66,Commerce
-7502,Arpita Ghosh,17,Female,City,5,Hons,Hons,No,Yes,Mother,Yes,No,2,Yes,Govt,72,Yes,64,45,71,63,71,Commerce
+7501,Sanzida Akther Anonto,19,Female,Rural,3,Honors,Masters,No,Yes,Father,Yes,Yes,6,Yes,Govt,65,No,69,70,81,68,66,Commerce
+7502,Arpita Ghosh,17,Female,City,5,Honors,Honors,No,Yes,Mother,Yes,No,2,Yes,Govt,72,Yes,64,45,71,63,71,Commerce
 7503,Rubaya Maksura,18,Female,Rural,3,HSC,HSC,No,Yes,Father,No,Yes,3,No,Govt,74,Yes,78,80,72,62,62,Commerce
 7504,Tahera Afroza,19,Female,City,4,SSC,Masters,No,Yes,Mother,No,Yes,5,Yes,Govt,71,Yes,80,82,45,75,65,Arts
 7505,Mosarrat Jahan Nuha,15,Female,Rural,4,Diploma,Diploma,No,Yes,Father,Yes,No,8,Yes,Govt,64,Yes,82,71,76,76,72,Commerce
-7506,Bristy Rani Sarker,18,Female,Urban,3,SSC,Hons,No,Yes,Father,Yes,Yes,7,Yes,Govt,68,Yes,48,68,52,42,74,Arts
+7506,Bristy Rani Sarker,18,Female,Urban,3,SSC,Honors,No,Yes,Father,Yes,Yes,7,Yes,Govt,68,Yes,48,68,52,42,74,Arts
 7507,Ishrat Jahan Nishat,15,Female,City,3,HSC,SSC,No,Yes,Father,Yes,Yes,8,Yes,Govt,72,Yes,50,50,64,65,75,Commerce
 7508,Masuma Binta Maria,15,Female,Rural,4,SSC,SSC,No,Yes,Father,Yes,No,2,No,Govt,67,Yes,52,67,68,45,72,Arts
-7509,Md. Juwel Rana,18,Male,Urban,5,HSC,Hons,No,No,Father,Yes,Yes,3,No,Govt,81,Yes,53,52,60,58,71,Commerce
-7510,Rabeya Bosri,19,Female,City,6,Hons,HSC,No,No,Father,Yes,Yes,2,Yes,Govt,85,No,80,78,76,85,65,Science
+7509,Md. Juwel Rana,18,Male,Urban,5,HSC,Honors,No,No,Father,Yes,Yes,3,No,Govt,81,Yes,53,52,60,58,71,Commerce
+7510,Rabeya Bosri,19,Female,City,6,Honors,HSC,No,No,Father,Yes,Yes,2,Yes,Govt,85,No,80,78,76,85,65,Science
 7511,Most. Murshida Jahan Mitu,16,Female,Rural,3,Under_SSC,SSC,No,Yes,Father,Yes,No,4,Yes,Govt,62,Yes,85,84,74,75,72,Commerce
-7512,Rakib Rahman Ruddra,16,Male,Urban,4,Hons,Diploma,No,Yes,Father,Yes,Yes,5,Yes,Govt,64,Yes,84,73,67,47,69,Commerce
-7513,Faiza Tasnim Nudar,19,Female,City,5,Hons,Masters,No,Yes,Father,Yes,Yes,6,No,Govt,76,Yes,71,78,75,78,84,Science
+7512,Rakib Rahman Ruddra,16,Male,Urban,4,Honors,Diploma,No,Yes,Father,Yes,Yes,5,Yes,Govt,64,Yes,84,73,67,47,69,Commerce
+7513,Faiza Tasnim Nudar,19,Female,City,5,Honors,Masters,No,Yes,Father,Yes,Yes,6,No,Govt,76,Yes,71,78,75,78,84,Science
 7514,Mafrin Zannat Mila,16,Female,Rural,6,Non_Educated,Under_SSC,No,No,Father,Yes,No,5,Yes,Govt,88,Yes,78,80,65,90,92,Science
 7515,Shreya Basak,18,Female,Urban,4,Diploma,Diploma,Yes,Yes,Father,Yes,Yes,4,Yes,Govt,85,Yes,90,92,80,65,75,Science
 7516,Parmita Saha Setu,18,Female,City,5,SSC,Masters,No,Yes,Father,Yes,Yes,8,Yes,Govt,67,Yes,65,70,50,66,86,Commerce
 7517,Nayeema Ferdousi,19,Female,Urban,3,HSC,Diploma,No,Yes,Mother,Yes,No,6,Yes,Govt,60,Yes,65,65,52,63,71,Arts
 7518,Prodipto Paul,18,Male,City,3,SSC,SSC,No,Yes,Father,No,Yes,5,No,Govt,55,Yes,92,82,82,77,71,Science
 7519,Md. Ayewob Hasan,19,Male,Urban,3,HSC,Masters,Yes,Yes,Mother,Yes,Yes,2,No,Govt,52,Yes,88,70,69,76,62,Commerce
-7520,Bakhtiar Khan,16,Male,City,5,Hons,Hons,No,Yes,Father,Yes,No,2,No,Govt,53,Yes,56,65,65,74,72,Commerce
+7520,Bakhtiar Khan,16,Male,City,5,Honors,Honors,No,Yes,Father,Yes,No,2,No,Govt,53,Yes,56,65,65,74,72,Commerce
 7521,Nirupa Paul,18,Female,Urban,3,SSC,Diploma,No,Yes,Mother,Yes,Yes,1,No,Govt,86,Yes,64,82,66,71,65,Commerce
 7522,Orpita Banik,15,Female,Rural,5,HSC,HSC,No,Yes,Other,Yes,Yes,5,Yes,Govt,87,Yes,77,90,52,72,76,Commerce
-7523,Masoma Akter,18,Female,City,3,HSC,Hons,No,Yes,Father,No,No,5,Yes,Govt,60,Yes,82,77,84,65,72,Science
+7523,Masoma Akter,18,Female,City,3,HSC,Honors,No,Yes,Father,No,No,5,Yes,Govt,60,Yes,82,77,84,65,72,Science
 7524,Kasfia Islam,19,Female,Urban,4,Non_Educated,Under_SSC,No,No,Father,Yes,Yes,4,No,Govt,70,Yes,78,64,74,56,45,Arts
 7525,Arpo Chakraborti,16,Female,Rural,4,Diploma,HSC,No,Yes,Father,Yes,Yes,4,No,Govt,69,Yes,45,48,60,69,52,Arts
 7526,Mst. Rima Khatun,18,Female,City,4,SSC,HSC,No,Yes,Father,Yes,No,6,Yes,Govt,52,Yes,56,48,42,80,84,Commerce
 7527,Tahmina Begum,19,Female,Urban,3,HSC,Masters,No,Yes,Mother,Yes,Yes,6,Yes,Govt,56,Yes,65,50,58,54,78,Arts
 7528,Nabila Afrun,16,Female,Rural,3,SSC,Diploma,No,Yes,Father,No,Yes,3,Yes,Govt,50,Yes,52,48,48,56,76,Arts
 7529,M.N. Mahmudul Hasan,16,Male,City,5,HSC,SSC,No,Yes,Father,Yes,No,6,Yes,Govt,60,Yes,40,65,66,86,73,Commerce
-7530,Faiza Saraban Tahura,18,Female,Urban,6,Hons,Masters,No,Yes,Father,Yes,Yes,7,No,Govt,90,Yes,42,62,51,75,72,Commerce
+7530,Faiza Saraban Tahura,18,Female,Urban,6,Honors,Masters,No,Yes,Father,Yes,Yes,7,No,Govt,90,Yes,42,62,51,75,72,Commerce
 7531,Md. Washim Akram,16,Male,Rural,3,Under_SSC,HSC,No,Yes,Mother,Yes,Yes,2,Yes,Govt,84,No,54,65,52,65,92,Commerce
 7532,Mohi Alam Fuad,18,Male,City,4,SSC,Diploma,No,Yes,Father,Yes,No,3,Yes,Govt,75,Yes,85,82,58,62,49,Arts
 7533,Md. Fahmid Hasan Taohid,19,Male,Urban,8,HSC,HSC,No,Yes,Mother,Yes,Yes,2,No,Govt,87,Yes,45,74,62,63,50,Commerce
 7534,Rounak Islam,17,Male,Rural,9,HSC,HSC,No,Yes,Mother,Yes,No,4,No,Govt,83,Yes,65,72,70,74,52,Commerce
 7535,Md.Tasvir Siddique Sohag,18,Male,City,3,Masters,Diploma,No,Yes,Father,Yes,Yes,5,Yes,Govt,89,Yes,54,48,72,78,64,Commerce
-7536,Sadia Sultana,19,Female,Urban,4,Hons,SSC,No,Yes,Other,No,Yes,6,Yes,Govt,91,Yes,88,92,85,78,80,Science
-7537,Dipu Chandro Roy,17,Male,Rural,3,Hons,SSC,No,Yes,Mother,No,Yes,5,Yes,Govt,84,Yes,72,65,70,71,55,Commerce
+7536,Sadia Sultana,19,Female,Urban,4,Honors,SSC,No,Yes,Other,No,Yes,6,Yes,Govt,91,Yes,88,92,85,78,80,Science
+7537,Dipu Chandro Roy,17,Male,Rural,3,Honors,SSC,No,Yes,Mother,No,Yes,5,Yes,Govt,84,Yes,72,65,70,71,55,Commerce
 7538,Airin Rahman Prome,18,Female,City,4,Diploma,Masters,No,Yes,Father,No,No,4,Yes,Govt,92,Yes,75,78,80,82,72,Science
 7539,Kazi Mahbubur Rahman,18,Male,Urban,4,Diploma,HSC,Yes,No,Father,Yes,Yes,4,No,Govt,90,Yes,82,85,87,80,83,Science
-7540,Mithila Akter Toma,18,Female,Rural,3,Hons,Masters,No,Yes,Father,Yes,No,4,Yes,Govt,83,Yes,70,71,72,86,72,Commerce
-7541,Nusrat -E -Jahan Esha,18,Female,City,5,Hons,Diploma,No,Yes,Father,Yes,Yes,6,Yes,Govt,91,No,88,84,86,83,85,Science
+7540,Mithila Akter Toma,18,Female,Rural,3,Honors,Masters,No,Yes,Father,Yes,No,4,Yes,Govt,83,Yes,70,71,72,86,72,Commerce
+7541,Nusrat -E -Jahan Esha,18,Female,City,5,Honors,Diploma,No,Yes,Father,Yes,Yes,6,Yes,Govt,91,No,88,84,86,83,85,Science
 7542,Most. Touhida Naznin Ripa,16,Female,Urban,6,HSC,HSC,No,Yes,Father,Yes,Yes,6,Yes,Govt,90,No,78,71,80,77,79,Science
 7543,Nafisa Samiha,19,Female,Rural,3,SSC,HSC,Yes,No,Mother,No,No,2,No,Govt,84,Yes,71,70,73,69,72,Commerce
 7544,Mst. Taslima Akter,18,Female,City,5,SSC,Masters,No,Yes,Mother,Yes,Yes,3,Yes,Govt,92,Yes,83,86,84,85,92,Science
-7545,Swikriti Barman,18,Male,Urban,4,Hons,Diploma,No,Yes,Father,Yes,Yes,5,No,Govt,84,Yes,65,70,68,66,86,Arts
-7546,Jarin Tasnim,16,Female,Rural,8,Hons,SSC,Yes,No,Father,Yes,No,6,No,Govt,86,Yes,75,70,71,73,86,Commerce
+7545,Swikriti Barman,18,Male,Urban,4,Honors,Diploma,No,Yes,Father,Yes,Yes,5,No,Govt,84,Yes,65,70,68,66,86,Arts
+7546,Jarin Tasnim,16,Female,Rural,8,Honors,SSC,Yes,No,Father,Yes,No,6,No,Govt,86,Yes,75,70,71,73,86,Commerce
 7547,Mst. Alea Jerin,19,Female,City,4,HSC,Masters,No,Yes,Mother,No,Yes,6,Yes,Govt,90,Yes,87,89,86,88,84,Science
 7548,Ifran Yousuf Shihab,19,Male,Urban,5,SSC,HSC,No,Yes,Father,No,Yes,5,Yes,Govt,50,Yes,73,70,75,72,86,Commerce
 7549,Farjana Akther Mim,19,Female,Rural,6,Under_SSC,Diploma,No,Yes,Father,Yes,No,6,Yes,Govt,72,Yes,78,71,73,86,71,Commerce
@@ -7552,18 +7552,18 @@
 7552,Md. Saidur Rahman,17,Male,City,4,HSC,Diploma,No,Yes,Mother,Yes,No,5,Yes,Govt,56,Yes,69,70,68,66,86,Commerce
 7553,Al Rafue,18,Male,Urban,5,SSC,SSC,No,Yes,Mother,Yes,Yes,6,No,Govt,65,Yes,78,71,79,77,75,Science
 7554,Md. Alamin Mondol,18,Male,Rural,6,HSC,SSC,Yes,No,Father,No,Yes,6,No,Govt,57,Yes,68,70,72,69,86,Commerce
-7555,Md. Delowar Hossain,16,Male,City,3,Hons,Masters,No,Yes,Father,Yes,No,5,Yes,Govt,74,Yes,89,85,87,86,84,Science
+7555,Md. Delowar Hossain,16,Male,City,3,Honors,Masters,No,Yes,Father,Yes,No,5,Yes,Govt,74,Yes,89,85,87,86,84,Science
 7556,Md. Eyamul Islam Baki,16,Male,Urban,4,SSC,HSC,No,Yes,Mother,No,Yes,7,Yes,Govt,63,Yes,77,72,75,76,78,Commerce
 7557,Md. Shakibul Hasan,19,Male,Rural,5,HSC,HSC,No,Yes,Father,Yes,Yes,6,No,Govt,66,No,65,68,64,67,72,Arts
 7558,Dewan Rizwan Ahmed,16,Male,City,5,SSC,Masters,No,Yes,Mother,Yes,Yes,4,Yes,Govt,92,Yes,84,86,83,82,80,Science
 7559,Shawan Das Pappu,16,Male,City,6,HSC,Diploma,No,Yes,Father,Yes,Yes,5,Yes,Govt,89,Yes,85,92,87,83,92,Science
-7560,Jarin Tasnim Alin,16,Female,Urban,3,Hons,Hons,No,Yes,Other,No,No,6,Yes,Govt,90,Yes,78,71,80,76,78,Science
+7560,Jarin Tasnim Alin,16,Female,Urban,3,Honors,Honors,No,Yes,Other,No,No,6,Yes,Govt,90,Yes,78,71,80,76,78,Science
 7561,Rochira Tabassum,15,Female,Rural,5,Under_SSC,Under_SSC,No,Yes,Father,Yes,Yes,6,No,Govt,50,Yes,70,70,68,65,71,Commerce
-7562,Md. Mahadi Hasan,18,Male,City,4,Diploma,Hons,No,Yes,Mother,Yes,Yes,5,No,Govt,75,Yes,68,70,65,68,66,Commerce
+7562,Md. Mahadi Hasan,18,Male,City,4,Diploma,Honors,No,Yes,Mother,Yes,Yes,5,No,Govt,75,Yes,68,70,65,68,66,Commerce
 7563,Md. Arif,15,Male,Urban,8,SSC,Diploma,No,Yes,Father,No,Yes,7,Yes,Govt,87,Yes,90,92,89,85,84,Science
 7564,Khalid Hasan,15,Male,Rural,4,HSC,HSC,No,Yes,Other,Yes,No,6,No,Govt,52,No,64,67,63,62,71,Arts
-7565,Shomaya Binte Amdad,18,Female,City,5,SSC,Hons,No,Yes,Mother,Yes,Yes,8,Yes,Govt,71,Yes,85,82,83,81,80,Science
-7566,Tasfia Jannat Shaily,17,Female,Rural,5,Hons,Hons,No,Yes,Father,No,No,8,Yes,Govt,50,Yes,78,82,79,75,76,Commerce
+7565,Shomaya Binte Amdad,18,Female,City,5,SSC,Honors,No,Yes,Mother,Yes,Yes,8,Yes,Govt,71,Yes,85,82,83,81,80,Science
+7566,Tasfia Jannat Shaily,17,Female,Rural,5,Honors,Honors,No,Yes,Father,No,No,8,Yes,Govt,50,Yes,78,82,79,75,76,Commerce
 7567,Jannatul Ferdous Aoyshi,19,Female,Urban,6,HSC,Masters,No,Yes,Other,Yes,Yes,6,No,Govt,55,No,67,68,69,65,62,Arts
 7568,Md. Ashraful Alam Sakib,15,Male,City,3,SSC,Masters,No,Yes,Mother,Yes,Yes,5,Yes,Govt,93,Yes,88,85,83,80,92,Science
 7569,Tahamina Akther Shammi,16,Female,Rural,5,Under_SSC,HSC,No,Yes,Father,No,No,2,Yes,Govt,69,Yes,60,48,58,65,66,Arts
@@ -7571,7 +7571,7 @@
 7571,Sabiha Sultana Bristy,15,Female,City,8,HSC,HSC,No,No,Father,Yes,Yes,1,Yes,Govt,90,Yes,90,89,88,85,86,Science
 7572,Shuaiba Chowdhury Khushbu,15,Female,Rural,4,HSC,HSC,Yes,Yes,Other,No,No,5,Yes,Govt,68,Yes,50,48,53,71,62,Arts
 7573,Bushra Kabir,18,Female,Urban,5,Diploma,Diploma,No,Yes,Father,Yes,Yes,5,No,Govt,89,No,75,70,78,77,86,Commerce
-7574,Ummy Habiba,16,Female,City,6,Hons,Masters,No,Yes,Mother,Yes,Yes,6,Yes,Govt,91,Yes,84,92,83,85,92,Science
+7574,Ummy Habiba,16,Female,City,6,Honors,Masters,No,Yes,Mother,Yes,Yes,6,Yes,Govt,91,Yes,84,92,83,85,92,Science
 7575,Faria-Tuj-Johura,17,Female,Rural,5,Under_SSC,SSC,No,Yes,Father,No,No,6,Yes,Govt,89,Yes,68,70,71,65,67,Commerce
 7576,Md. Fahimul Haque,18,Male,Urban,6,SSC,Masters,No,Yes,Other,Yes,Yes,5,No,Govt,90,No,92,89,91,90,85,Science
 7577,Md. Shohaib Hassan Sarker,19,Male,Rural,4,HSC,HSC,No,Yes,Mother,Yes,Yes,6,Yes,Govt,68,Yes,63,67,60,66,71,Arts
@@ -7583,53 +7583,53 @@
 7583,Mst. Suraiya Yesmin,16,Female,Rural,5,Non_Educated,SSC,No,Yes,Mother,Yes,Yes,5,Yes,Govt,86,Yes,68,70,72,68,69,Commerce
 7584,Mst. Hafsha Khatun,18,Female,Urban,5,Diploma,Diploma,Yes,Yes,Father,No,No,7,Yes,Govt,90,Yes,92,91,88,87,90,Science
 7585,Imtiazh Ahamed Ome,18,Male,City,6,SSC,HSC,No,Yes,Other,Yes,Yes,6,No,Govt,45,No,60,63,62,61,58,Arts
-7586,Sabrina Zannat,18,Female,Rural,4,HSC,Hons,No,Yes,Mother,Yes,Yes,4,Yes,Govt,72,Yes,72,71,71,74,76,Commerce
-7587,Ahmed Ibne Sakin Azim,18,Male,Urban,4,SSC,Hons,No,Yes,Father,No,No,5,Yes,Govt,93,Yes,89,92,91,87,88,Science
+7586,Sabrina Zannat,18,Female,Rural,4,HSC,Honors,No,Yes,Mother,Yes,Yes,4,Yes,Govt,72,Yes,72,71,71,74,76,Commerce
+7587,Ahmed Ibne Sakin Azim,18,Male,Urban,4,SSC,Honors,No,Yes,Father,No,No,5,Yes,Govt,93,Yes,89,92,91,87,88,Science
 7588,Md. Tawhid Al-Abed,18,Male,City,3,SSC,Masters,No,Yes,Mother,Yes,Yes,5,No,Govt,84,No,80,78,75,74,73,Commerce
 7589,Md. Abdul Awal,18,Male,Rural,3,HSC,Masters,No,Yes,Father,Yes,Yes,6,Yes,Govt,70,Yes,67,65,62,64,62,Arts
-7590,Mst. Falguni Khatun,16,Female,Urban,4,Hons,HSC,Yes,No,Other,No,No,4,Yes,Govt,90,Yes,85,89,87,82,80,Science
+7590,Mst. Falguni Khatun,16,Female,Urban,4,Honors,HSC,Yes,No,Other,No,No,4,Yes,Govt,90,Yes,85,89,87,82,80,Science
 7591,Jarin Tasnim Riza,18,Female,City,4,HSC,Diploma,No,Yes,Father,Yes,Yes,2,No,Govt,83,No,76,75,80,78,75,Commerce
 7592,Al Mamun Olik,17,Male,Rural,3,Under_SSC,HSC,No,Yes,Mother,Yes,Yes,3,Yes,Govt,69,Yes,58,60,59,57,66,Arts
-7593,Swapna Rani Das,17,Female,Urban,5,SSC,Hons,No,Yes,Father,No,Yes,2,Yes,Govt,91,Yes,83,85,87,80,92,Science
+7593,Swapna Rani Das,17,Female,Urban,5,SSC,Honors,No,Yes,Father,No,Yes,2,Yes,Govt,91,Yes,83,85,87,80,92,Science
 7594,Mehnaz Muntaha,18,Female,City,5,HSC,Diploma,No,Yes,Mother,Yes,Yes,4,No,Govt,89,No,62,64,60,66,65,Commerce
 7595,Nazim Mahmud Tanvir,18,Male,Rural,4,HSC,SSC,No,Yes,Father,Yes,Yes,5,Yes,Govt,90,Yes,91,90,89,87,86,Science
 7596,Shahariar Alam Nayan,18,Male,Urban,4,Masters,Masters,Yes,Yes,Other,No,No,6,Yes,Govt,83,Yes,78,71,72,74,86,Commerce
-7597,Md.Tanjid Mia,19,Male,City,3,Hons,Hons,Yes,Yes,Father,Yes,Yes,5,No,Govt,86,No,69,67,65,63,64,Arts
-7598,Afia Farjana Etu,17,Female,Rural,3,Hons,Diploma,No,Yes,Mother,Yes,Yes,4,Yes,Govt,55,Yes,88,85,83,82,80,Science
+7597,Md.Tanjid Mia,19,Male,City,3,Honors,Honors,Yes,Yes,Father,Yes,Yes,5,No,Govt,86,No,69,67,65,63,64,Arts
+7598,Afia Farjana Etu,17,Female,Rural,3,Honors,Diploma,No,Yes,Mother,Yes,Yes,4,Yes,Govt,55,Yes,88,85,83,82,80,Science
 7599,Mithila Rahman Mukta,17,Female,Urban,4,Diploma,Diploma,No,Yes,Father,No,Yes,4,Yes,Govt,77,Yes,82,85,87,80,83,Science
 7600,Sayema Shanta,18,Female,City,4,Diploma,HSC,No,Yes,Mother,Yes,Yes,5,No,Govt,45,No,70,71,72,86,72,Commerce
-7601,Nafisa Afrin Jeny,19,Female,Rural,3,Hons,Masters,No,Yes,Father,Yes,Yes,6,Yes,Govt,67,Yes,88,84,86,83,85,Science
-7602,Md. Shafayatul Islam Tokey,18,Male,Urban,5,Hons,Hons,No,Yes,Other,No,Yes,6,Yes,Govt,63,Yes,78,71,80,77,79,Science
-7603,Mazharul Islam,16,Male,City,5,HSC,Hons,No,Yes,Father,Yes,Yes,5,No,Govt,52,No,71,70,73,69,72,Commerce
+7601,Nafisa Afrin Jeny,19,Female,Rural,3,Honors,Masters,No,Yes,Father,Yes,Yes,6,Yes,Govt,67,Yes,88,84,86,83,85,Science
+7602,Md. Shafayatul Islam Tokey,18,Male,Urban,5,Honors,Honors,No,Yes,Other,No,Yes,6,Yes,Govt,63,Yes,78,71,80,77,79,Science
+7603,Mazharul Islam,16,Male,City,5,HSC,Honors,No,Yes,Father,Yes,Yes,5,No,Govt,52,No,71,70,73,69,72,Commerce
 7604,Khairul Kabir,17,Male,Rural,6,SSC,SSC,No,Yes,Mother,Yes,Yes,7,Yes,Govt,71,Yes,83,86,84,85,92,Science
 7605,Auntor Chandra Das,18,Male,Urban,3,HSC,SSC,No,Yes,Father,No,Yes,6,Yes,Govt,56,Yes,65,70,68,66,86,Arts
-7606,Ashiqur Rahman,19,Male,City,5,Diploma,Hons,No,Yes,Mother,Yes,Yes,4,No,Govt,67,No,75,70,71,73,86,Commerce
+7606,Ashiqur Rahman,19,Male,City,5,Diploma,Honors,No,Yes,Mother,Yes,Yes,4,No,Govt,67,No,75,70,71,73,86,Commerce
 7607,Akhe Akter,16,Female,Rural,4,Under_SSC,SSC,No,Yes,Father,Yes,Yes,5,Yes,Govt,83,Yes,87,89,86,88,84,Science
-7608,Simla Akter,18,Female,Urban,3,Hons,Masters,Yes,Yes,Mother,No,Yes,4,Yes,Govt,72,Yes,73,70,75,72,86,Commerce
+7608,Simla Akter,18,Female,Urban,3,Honors,Masters,Yes,Yes,Mother,No,Yes,4,Yes,Govt,72,Yes,73,70,75,72,86,Commerce
 7609,Tunmun Chakrabarty,18,Female,City,4,Diploma,Diploma,No,Yes,Father,Yes,Yes,3,No,Govt,74,No,78,71,73,86,71,Commerce
 7610,Tanjila Afroz,19,Female,City,3,SSC,HSC,No,Yes,Other,No,Yes,2,Yes,Govt,69,Yes,65,68,66,86,69,Arts
-7611,Aminul Haque,18,Male,City,5,Hons,Masters,Yes,Yes,Father,Yes,Yes,6,Yes,Govt,92,Yes,85,84,87,82,80,Science
+7611,Aminul Haque,18,Male,City,5,Honors,Masters,Yes,Yes,Father,Yes,Yes,6,Yes,Govt,92,Yes,85,84,87,82,80,Science
 7612,Farzana Islam,18,Female,Rural,6,SSC,HSC,No,Yes,Mother,Yes,Yes,5,No,Govt,82,No,69,70,68,66,86,Commerce
 7613,Jamil Hossain,15,Male,Urban,4,Diploma,Diploma,Yes,Yes,Father,Yes,Yes,8,Yes,Govt,93,Yes,78,71,79,77,75,Science
 7614,Sumaiya Begum,17,Female,City,3,HSC,SSC,Yes,No,Mother,No,Yes,7,No,Govt,86,No,68,70,72,69,86,Commerce
 7615,Rafiq Ahmed,15,Male,Rural,7,Masters,HSC,No,Yes,Other,Yes,No,6,Yes,Govt,86,Yes,89,85,87,86,84,Science
-7616,Nusrat Jahan,16,Female,City,5,Hons,Masters,Yes,Yes,Father,No,Yes,7,Yes,Govt,88,Yes,77,72,75,76,78,Commerce
+7616,Nusrat Jahan,16,Female,City,5,Honors,Masters,Yes,Yes,Father,No,Yes,7,Yes,Govt,88,Yes,77,72,75,76,78,Commerce
 7617,Mehedi Hasan,17,Male,Urban,6,Diploma,HSC,Yes,No,Mother,Yes,Yes,5,Yes,Govt,70,Yes,65,68,64,67,72,Arts
 7618,Shakila Parvin,18,Female,City,4,HSC,SSC,No,Yes,Father,Yes,No,6,No,Private,84,No,84,86,83,82,80,Science
 7619,Nasir Uddin,18,Male,Rural,6,SSC,HSC,Yes,Yes,Other,No,No,7,Yes,Private,90,Yes,85,92,87,83,92,Science
 7620,Samina Akter,16,Female,Urban,5,HSC,Diploma,Yes,Yes,Mother,Yes,Yes,6,No,Private,85,No,78,71,80,76,78,Science
-7621,Shahidul Islam,17,Male,City,4,Hons,Masters,No,No,Father,Yes,Yes,8,Yes,Private,85,Yes,70,70,68,65,71,Commerce
+7621,Shahidul Islam,17,Male,City,4,Honors,Masters,No,No,Father,Yes,Yes,8,Yes,Private,85,Yes,70,70,68,65,71,Commerce
 7622,Tasnia Rahman,17,Female,Rural,3,HSC,SSC,Yes,Yes,Other,No,Yes,6,Yes,Private,77,Yes,68,70,65,68,66,Commerce
 7623,Saif Ahmed,15,Male,Urban,5,Diploma,HSC,Yes,Yes,Father,Yes,Yes,7,No,Private,91,No,90,92,89,85,84,Science
-7624,Laila Sultana,18,Female,City,6,Masters,Hons,Yes,No,Mother,Yes,No,5,Yes,Private,74,Yes,64,67,63,62,71,Arts
+7624,Laila Sultana,18,Female,City,6,Masters,Honors,Yes,No,Mother,Yes,No,5,Yes,Private,74,Yes,64,67,63,62,71,Arts
 7625,Habib Chowdhury,16,Male,Urban,4,SSC,HSC,Yes,No,Father,No,Yes,7,Yes,Private,85,Yes,85,82,83,81,80,Science
 7626,Rina Akter,16,Female,Rural,5,HSC,SSC,No,Yes,Mother,Yes,Yes,6,No,Private,81,No,78,82,79,75,76,Commerce
 7627,Mahmudul Hasan,18,Male,City,5,Diploma,SSC,Yes,Yes,Other,Yes,No,7,Yes,Semi_Govt,77,Yes,67,68,69,65,62,Arts
-7628,Afsana Khatun,17,Female,Urban,6,Hons,Masters,Yes,Yes,Father,No,Yes,8,Yes,Semi_Govt,88,Yes,88,85,83,80,92,Science
+7628,Afsana Khatun,17,Female,Urban,6,Honors,Masters,Yes,Yes,Father,No,Yes,8,Yes,Semi_Govt,88,Yes,88,85,83,80,92,Science
 7629,Kamrul Islam,17,Male,Rural,5,SSC,Diploma,No,Yes,Mother,Yes,Yes,5,No,Semi_Govt,64,No,60,48,58,65,66,Arts
 7630,Sanzida Rahman,16,Female,City,4,HSC,SSC,Yes,No,Father,Yes,Yes,6,Yes,Semi_Govt,89,Yes,80,75,85,81,92,Science
-7631,Imran Hossain,16,Male,City,5,Hons,Masters,Yes,Yes,Other,No,Yes,6,Yes,Semi_Govt,94,Yes,90,89,88,85,86,Science
-7632,Nusaiba Rahman,17,Female,Urban,4,HSC,Hons,No,Yes,Mother,Yes,Yes,7,No,Semi_Govt,75,No,50,48,53,71,62,Arts
+7631,Imran Hossain,16,Male,City,5,Honors,Masters,Yes,Yes,Other,No,Yes,6,Yes,Semi_Govt,94,Yes,90,89,88,85,86,Science
+7632,Nusaiba Rahman,17,Female,Urban,4,HSC,Honors,No,Yes,Mother,Yes,Yes,7,No,Semi_Govt,75,No,50,48,53,71,62,Arts
 7633,Alif Islam,15,Male,Rural,6,SSC,Diploma,Yes,Yes,Father,Yes,Yes,5,Yes,Semi_Govt,77,Yes,75,70,78,77,86,Commerce
 7634,Ayesha Haque,18,Female,Urban,5,Diploma,HSC,No,No,Mother,Yes,No,8,Yes,Semi_Govt,90,Yes,84,92,83,85,92,Science
 7635,Shihab Mahmud,17,Male,City,4,HSC,HSC,Yes,Yes,Father,Yes,Yes,6,No,Semi_Govt,91,No,68,70,71,65,67,Commerce
@@ -7637,15 +7637,15 @@
 7637,Rafiq Ahmed,15,Male,Rural,7,Masters,HSC,No,Yes,Father,Yes,Yes,6,Yes,Semi_Govt,69,Yes,63,67,60,66,71,Arts
 7638,Sumaiya Begum,16,Female,Urban,6,SSC,SSC,Yes,Yes,Mother,Yes,Yes,4,Yes,Semi_Govt,89,Yes,80,83,81,85,78,Science
 7639,Hasan Rahman,17,Male,Urban,5,Diploma,Diploma,No,Yes,Father,Yes,No,7,Yes,Semi_Govt,85,No,85,92,90,83,80,Science
-7640,Saira Islam,16,Female,City,4,HSC,Hons,Yes,No,Mother,No,Yes,6,No,Semi_Govt,89,No,75,70,68,86,65,Commerce
-7641,Mahmudul Alam,18,Male,Rural,3,Hons,SSC,No,Yes,Father,Yes,Yes,7,Yes,Private,62,Yes,55,48,60,62,65,Arts
+7640,Saira Islam,16,Female,City,4,HSC,Honors,Yes,No,Mother,No,Yes,6,No,Semi_Govt,89,No,75,70,68,86,65,Commerce
+7641,Mahmudul Alam,18,Male,Rural,3,Honors,SSC,No,Yes,Father,Yes,Yes,7,Yes,Private,62,Yes,55,48,60,62,65,Arts
 7642,Fahim Hossain,17,Male,Urban,6,SSC,HSC,Yes,No,Other,No,Yes,8,No,Private,92,Yes,82,85,89,80,84,Science
-7643,Tahmina Khatun,15,Female,City,5,Hons,Masters,Yes,Yes,Father,Yes,Yes,7,Yes,Private,92,Yes,68,70,72,68,69,Commerce
+7643,Tahmina Khatun,15,Female,City,5,Honors,Masters,Yes,Yes,Father,Yes,Yes,7,Yes,Private,92,Yes,68,70,72,68,69,Commerce
 7644,Zubair Ahmed,18,Male,Rural,4,SSC,SSC,Yes,No,Mother,Yes,Yes,5,No,Private,90,No,92,91,88,87,90,Science
 7645,Mitu Sultana,16,Female,City,6,HSC,HSC,Yes,Yes,Father,No,No,6,Yes,Private,77,Yes,60,63,62,61,58,Arts
 7646,Jannatul Ferdous,17,Female,Urban,3,SSC,Diploma,No,Yes,Mother,Yes,Yes,6,No,Private,86,No,72,71,71,74,76,Commerce
 7647,Shahin Alam,18,Male,Urban,5,HSC,SSC,Yes,No,Father,Yes,No,6,Yes,Private,92,Yes,89,92,91,87,88,Science
-7648,Khaled Hossain,16,Male,City,6,Hons,Hons,No,Yes,Mother,No,Yes,5,No,Semi_Govt,93,Yes,80,78,75,74,73,Commerce
+7648,Khaled Hossain,16,Male,City,6,Honors,Honors,No,Yes,Mother,No,Yes,5,No,Semi_Govt,93,Yes,80,78,75,74,73,Commerce
 7649,Labiba Rahman,15,Female,City,3,SSC,HSC,Yes,Yes,Father,Yes,Yes,4,No,Semi_Govt,72,No,67,65,62,64,62,Arts
 7650,Adnan Mahmud,17,Male,Rural,4,Diploma,SSC,Yes,Yes,Mother,Yes,Yes,7,Yes,Semi_Govt,85,Yes,85,89,87,82,80,Science
 7651,Arif Hossain,17,Male,Urban,4,HSC,Diploma,Yes,No,Father,No,Yes,6,Yes,Semi_Govt,89,Yes,76,75,80,78,75,Commerce
